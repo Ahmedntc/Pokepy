@@ -1,0 +1,1011 @@
+Id,Nome,Type,Altura,Peso,Urls das Habilidades,Nomes das Habilidades,Evoluções
+0001,Bulbasaur,"Grass,Poison,Cerulean City",0.7 m (2′04″),6.9 kg (15.2 lbs),"/ability/overgrow,/ability/chlorophyll","overgrow,chlorophyll","Bulbasaur,Ivysaur,Venusaur"
+0006,Charizard,"Fire,Flying,Fire,Dragon,Fire,Flying",1.7 m (5′07″),90.5 kg (199.5 lbs),"/ability/blaze,/ability/solar-power,/ability/tough-claws,/ability/drought","blaze,solar-power,tough-claws,drought","Charmander,Charmeleon,Charizard"
+0013,Weedle,"Bug,Poison,Route 25,Viridian Forest",0.3 m (1′00″),3.2 kg (7.1 lbs),"/ability/shield-dust,/ability/run-away","shield-dust,run-away","Weedle,Kakuna,Beedrill"
+0012,Butterfree,"Bug,Flying,Route 2,26,27,34,35,36,37,38,39,Azalea Town,Ilex Forest,Lake of Rage,National Park",1.1 m (3′07″),32.0 kg (70.5 lbs),"/ability/compound-eyes,/ability/tinted-lens,/pokedex/caterpie,/pokedex/metapod","compound-eyes,tinted-lens,caterpie,metapod","Caterpie,Metapod,Butterfree"
+0011,Metapod,"Bug,Route 24,25,Viridian Forest",0.7 m (2′04″),9.9 kg (21.8 lbs),/ability/shed-skin,shed-skin,"Caterpie,Metapod,Butterfree"
+0010,Caterpie,"Bug,Route 2,24,25,Viridian Forest",0.3 m (1′00″),2.9 kg (6.4 lbs),"/ability/shield-dust,/ability/run-away","shield-dust,run-away","Caterpie,Metapod,Butterfree"
+0009,Blastoise,"Water,Water",1.6 m (5′03″),85.5 kg (188.5 lbs),"/ability/torrent,/ability/rain-dish,/ability/mega-launcher","torrent,rain-dish,mega-launcher","Squirtle,Wartortle,Blastoise"
+0008,Wartortle,Water,1.0 m (3′03″),22.5 kg (49.6 lbs),"/ability/torrent,/ability/rain-dish","torrent,rain-dish","Squirtle,Wartortle,Blastoise"
+0007,Squirtle,"Water,Vermilion City",0.5 m (1′08″),9.0 kg (19.8 lbs),"/ability/torrent,/ability/rain-dish","torrent,rain-dish","Squirtle,Wartortle,Blastoise"
+0005,Charmeleon,Fire,1.1 m (3′07″),19.0 kg (41.9 lbs),"/ability/blaze,/ability/solar-power","blaze,solar-power","Charmander,Charmeleon,Charizard"
+0004,Charmander,"Fire,Route 24",0.6 m (2′00″),8.5 kg (18.7 lbs),"/ability/blaze,/ability/solar-power","blaze,solar-power","Charmander,Charmeleon,Charizard"
+0003,Venusaur,"Grass,Poison,Grass,Poison",2.0 m (6′07″),100.0 kg (220.5 lbs),"/ability/overgrow,/ability/chlorophyll,/ability/thick-fat","overgrow,chlorophyll,thick-fat","Bulbasaur,Ivysaur,Venusaur"
+0002,Ivysaur,"Grass,Poison",1.0 m (3′03″),13.0 kg (28.7 lbs),"/ability/overgrow,/ability/chlorophyll","overgrow,chlorophyll","Bulbasaur,Ivysaur,Venusaur"
+0025,Pikachu,"Electric,Electric,Pallet Town",0.4 m (1′04″),6.0 kg (13.2 lbs),"/ability/static,/ability/lightning-rod","static,lightning-rod","Pichu,Pikachu"
+0024,Arbok,Poison,3.5 m (11′06″),65.0 kg (143.3 lbs),"/ability/intimidate,/ability/shed-skin,/ability/unnerve","intimidate,shed-skin,unnerve","Ekans,Arbok"
+0023,Ekans,Poison,2.0 m (6′07″),6.9 kg (15.2 lbs),"/ability/intimidate,/ability/shed-skin,/ability/unnerve","intimidate,shed-skin,unnerve","Ekans,Arbok"
+0022,Fearow,"Normal,Flying,Route 9,16,17,18,23",1.2 m (3′11″),38.0 kg (83.8 lbs),"/ability/keen-eye,/ability/sniper","keen-eye,sniper","Spearow,Fearow"
+0046,Paras,"Bug,Grass,Ilex Forest,Mt. Moon,National Park",0.3 m (1′00″),5.4 kg (11.9 lbs),"/ability/effect-spore,/ability/dry-skin,/ability/damp","effect-spore,dry-skin,damp","Paras,Parasect"
+0074,Geodude,"Rock,Ground,Rock,Electric,Route 45,46,Dark Cave,Mt. Moon,Mt. Mortar,Team Rocket HQ,Rock Tunnel,Union Cave",0.4 m (1′04″),20.0 kg (44.1 lbs),"/ability/rock-head,/ability/sturdy,/ability/sand-veil,/ability/magnet-pull,/ability/sturdy,/ability/galvanize","rock-head,sturdy,sand-veil,magnet-pull,sturdy,galvanize","Geodude,Graveler,Golem,Geodude,Graveler,Golem"
+0073,Tentacruel,"Water,Poison,Route 19,20,21",1.6 m (5′03″),55.0 kg (121.3 lbs),"/ability/clear-body,/ability/liquid-ooze,/ability/rain-dish","clear-body,liquid-ooze,rain-dish","Tentacool,Tentacruel"
+0072,Tentacool,"Water,Poison,Route 11,13,17,18,19,20,21,Pallet Town,Seafoam Islands,Vermilion City",0.9 m (2′11″),45.5 kg (100.3 lbs),"/ability/clear-body,/ability/liquid-ooze,/ability/rain-dish","clear-body,liquid-ooze,rain-dish","Tentacool,Tentacruel"
+0071,Victreebel,"Grass,Poison",1.7 m (5′07″),15.5 kg (34.2 lbs),"/ability/chlorophyll,/ability/gluttony","chlorophyll,gluttony","Bellsprout,Weepinbell,Victreebel"
+0070,Weepinbell,"Grass,Poison,Route 12,13,14,15",1.0 m (3′03″),6.4 kg (14.1 lbs),"/ability/chlorophyll,/ability/gluttony","chlorophyll,gluttony","Bellsprout,Weepinbell,Victreebel"
+0069,Bellsprout,"Grass,Poison,Route 5,6,7,12,13,14,15,24,25",0.7 m (2′04″),4.0 kg (8.8 lbs),"/ability/chlorophyll,/ability/gluttony","chlorophyll,gluttony","Bellsprout,Weepinbell,Victreebel"
+0068,Machamp,Fighting,1.6 m (5′03″),130.0 kg (286.6 lbs),"/ability/guts,/ability/no-guard,/ability/steadfast,/pokedex/machop,/pokedex/machoke","guts,no-guard,steadfast,machop,machoke","Machop,Machoke,Machamp"
+0067,Machoke,"Fighting,Route 5,Underground Path 5-6,Victory Road",1.5 m (4′11″),70.5 kg (155.4 lbs),"/ability/guts,/ability/no-guard,/ability/steadfast","guts,no-guard,steadfast","Machop,Machoke,Machamp"
+0095,Onix,"Rock,Ground,Mt. Silver,Rock Tunnel,Union Cave,Violet City,Victory Road",8.8 m (28′10″),210.0 kg (463.0 lbs),"/ability/rock-head,/ability/sturdy,/ability/weak-armor","rock-head,sturdy,weak-armor","Onix,Steelix"
+0094,Gengar,"Ghost,Poison,Ghost,Poison",1.5 m (4′11″),40.5 kg (89.3 lbs),"/ability/cursed-body,/ability/shadow-tag","cursed-body,shadow-tag","Gastly,Haunter,Gengar"
+0093,Haunter,"Ghost,Poison,Route 8",1.6 m (5′03″),0.1 kg (0.2 lbs),/ability/levitate,levitate,"Gastly,Haunter,Gengar"
+0092,Gastly,"Ghost,Poison,Sprout Tower,Tin Tower",1.3 m (4′03″),0.1 kg (0.2 lbs),/ability/levitate,levitate,"Gastly,Haunter,Gengar"
+0091,Cloyster,"Water,Ice",1.5 m (4′11″),132.5 kg (292.1 lbs),"/ability/shell-armor,/ability/skill-link,/ability/overcoat,/pokedex/shellder","shell-armor,skill-link,overcoat,shellder","Shellder,Cloyster"
+0090,Shellder,"Water,Route 17,18,Vermilion City",0.3 m (1′00″),4.0 kg (8.8 lbs),"/ability/shell-armor,/ability/skill-link,/ability/overcoat","shell-armor,skill-link,overcoat","Shellder,Cloyster"
+0089,Muk,"Poison,Poison,Dark,Cinnabar Island,Power Plant,Pokémon Mansion",1.2 m (3′11″),30.0 kg (66.1 lbs),"/ability/stench,/ability/sticky-hold,/ability/poison-touch,/ability/poison-touch,/ability/gluttony,/ability/power-of-alchemy,/pokedex/grimer","stench,sticky-hold,poison-touch,poison-touch,gluttony,power-of-alchemy,grimer","Grimer,Muk,Grimer,Muk"
+0088,Grimer,"Poison,Poison,Dark,Power Plant,Pokémon Mansion",0.9 m (2′11″),30.0 kg (66.1 lbs),"/ability/stench,/ability/sticky-hold,/ability/poison-touch,/ability/poison-touch,/ability/gluttony,/ability/power-of-alchemy","stench,sticky-hold,poison-touch,poison-touch,gluttony,power-of-alchemy","Grimer,Muk,Grimer,Muk"
+0120,Staryu,"Water,Route 19,20,21,Pallet Town,Seafoam Islands,Vermilion City",0.8 m (2′07″),34.5 kg (76.1 lbs),"/ability/illuminate,/ability/natural-cure,/ability/analytic","illuminate,natural-cure,analytic","Staryu,Starmie"
+0119,Seaking,"Water,Route 24,Cerulean Cave",1.3 m (4′03″),39.0 kg (86.0 lbs),"/ability/swift-swim,/ability/water-veil,/ability/lightning-rod","swift-swim,water-veil,lightning-rod","Goldeen,Seaking"
+0118,Goldeen,"Water,Route 4,9,10,24,25,42,Cerulean City,Dark Cave,Mt. Mortar,Mt. Silver,Slowpoke Well,Tohjo Falls,Union Cave",0.6 m (2′00″),15.0 kg (33.1 lbs),"/ability/swift-swim,/ability/water-veil,/ability/lightning-rod","swift-swim,water-veil,lightning-rod","Goldeen,Seaking"
+0117,Seadra,"Water,Route 23,Cerulean Cave",1.2 m (3′11″),25.0 kg (55.1 lbs),"/ability/poison-point,/ability/sniper,/ability/damp","poison-point,sniper,damp","Horsea,Seadra,Kingdra"
+0116,Horsea,"Water,Route 10,11,12,13,Vermilion City",0.4 m (1′04″),8.0 kg (17.6 lbs),"/ability/swift-swim,/ability/sniper,/ability/damp","swift-swim,sniper,damp","Horsea,Seadra,Kingdra"
+0115,Kangaskhan,"Normal,Normal,Rock Tunnel",2.2 m (7′03″),80.0 kg (176.4 lbs),"/ability/early-bird,/ability/scrappy,/ability/inner-focus,/ability/parental-bond","early-bird,scrappy,inner-focus,parental-bond",
+0114,Tangela,"Grass,Safari Zone",1.0 m (3′03″),35.0 kg (77.2 lbs),"/ability/chlorophyll,/ability/leaf-guard,/ability/regenerator","chlorophyll,leaf-guard,regenerator","Tangela,Tangrowth"
+0113,Chansey,"Normal,Route 13,14,15",1.1 m (3′07″),34.6 kg (76.3 lbs),"/ability/natural-cure,/ability/serene-grace,/ability/healer","natural-cure,serene-grace,healer","Happiny,Chansey,Blissey"
+0144,Articuno,"Ice,Flying,Psychic,Flying",1.7 m (5′07″),55.4 kg (122.1 lbs),"/ability/pressure,/ability/snow-cloak,/ability/competitive","pressure,snow-cloak,competitive",
+0143,Snorlax,"Normal,Vermilion City",2.1 m (6′11″),460.0 kg (1014.1 lbs),"/ability/immunity,/ability/thick-fat,/ability/gluttony,/pokedex/munchlax","immunity,thick-fat,gluttony,munchlax","Munchlax,Snorlax"
+0142,Aerodactyl,"Rock,Flying,Rock,Flying,Route 14",1.8 m (5′11″),59.0 kg (130.1 lbs),"/ability/rock-head,/ability/pressure,/ability/unnerve,/ability/tough-claws","rock-head,pressure,unnerve,tough-claws",
+0141,Kabutops,"Rock,Water",1.3 m (4′03″),40.5 kg (89.3 lbs),"/ability/swift-swim,/ability/battle-armor,/ability/weak-armor,/pokedex/kabuto","swift-swim,battle-armor,weak-armor,kabuto","Kabuto,Kabutops"
+0140,Kabuto,"Rock,Water",0.5 m (1′08″),11.5 kg (25.4 lbs),"/ability/swift-swim,/ability/battle-armor,/ability/weak-armor","swift-swim,battle-armor,weak-armor","Kabuto,Kabutops"
+0139,Omastar,"Rock,Water",1.0 m (3′03″),35.0 kg (77.2 lbs),"/ability/swift-swim,/ability/shell-armor,/ability/weak-armor,/pokedex/omanyte","swift-swim,shell-armor,weak-armor,omanyte","Omanyte,Omastar"
+0138,Omanyte,"Rock,Water",0.4 m (1′04″),7.5 kg (16.5 lbs),"/ability/swift-swim,/ability/shell-armor,/ability/weak-armor","swift-swim,shell-armor,weak-armor","Omanyte,Omastar"
+0137,Porygon,"Normal,Celadon City",0.8 m (2′07″),36.5 kg (80.5 lbs),"/ability/trace,/ability/download,/ability/analytic","trace,download,analytic","Porygon,Porygon2,Porygon-Z"
+0163,Hoothoot,"Normal,Flying,Route 1,2,5,25,26,27,29,30,31,32,34,35,36,37,38,39,43,Ilex Forest,Lake of Rage,National Park",0.7 m (2′04″),21.2 kg (46.7 lbs),"/ability/insomnia,/ability/keen-eye,/ability/tinted-lens","insomnia,keen-eye,tinted-lens","Hoothoot,Noctowl"
+0162,Furret,"Normal,Route 1,43",1.8 m (5′11″),32.5 kg (71.7 lbs),"/ability/run-away,/ability/keen-eye,/ability/frisk,/pokedex/sentret","run-away,keen-eye,frisk,sentret","Sentret,Furret"
+0161,Sentret,"Normal,Route 1,29,43",0.8 m (2′07″),6.0 kg (13.2 lbs),"/ability/run-away,/ability/keen-eye,/ability/frisk","run-away,keen-eye,frisk","Sentret,Furret"
+0160,Feraligatr,Water,2.3 m (7′07″),88.8 kg (195.8 lbs),"/ability/torrent,/ability/sheer-force","torrent,sheer-force","Totodile,Croconaw,Feraligatr"
+0159,Croconaw,Water,1.1 m (3′07″),25.0 kg (55.1 lbs),"/ability/torrent,/ability/sheer-force","torrent,sheer-force","Totodile,Croconaw,Feraligatr"
+0158,Totodile,Water,0.6 m (2′00″),9.5 kg (20.9 lbs),"/ability/torrent,/ability/sheer-force","torrent,sheer-force","Totodile,Croconaw,Feraligatr"
+0157,Typhlosion,"Fire,Fire,Ghost",1.7 m (5′07″),79.5 kg (175.3 lbs),"/ability/blaze,/ability/flash-fire,/ability/blaze,/ability/frisk","blaze,flash-fire,blaze,frisk","Cyndaquil,Quilava"
+0156,Quilava,Fire,0.9 m (2′11″),19.0 kg (41.9 lbs),"/ability/blaze,/ability/flash-fire","blaze,flash-fire","Cyndaquil,Quilava"
+0184,Azumarill,"Water,Fairy",0.8 m (2′07″),28.5 kg (62.8 lbs),"/ability/thick-fat,/ability/huge-power,/ability/sap-sipper","thick-fat,huge-power,sap-sipper","Azurill,Marill,Azumarill"
+0183,Marill,"Water,Fairy,Route 30,42,Mt. Mortar",0.4 m (1′04″),8.5 kg (18.7 lbs),"/ability/thick-fat,/ability/huge-power,/ability/sap-sipper","thick-fat,huge-power,sap-sipper","Azurill,Marill,Azumarill"
+0182,Bellossom,Grass,0.4 m (1′04″),5.8 kg (12.8 lbs),"/ability/chlorophyll,/ability/healer","chlorophyll,healer","Oddish,Gloom"
+0181,Ampharos,"Electric,Electric,Dragon",1.4 m (4′07″),61.5 kg (135.6 lbs),"/ability/static,/ability/plus,/ability/mold-breaker","static,plus,mold-breaker","Mareep,Flaaffy,Ampharos"
+0180,Flaaffy,Electric,0.8 m (2′07″),13.3 kg (29.3 lbs),"/ability/static,/ability/plus","static,plus","Mareep,Flaaffy,Ampharos"
+0179,Mareep,Electric,0.6 m (2′00″),7.8 kg (17.2 lbs),"/ability/static,/ability/plus","static,plus","Mareep,Flaaffy,Ampharos"
+0178,Xatu,"Psychic,Flying,Pewter City",1.5 m (4′11″),15.0 kg (33.1 lbs),"/ability/synchronize,/ability/early-bird,/ability/magic-bounce,/pokedex/natu","synchronize,early-bird,magic-bounce,natu","Natu,Xatu"
+0177,Natu,"Psychic,Flying,Safari Zone",0.2 m (0′08″),2.0 kg (4.4 lbs),"/ability/synchronize,/ability/early-bird,/ability/magic-bounce","synchronize,early-bird,magic-bounce","Natu,Xatu"
+0205,Forretress,"Bug,Steel",1.2 m (3′11″),125.8 kg (277.3 lbs),"/ability/sturdy,/ability/overcoat","sturdy,overcoat","Pineco,Forretress"
+0204,Pineco,"Bug,Route 26,27,29,30,31,32,34,35,36,37,38,39,43,Ilex Forest,Lake of Rage",0.6 m (2′00″),7.2 kg (15.9 lbs),"/ability/sturdy,/ability/overcoat","sturdy,overcoat","Pineco,Forretress"
+0203,Girafarig,"Normal,Psychic",1.5 m (4′11″),41.5 kg (91.5 lbs),"/ability/inner-focus,/ability/early-bird,/ability/sap-sipper","inner-focus,early-bird,sap-sipper","Girafarig,Farigiraf"
+0202,Wobbuffet,"Psychic,Dark Cave,Goldenrod City",1.3 m (4′03″),28.5 kg (62.8 lbs),"/ability/shadow-tag,/ability/telepathy","shadow-tag,telepathy","Wynaut,Wobbuffet"
+0201,Unown,Psychic,0.5 m (1′08″),5.0 kg (11.0 lbs),/ability/levitate,levitate,
+0200,Misdreavus,Ghost,0.7 m (2′04″),1.0 kg (2.2 lbs),/ability/levitate,levitate,"Misdreavus,Mismagius"
+0199,Slowking,"Water,Psychic,Poison,Psychic",2.0 m (6′07″),79.5 kg (175.3 lbs),"/ability/oblivious,/ability/own-tempo,/ability/regenerator,/ability/curious-medicine,/ability/own-tempo,/ability/regenerator,/pokedex/slowpoke","oblivious,own-tempo,regenerator,curious-medicine,own-tempo,regenerator,slowpoke","Slowpoke,Slowpoke"
+0198,Murkrow,"Dark,Flying",0.5 m (1′08″),2.1 kg (4.6 lbs),"/ability/insomnia,/ability/super-luck,/ability/prankster","insomnia,super-luck,prankster","Murkrow,Honchkrow"
+0224,Octillery,Water,0.9 m (2′11″),28.5 kg (62.8 lbs),"/ability/suction-cups,/ability/sniper,/ability/moody","suction-cups,sniper,moody","Remoraid,Octillery"
+0223,Remoraid,Water,0.6 m (2′00″),12.0 kg (26.5 lbs),"/ability/hustle,/ability/sniper,/ability/moody","hustle,sniper,moody","Remoraid,Octillery"
+0222,Corsola,"Water,Rock,Ghost,Route 19,20,21,34,40,41,Cherrygrove City,Cianwood City,Olivine City,Union Cave",0.6 m (2′00″),5.0 kg (11.0 lbs),"/ability/hustle,/ability/natural-cure,/ability/regenerator,/ability/weak-armor,/ability/cursed-body","hustle,natural-cure,regenerator,weak-armor,cursed-body","Corsola,Cursola"
+0221,Piloswine,"Ice,Ground",1.1 m (3′07″),55.8 kg (123.0 lbs),"/ability/oblivious,/ability/snow-cloak,/ability/thick-fat","oblivious,snow-cloak,thick-fat","Swinub,Piloswine,Mamoswine"
+0220,Swinub,"Ice,Ground",0.4 m (1′04″),6.5 kg (14.3 lbs),"/ability/oblivious,/ability/snow-cloak,/ability/thick-fat","oblivious,snow-cloak,thick-fat","Swinub,Piloswine,Mamoswine"
+0219,Magcargo,"Fire,Rock",0.8 m (2′07″),55.0 kg (121.3 lbs),"/ability/magma-armor,/ability/flame-body,/ability/weak-armor,/pokedex/slugma","magma-armor,flame-body,weak-armor,slugma","Slugma,Magcargo"
+0218,Slugma,"Fire,Fiery Path",0.7 m (2′04″),35.0 kg (77.2 lbs),"/ability/magma-armor,/ability/flame-body,/ability/weak-armor","magma-armor,flame-body,weak-armor","Slugma,Magcargo"
+0217,Ursaring,Normal,1.8 m (5′11″),125.8 kg (277.3 lbs),"/ability/guts,/ability/quick-feet,/ability/unnerve","guts,quick-feet,unnerve","Teddiursa,Ursaring,Ursaluna"
+0235,Smeargle,Normal,1.2 m (3′11″),58.0 kg (127.9 lbs),"/ability/own-tempo,/ability/technician,/ability/moody","own-tempo,technician,moody",
+0234,Stantler,"Normal,Route 37",1.4 m (4′07″),71.2 kg (157.0 lbs),"/ability/intimidate,/ability/frisk,/ability/sap-sipper","intimidate,frisk,sap-sipper","Stantler,Wyrdeer"
+0233,Porygon2,Normal,0.6 m (2′00″),32.5 kg (71.7 lbs),"/ability/trace,/ability/download,/ability/analytic","trace,download,analytic","Porygon,Porygon2,Porygon-Z"
+0232,Donphan,"Ground,Route 28,Mt. Silver,Victory Road",1.1 m (3′07″),120.0 kg (264.6 lbs),"/ability/sturdy,/ability/sand-veil","sturdy,sand-veil","Phanpy,Donphan"
+0231,Phanpy,"Ground,Route 45",0.5 m (1′08″),33.5 kg (73.9 lbs),"/ability/pickup,/ability/sand-veil","pickup,sand-veil","Phanpy,Donphan"
+0230,Kingdra,"Water,Dragon",1.8 m (5′11″),152.0 kg (335.1 lbs),"/ability/swift-swim,/ability/sniper,/ability/damp,/pokedex/horsea,/pokedex/seadra","swift-swim,sniper,damp,horsea,seadra","Horsea,Seadra,Kingdra"
+0229,Houndoom,"Dark,Fire,Dark,Fire",1.4 m (4′07″),35.0 kg (77.2 lbs),"/ability/early-bird,/ability/flash-fire,/ability/unnerve,/ability/solar-power,/pokedex/houndour","early-bird,flash-fire,unnerve,solar-power,houndour","Houndour,Houndoom"
+0228,Houndour,"Dark,Fire",0.6 m (2′00″),10.8 kg (23.8 lbs),"/ability/early-bird,/ability/flash-fire,/ability/unnerve","early-bird,flash-fire,unnerve","Houndour,Houndoom"
+0250,Ho-oh,"Fire,Flying",3.8 m (12′06″),199.0 kg (438.7 lbs),"/ability/pressure,/ability/regenerator","pressure,regenerator",
+0249,Lugia,"Psychic,Flying",5.2 m (17′01″),216.0 kg (476.2 lbs),"/ability/pressure,/ability/multiscale","pressure,multiscale",
+0248,Tyranitar,"Rock,Dark,Rock,Dark",2.0 m (6′07″),202.0 kg (445.3 lbs),"/ability/sand-stream,/ability/unnerve,/ability/sand-stream","sand-stream,unnerve,sand-stream","Larvitar,Pupitar,Tyranitar"
+0247,Pupitar,"Rock,Ground,Mt. Silver",1.2 m (3′11″),152.0 kg (335.1 lbs),"/ability/shed-skin,/pokedex/larvitar","shed-skin,larvitar","Larvitar,Pupitar,Tyranitar"
+0246,Larvitar,"Rock,Ground,Celadon City,Mt. Silver",0.6 m (2′00″),72.0 kg (158.7 lbs),"/ability/guts,/ability/sand-veil","guts,sand-veil","Larvitar,Pupitar,Tyranitar"
+0245,Suicune,"Water,Tin Tower",2.0 m (6′07″),187.0 kg (412.3 lbs),"/ability/pressure,/ability/inner-focus","pressure,inner-focus",
+0244,Entei,Fire,2.1 m (6′11″),198.0 kg (436.5 lbs),"/ability/pressure,/ability/inner-focus","pressure,inner-focus",
+0243,Raikou,Electric,1.9 m (6′03″),178.0 kg (392.4 lbs),"/ability/pressure,/ability/inner-focus","pressure,inner-focus",
+0266,Silcoon,Bug,0.6 m (2′00″),10.0 kg (22.0 lbs),/ability/shed-skin,shed-skin,Wurmple
+0265,Wurmple,Bug,0.3 m (1′00″),3.6 kg (7.9 lbs),"/ability/shield-dust,/ability/run-away","shield-dust,run-away",Wurmple
+0264,Linoone,"Normal,Dark,Normal",0.5 m (1′08″),32.5 kg (71.7 lbs),"/ability/pickup,/ability/gluttony,/ability/quick-feet,/ability/pickup,/ability/gluttony,/ability/quick-feet","pickup,gluttony,quick-feet,pickup,gluttony,quick-feet","Zigzagoon,Linoone,Zigzagoon,Linoone,Obstagoon"
+0263,Zigzagoon,"Normal,Dark,Normal",0.4 m (1′04″),17.5 kg (38.6 lbs),"/ability/pickup,/ability/gluttony,/ability/quick-feet,/ability/pickup,/ability/gluttony,/ability/quick-feet","pickup,gluttony,quick-feet,pickup,gluttony,quick-feet","Zigzagoon,Linoone,Zigzagoon,Linoone,Obstagoon"
+0262,Mightyena,Dark,1.0 m (3′03″),37.0 kg (81.6 lbs),"/ability/intimidate,/ability/quick-feet,/ability/moxie,/pokedex/poochyena","intimidate,quick-feet,moxie,poochyena","Poochyena,Mightyena"
+0261,Poochyena,Dark,0.5 m (1′08″),13.6 kg (30.0 lbs),"/ability/run-away,/ability/quick-feet,/ability/rattled","run-away,quick-feet,rattled","Poochyena,Mightyena"
+0260,Swampert,"Water,Ground,Water,Ground",1.5 m (4′11″),81.9 kg (180.6 lbs),"/ability/torrent,/ability/damp,/ability/swift-swim","torrent,damp,swift-swim","Mudkip,Marshtomp,Swampert"
+0259,Marshtomp,"Water,Ground",0.7 m (2′04″),28.0 kg (61.7 lbs),"/ability/torrent,/ability/damp","torrent,damp","Mudkip,Marshtomp,Swampert"
+0297,Hariyama,Fighting,2.3 m (7′07″),253.8 kg (559.5 lbs),"/ability/thick-fat,/ability/guts,/ability/sheer-force","thick-fat,guts,sheer-force","Makuhita,Hariyama"
+0296,Makuhita,Fighting,1.0 m (3′03″),86.4 kg (190.5 lbs),"/ability/thick-fat,/ability/guts,/ability/sheer-force","thick-fat,guts,sheer-force","Makuhita,Hariyama"
+0295,Exploud,Normal,1.5 m (4′11″),84.0 kg (185.2 lbs),"/ability/soundproof,/ability/scrappy,/pokedex/whismur,/pokedex/loudred","soundproof,scrappy,whismur,loudred","Whismur,Loudred,Exploud"
+0294,Loudred,Normal,1.0 m (3′03″),40.5 kg (89.3 lbs),"/ability/soundproof,/ability/scrappy","soundproof,scrappy","Whismur,Loudred,Exploud"
+0293,Whismur,Normal,0.6 m (2′00″),16.3 kg (35.9 lbs),"/ability/soundproof,/ability/rattled","soundproof,rattled","Whismur,Loudred,Exploud"
+0292,Shedinja,"Bug,Ghost",0.8 m (2′07″),1.2 kg (2.6 lbs),"/ability/wonder-guard,/pokedex/nincada","wonder-guard,nincada",Nincada
+0291,Ninjask,"Bug,Flying",0.8 m (2′07″),12.0 kg (26.5 lbs),"/ability/speed-boost,/ability/infiltrator,/pokedex/nincada","speed-boost,infiltrator,nincada",Nincada
+0290,Nincada,"Bug,Ground",0.5 m (1′08″),5.5 kg (12.1 lbs),"/ability/compound-eyes,/ability/run-away","compound-eyes,run-away",Nincada
+0306,Aggron,"Steel,Rock,Steel",2.1 m (6′11″),360.0 kg (793.7 lbs),"/ability/sturdy,/ability/rock-head,/ability/heavy-metal,/ability/filter,/pokedex/aron,/pokedex/lairon","sturdy,rock-head,heavy-metal,filter,aron,lairon","Aron,Lairon,Aggron"
+0305,Lairon,"Steel,Rock",0.9 m (2′11″),120.0 kg (264.6 lbs),"/ability/sturdy,/ability/rock-head,/ability/heavy-metal,/pokedex/aron","sturdy,rock-head,heavy-metal,aron","Aron,Lairon,Aggron"
+0304,Aron,"Steel,Rock",0.4 m (1′04″),60.0 kg (132.3 lbs),"/ability/sturdy,/ability/rock-head,/ability/heavy-metal","sturdy,rock-head,heavy-metal","Aron,Lairon,Aggron"
+0303,Mawile,"Steel,Fairy,Steel,Fairy",0.6 m (2′00″),11.5 kg (25.4 lbs),"/ability/hyper-cutter,/ability/intimidate,/ability/sheer-force,/ability/huge-power","hyper-cutter,intimidate,sheer-force,huge-power",
+0302,Sableye,"Dark,Ghost,Dark,Ghost,Cave of Origin,Granite Cave,Sky Pillar,Victory Road",0.5 m (1′08″),11.0 kg (24.3 lbs),"/ability/keen-eye,/ability/stall,/ability/prankster,/ability/magic-bounce","keen-eye,stall,prankster,magic-bounce",
+0301,Delcatty,Normal,1.1 m (3′07″),32.6 kg (71.9 lbs),"/ability/cute-charm,/ability/normalize,/ability/wonder-skin","cute-charm,normalize,wonder-skin","Skitty,Delcatty"
+0300,Skitty,Normal,0.6 m (2′00″),11.0 kg (24.3 lbs),"/ability/cute-charm,/ability/normalize,/ability/wonder-skin","cute-charm,normalize,wonder-skin","Skitty,Delcatty"
+0299,Nosepass,Rock,1.0 m (3′03″),97.0 kg (213.8 lbs),"/ability/sturdy,/ability/magnet-pull,/ability/sand-force","sturdy,magnet-pull,sand-force","Nosepass,Probopass"
+0324,Torkoal,Fire,0.5 m (1′08″),80.4 kg (177.3 lbs),"/ability/white-smoke,/ability/drought,/ability/shell-armor","white-smoke,drought,shell-armor",
+0323,Camerupt,"Fire,Ground,Fire,Ground",1.9 m (6′03″),220.0 kg (485.0 lbs),"/ability/magma-armor,/ability/solid-rock,/ability/anger-point,/ability/sheer-force","magma-armor,solid-rock,anger-point,sheer-force","Numel,Camerupt"
+0322,Numel,"Fire,Ground",0.7 m (2′04″),24.0 kg (52.9 lbs),"/ability/oblivious,/ability/simple,/ability/own-tempo","oblivious,simple,own-tempo","Numel,Camerupt"
+0321,Wailord,Water,14.5 m (47′07″),398.0 kg (877.4 lbs),"/ability/water-veil,/ability/oblivious,/ability/pressure","water-veil,oblivious,pressure","Wailmer,Wailord"
+0320,Wailmer,Water,2.0 m (6′07″),130.0 kg (286.6 lbs),"/ability/water-veil,/ability/oblivious,/ability/pressure","water-veil,oblivious,pressure","Wailmer,Wailord"
+0319,Sharpedo,"Water,Dark,Water,Dark",1.8 m (5′11″),88.8 kg (195.8 lbs),"/ability/rough-skin,/ability/speed-boost,/ability/strong-jaw","rough-skin,speed-boost,strong-jaw","Carvanha,Sharpedo"
+0318,Carvanha,"Water,Dark",0.8 m (2′07″),20.8 kg (45.9 lbs),"/ability/rough-skin,/ability/speed-boost","rough-skin,speed-boost","Carvanha,Sharpedo"
+0317,Swalot,Poison,1.7 m (5′07″),80.0 kg (176.4 lbs),"/ability/liquid-ooze,/ability/sticky-hold,/ability/gluttony,/pokedex/gulpin","liquid-ooze,sticky-hold,gluttony,gulpin","Gulpin,Swalot"
+0344,Claydol,"Ground,Psychic",1.5 m (4′11″),108.0 kg (238.1 lbs),/ability/levitate,levitate,"Baltoy,Claydol"
+0343,Baltoy,"Ground,Psychic",0.5 m (1′08″),21.5 kg (47.4 lbs),/ability/levitate,levitate,"Baltoy,Claydol"
+0342,Crawdaunt,"Water,Dark",1.1 m (3′07″),32.8 kg (72.3 lbs),"/ability/hyper-cutter,/ability/shell-armor,/ability/adaptability","hyper-cutter,shell-armor,adaptability","Corphish,Crawdaunt"
+0341,Corphish,Water,0.6 m (2′00″),11.5 kg (25.4 lbs),"/ability/hyper-cutter,/ability/shell-armor,/ability/adaptability","hyper-cutter,shell-armor,adaptability","Corphish,Crawdaunt"
+0340,Whiscash,"Water,Ground",0.9 m (2′11″),23.6 kg (52.0 lbs),"/ability/oblivious,/ability/anticipation,/ability/hydration","oblivious,anticipation,hydration","Barboach,Whiscash"
+0339,Barboach,"Water,Ground",0.4 m (1′04″),1.9 kg (4.2 lbs),"/ability/oblivious,/ability/anticipation,/ability/hydration,/pokedex/whiscash","oblivious,anticipation,hydration,whiscash","Barboach,Whiscash"
+0338,Solrock,"Rock,Psychic",1.2 m (3′11″),154.0 kg (339.5 lbs),/ability/levitate,levitate,
+0337,Lunatone,"Rock,Psychic,Meteor Falls",1.0 m (3′03″),168.0 kg (370.4 lbs),/ability/levitate,levitate,
+0359,Absol,"Dark,Dark",1.2 m (3′11″),47.0 kg (103.6 lbs),"/ability/pressure,/ability/super-luck,/ability/justified,/ability/magic-bounce","pressure,super-luck,justified,magic-bounce",
+0358,Chimecho,Psychic,0.6 m (2′00″),1.0 kg (2.2 lbs),"/ability/levitate,/pokedex/chingling","levitate,chingling","Chingling,Chimecho"
+0357,Tropius,"Grass,Flying",2.0 m (6′07″),100.0 kg (220.5 lbs),"/ability/chlorophyll,/ability/solar-power,/ability/harvest","chlorophyll,solar-power,harvest",
+0356,Dusclops,Ghost,1.6 m (5′03″),30.6 kg (67.5 lbs),"/ability/pressure,/ability/frisk","pressure,frisk","Duskull,Dusclops,Dusknoir"
+0355,Duskull,"Ghost,Mt. Pyre",0.8 m (2′07″),15.0 kg (33.1 lbs),"/ability/levitate,/ability/frisk","levitate,frisk","Duskull,Dusclops,Dusknoir"
+0354,Banette,"Ghost,Ghost,Sky Pillar",1.1 m (3′07″),12.5 kg (27.6 lbs),"/ability/insomnia,/ability/frisk,/ability/cursed-body,/ability/prankster","insomnia,frisk,cursed-body,prankster","Shuppet,Banette"
+0353,Shuppet,"Ghost,Route 121,123,Mt. Pyre",0.6 m (2′00″),2.3 kg (5.1 lbs),"/ability/insomnia,/ability/frisk,/ability/cursed-body","insomnia,frisk,cursed-body","Shuppet,Banette"
+0352,Kecleon,Normal,1.0 m (3′03″),22.0 kg (48.5 lbs),"/ability/color-change,/ability/protean","color-change,protean",
+0370,Luvdisc,Water,0.6 m (2′00″),8.7 kg (19.2 lbs),"/ability/swift-swim,/ability/hydration","swift-swim,hydration",
+0369,Relicanth,"Water,Rock",1.0 m (3′03″),23.4 kg (51.6 lbs),"/ability/swift-swim,/ability/rock-head,/ability/sturdy","swift-swim,rock-head,sturdy",
+0368,Gorebyss,Water,1.8 m (5′11″),22.6 kg (49.8 lbs),"/ability/swift-swim,/ability/hydration,/pokedex/clamperl","swift-swim,hydration,clamperl",Clamperl
+0367,Huntail,Water,1.7 m (5′07″),27.0 kg (59.5 lbs),"/ability/swift-swim,/ability/water-veil,/pokedex/clamperl","swift-swim,water-veil,clamperl",Clamperl
+0366,Clamperl,Water,0.4 m (1′04″),52.5 kg (115.7 lbs),"/ability/shell-armor,/ability/rattled","shell-armor,rattled",Clamperl
+0365,Walrein,"Ice,Water",1.4 m (4′07″),150.6 kg (332.0 lbs),"/ability/thick-fat,/ability/ice-body,/ability/oblivious","thick-fat,ice-body,oblivious","Spheal,Sealeo,Walrein"
+0364,Sealeo,"Ice,Water",1.1 m (3′07″),87.6 kg (193.1 lbs),"/ability/thick-fat,/ability/ice-body,/ability/oblivious","thick-fat,ice-body,oblivious","Spheal,Sealeo,Walrein"
+0363,Spheal,"Ice,Water",0.8 m (2′07″),39.5 kg (87.1 lbs),"/ability/thick-fat,/ability/ice-body,/ability/oblivious,/pokedex/sealeo,/pokedex/walrein","thick-fat,ice-body,oblivious,sealeo,walrein","Spheal,Sealeo,Walrein"
+0385,Jirachi,"Steel,Psychic",0.3 m (1′00″),1.1 kg (2.4 lbs),/ability/serene-grace,serene-grace,
+0384,Rayquaza,"Dragon,Flying,Dragon,Flying",7.0 m (23′00″),206.5 kg (455.3 lbs),"/ability/air-lock,/ability/delta-stream","air-lock,delta-stream",
+0383,Groudon,"Ground,Ground,Fire",3.5 m (11′06″),950.0 kg (2094.4 lbs),"/ability/drought,/ability/desolate-land","drought,desolate-land",
+0382,Kyogre,"Water,Water,Cave of Origin",4.5 m (14′09″),352.0 kg (776.0 lbs),"/ability/drizzle,/ability/primordial-sea","drizzle,primordial-sea",
+0381,Latios,"Dragon,Psychic,Dragon,Psychic,Southern Island",2.0 m (6′07″),60.0 kg (132.3 lbs),"/ability/levitate,/ability/levitate","levitate,levitate",
+0380,Latias,"Dragon,Psychic,Dragon,Psychic,Roaming Hoenn",1.4 m (4′07″),40.0 kg (88.2 lbs),"/ability/levitate,/ability/levitate","levitate,levitate",
+0379,Registeel,Steel,1.9 m (6′03″),205.0 kg (451.9 lbs),"/ability/clear-body,/ability/light-metal","clear-body,light-metal",
+0378,Regice,Ice,1.8 m (5′11″),175.0 kg (385.8 lbs),"/ability/clear-body,/ability/ice-body","clear-body,ice-body",
+0412,Burmy,"Bug,Bug,Bug,Route 38",0.2 m (0′08″),3.4 kg (7.5 lbs),"/ability/shed-skin,/ability/overcoat,/ability/shed-skin,/ability/overcoat,/ability/shed-skin,/ability/overcoat","shed-skin,overcoat,shed-skin,overcoat,shed-skin,overcoat","Burmy,Mothim,Burmy,Wormadam,Burmy,Wormadam,Burmy,Wormadam"
+0411,Bastiodon,"Rock,Steel",1.3 m (4′03″),149.5 kg (329.6 lbs),"/ability/sturdy,/ability/soundproof","sturdy,soundproof","Shieldon,Bastiodon"
+0410,Shieldon,"Rock,Steel,Pewter City",0.5 m (1′08″),57.0 kg (125.7 lbs),"/ability/sturdy,/ability/soundproof","sturdy,soundproof","Shieldon,Bastiodon"
+0409,Rampardos,Rock,1.6 m (5′03″),102.5 kg (226.0 lbs),"/ability/mold-breaker,/ability/sheer-force","mold-breaker,sheer-force","Cranidos,Rampardos"
+0408,Cranidos,"Rock,Pewter City",0.9 m (2′11″),31.5 kg (69.4 lbs),"/ability/mold-breaker,/ability/sheer-force","mold-breaker,sheer-force","Cranidos,Rampardos"
+0407,Roserade,"Grass,Poison",0.9 m (2′11″),14.5 kg (32.0 lbs),"/ability/natural-cure,/ability/poison-point,/ability/technician,/pokedex/roselia,/pokedex/budew","natural-cure,poison-point,technician,roselia,budew","Budew,Roselia,Roserade"
+0406,Budew,"Grass,Poison,Route 204,205,208,Eterna Forest",0.2 m (0′08″),1.2 kg (2.6 lbs),"/ability/natural-cure,/ability/poison-point,/ability/leaf-guard,/pokedex/roselia,/pokedex/roserade","natural-cure,poison-point,leaf-guard,roselia,roserade","Budew,Roselia,Roserade"
+0405,Luxray,Electric,1.4 m (4′07″),42.0 kg (92.6 lbs),"/ability/rivalry,/ability/intimidate,/ability/guts,/pokedex/shinx,/pokedex/luxio","rivalry,intimidate,guts,shinx,luxio","Shinx,Luxio,Luxray"
+0435,Skuntank,"Poison,Dark",1.0 m (3′03″),38.0 kg (83.8 lbs),"/ability/stench,/ability/aftermath,/ability/keen-eye","stench,aftermath,keen-eye","Stunky,Skuntank"
+0434,Stunky,"Poison,Dark",0.4 m (1′04″),19.2 kg (42.3 lbs),"/ability/stench,/ability/aftermath,/ability/keen-eye","stench,aftermath,keen-eye","Stunky,Skuntank"
+0433,Chingling,"Psychic,Route 211,Mt. Coronet,Sendoff Spring,Turnback Cave",0.2 m (0′08″),0.6 kg (1.3 lbs),/ability/levitate,levitate,"Chingling,Chimecho"
+0432,Purugly,"Normal,Route 222,229",1.0 m (3′03″),43.8 kg (96.6 lbs),"/ability/thick-fat,/ability/own-tempo,/ability/defiant","thick-fat,own-tempo,defiant","Glameow,Purugly"
+0431,Glameow,"Normal,Route 218,222",0.5 m (1′08″),3.9 kg (8.6 lbs),"/ability/limber,/ability/own-tempo,/ability/keen-eye","limber,own-tempo,keen-eye","Glameow,Purugly"
+0430,Honchkrow,"Dark,Flying",0.9 m (2′11″),27.3 kg (60.2 lbs),"/ability/insomnia,/ability/super-luck,/ability/moxie,/pokedex/murkrow","insomnia,super-luck,moxie,murkrow","Murkrow,Honchkrow"
+0429,Mismagius,Ghost,0.9 m (2′11″),4.4 kg (9.7 lbs),/ability/levitate,levitate,"Misdreavus,Mismagius"
+0428,Lopunny,"Normal,Normal,Fighting",1.2 m (3′11″),33.3 kg (73.4 lbs),"/ability/cute-charm,/ability/klutz,/ability/limber,/ability/scrappy,/pokedex/buneary","cute-charm,klutz,limber,scrappy,buneary","Buneary,Lopunny"
+0453,Croagunk,"Poison,Fighting,Route 212,Great Marsh",0.7 m (2′04″),23.0 kg (50.7 lbs),"/ability/anticipation,/ability/dry-skin,/ability/poison-touch","anticipation,dry-skin,poison-touch","Croagunk,Toxicroak"
+0452,Drapion,"Poison,Dark",1.3 m (4′03″),61.5 kg (135.6 lbs),"/ability/battle-armor,/ability/sniper,/ability/keen-eye,/pokedex/skorupi","battle-armor,sniper,keen-eye,skorupi","Skorupi,Drapion"
+0451,Skorupi,"Poison,Bug",0.8 m (2′07″),12.0 kg (26.5 lbs),"/ability/battle-armor,/ability/sniper,/ability/keen-eye","battle-armor,sniper,keen-eye","Skorupi,Drapion"
+0450,Hippowdon,Ground,2.0 m (6′07″),300.0 kg (661.4 lbs),"/ability/sand-stream,/ability/sand-force","sand-stream,sand-force","Hippopotas,Hippowdon"
+0449,Hippopotas,Ground,0.8 m (2′07″),49.5 kg (109.1 lbs),"/ability/sand-stream,/ability/sand-force","sand-stream,sand-force","Hippopotas,Hippowdon"
+0448,Lucario,"Fighting,Steel,Fighting,Steel",1.2 m (3′11″),54.0 kg (119.0 lbs),"/ability/steadfast,/ability/inner-focus,/ability/justified,/ability/adaptability","steadfast,inner-focus,justified,adaptability","Riolu,Lucario"
+0447,Riolu,Fighting,0.7 m (2′04″),20.2 kg (44.5 lbs),"/ability/steadfast,/ability/inner-focus,/ability/prankster","steadfast,inner-focus,prankster","Riolu,Lucario"
+0446,Munchlax,Normal,0.6 m (2′00″),105.0 kg (231.5 lbs),"/ability/pickup,/ability/thick-fat,/ability/gluttony","pickup,thick-fat,gluttony","Munchlax,Snorlax"
+0469,Yanmega,"Bug,Flying",1.9 m (6′03″),51.5 kg (113.5 lbs),"/ability/speed-boost,/ability/tinted-lens,/ability/frisk","speed-boost,tinted-lens,frisk","Yanma,Yanmega"
+0468,Togekiss,"Fairy,Flying",1.5 m (4′11″),38.0 kg (83.8 lbs),"/ability/hustle,/ability/serene-grace,/ability/super-luck","hustle,serene-grace,super-luck","Togepi,Togetic,Togekiss"
+0467,Magmortar,Fire,1.6 m (5′03″),68.0 kg (149.9 lbs),"/ability/flame-body,/ability/vital-spirit,/pokedex/magmar,/pokedex/magby","flame-body,vital-spirit,magmar,magby","Magby,Magmar,Magmortar"
+0466,Electivire,Electric,1.8 m (5′11″),138.6 kg (305.6 lbs),"/ability/motor-drive,/ability/vital-spirit","motor-drive,vital-spirit","Elekid,Electabuzz,Electivire"
+0465,Tangrowth,Grass,2.0 m (6′07″),128.6 kg (283.5 lbs),"/ability/chlorophyll,/ability/leaf-guard,/ability/regenerator,/pokedex/tangela","chlorophyll,leaf-guard,regenerator,tangela","Tangela,Tangrowth"
+0464,Rhyperior,"Ground,Rock",2.4 m (7′10″),282.8 kg (623.5 lbs),"/ability/lightning-rod,/ability/solid-rock,/ability/reckless,/pokedex/rhyhorn,/pokedex/rhydon","lightning-rod,solid-rock,reckless,rhyhorn,rhydon","Rhyhorn,Rhydon,Rhyperior"
+0463,Lickilicky,Normal,1.7 m (5′07″),140.0 kg (308.6 lbs),"/ability/own-tempo,/ability/oblivious,/ability/cloud-nine","own-tempo,oblivious,cloud-nine","Lickitung,Lickilicky"
+0462,Magnezone,"Electric,Steel",1.2 m (3′11″),180.0 kg (396.8 lbs),"/ability/magnet-pull,/ability/sturdy,/ability/analytic,/pokedex/magnemite,/pokedex/magneton","magnet-pull,sturdy,analytic,magnemite,magneton","Magnemite,Magneton,Magnezone"
+0487,Giratina,"Ghost,Dragon,Ghost,Dragon,Distortion World,Turnback Cave",4.5 m (14′09″),750.0 kg (1653.5 lbs),"/ability/pressure,/ability/telepathy,/ability/levitate","pressure,telepathy,levitate",
+0486,Regigigas,Normal,3.7 m (12′02″),420.0 kg (925.9 lbs),/ability/slow-start,slow-start,
+0485,Heatran,"Fire,Steel",1.7 m (5′07″),430.0 kg (948.0 lbs),"/ability/flash-fire,/ability/flame-body","flash-fire,flame-body",
+0484,Palkia,"Water,Dragon,Water,Dragon,Spear Pillar",4.2 m (13′09″),336.0 kg (740.8 lbs),"/ability/pressure,/ability/telepathy,/ability/pressure,/ability/telepathy","pressure,telepathy,pressure,telepathy",
+0483,Dialga,"Steel,Dragon,Steel,Dragon",5.4 m (17′09″),683.0 kg (1505.8 lbs),"/ability/pressure,/ability/telepathy,/ability/pressure,/ability/telepathy","pressure,telepathy,pressure,telepathy",
+0482,Azelf,Psychic,0.3 m (1′00″),0.3 kg (0.7 lbs),/ability/levitate,levitate,
+0481,Mesprit,Psychic,0.3 m (1′00″),0.3 kg (0.7 lbs),/ability/levitate,levitate,
+0480,Uxie,Psychic,0.3 m (1′00″),0.3 kg (0.7 lbs),/ability/levitate,levitate,
+0510,Liepard,"Dark,Route 2,5,9,16,Dreamyard",1.1 m (3′07″),37.5 kg (82.7 lbs),"/ability/limber,/ability/unburden,/ability/prankster","limber,unburden,prankster","Purrloin,Liepard"
+0509,Purrloin,"Dark,Route 3,19,20",0.4 m (1′04″),10.1 kg (22.3 lbs),"/ability/limber,/ability/unburden,/ability/prankster","limber,unburden,prankster","Purrloin,Liepard"
+0508,Stoutland,"Normal,Route 1,2,3,P2 Laboratory",1.2 m (3′11″),61.0 kg (134.5 lbs),"/ability/intimidate,/ability/sand-rush,/ability/scrappy","intimidate,sand-rush,scrappy","Lillipup,Herdier,Stoutland"
+0507,Herdier,"Normal,Route 1,2,3,P2 Laboratory",0.9 m (2′11″),14.7 kg (32.4 lbs),"/ability/intimidate,/ability/sand-rush,/ability/scrappy","intimidate,sand-rush,scrappy","Lillipup,Herdier,Stoutland"
+0506,Lillipup,"Normal,Floccesy Ranch",0.4 m (1′04″),4.1 kg (9.0 lbs),"/ability/vital-spirit,/ability/pickup,/ability/run-away","vital-spirit,pickup,run-away","Lillipup,Herdier,Stoutland"
+0505,Watchog,"Normal,Route 1,2,3,7,18,Dreamyard,P2 Laboratory",1.1 m (3′07″),27.0 kg (59.5 lbs),"/ability/illuminate,/ability/keen-eye,/ability/analytic","illuminate,keen-eye,analytic","Patrat,Watchog"
+0504,Patrat,"Normal,Route 19,20,Virbank Complex,Floccesy Ranch",0.5 m (1′08″),11.6 kg (25.6 lbs),"/ability/run-away,/ability/keen-eye,/ability/analytic","run-away,keen-eye,analytic","Patrat,Watchog"
+0511,Pansage,"Grass,Lostlorn Forest,Pinwheel Forest",0.6 m (2′00″),10.5 kg (23.1 lbs),"/ability/gluttony,/ability/overgrow","gluttony,overgrow","Pansage,Simisage"
+0539,Sawk,"Fighting,Route 15,18,23,Victory Road,Pinwheel Forest",1.4 m (4′07″),51.0 kg (112.4 lbs),"/ability/sturdy,/ability/inner-focus,/ability/mold-breaker","sturdy,inner-focus,mold-breaker",
+0538,Throh,"Fighting,Route 15,18,23,Victory Road,Pinwheel Forest",1.3 m (4′03″),55.5 kg (122.4 lbs),"/ability/guts,/ability/inner-focus,/ability/mold-breaker","guts,inner-focus,mold-breaker",
+0537,Seismitoad,"Water,Ground,Route 8,Icirrus City,Moor of Icirrus,Pinwheel Forest",1.5 m (4′11″),62.0 kg (136.7 lbs),"/ability/swift-swim,/ability/poison-touch,/ability/water-absorb","swift-swim,poison-touch,water-absorb","Tympole,Palpitoad,Seismitoad"
+0536,Palpitoad,"Water,Ground,Route 8,Icirrus City,Moor of Icirrus,Pinwheel Forest",0.8 m (2′07″),17.0 kg (37.5 lbs),"/ability/swift-swim,/ability/hydration,/ability/water-absorb","swift-swim,hydration,water-absorb","Tympole,Palpitoad,Seismitoad"
+0535,Tympole,Water,0.5 m (1′08″),4.5 kg (9.9 lbs),"/ability/swift-swim,/ability/hydration,/ability/water-absorb","swift-swim,hydration,water-absorb","Tympole,Palpitoad,Seismitoad"
+0534,Conkeldurr,Fighting,1.4 m (4′07″),87.0 kg (191.8 lbs),"/ability/guts,/ability/sheer-force,/ability/iron-fist,/pokedex/timburr,/pokedex/gurdurr","guts,sheer-force,iron-fist,timburr,gurdurr","Timburr,Gurdurr,Conkeldurr"
+0533,Gurdurr,"Fighting,Twist Mountain,Victory Road,Pinwheel Forest,Relic Passage",1.2 m (3′11″),40.0 kg (88.2 lbs),"/ability/guts,/ability/sheer-force,/ability/iron-fist","guts,sheer-force,iron-fist","Timburr,Gurdurr,Conkeldurr"
+0532,Timburr,"Fighting,Relic Passage",0.6 m (2′00″),12.5 kg (27.6 lbs),"/ability/guts,/ability/sheer-force,/ability/iron-fist","guts,sheer-force,iron-fist","Timburr,Gurdurr,Conkeldurr"
+0557,Dwebble,"Bug,Rock,Desert Resort",0.3 m (1′00″),14.5 kg (32.0 lbs),"/ability/sturdy,/ability/shell-armor,/ability/weak-armor,/pokedex/crustle","sturdy,shell-armor,weak-armor,crustle","Dwebble,Crustle"
+0556,Maractus,Grass,1.0 m (3′03″),28.0 kg (61.7 lbs),"/ability/water-absorb,/ability/chlorophyll,/ability/storm-drain","water-absorb,chlorophyll,storm-drain",
+0555,Darmanitan,"Fire,Fire,Psychic,Ice,Ice,Fire",1.3 m (4′03″),92.9 kg (204.8 lbs),"/ability/sheer-force,/ability/zen-mode,/ability/sheer-force,/ability/zen-mode,/ability/gorilla-tactics,/ability/zen-mode,/ability/gorilla-tactics,/ability/zen-mode","sheer-force,zen-mode,sheer-force,zen-mode,gorilla-tactics,zen-mode,gorilla-tactics,zen-mode","Darumaka,Darmanitan,Darumaka,Darmanitan"
+0554,Darumaka,"Fire,Ice",0.6 m (2′00″),37.5 kg (82.7 lbs),"/ability/hustle,/ability/inner-focus,/ability/hustle,/ability/inner-focus","hustle,inner-focus,hustle,inner-focus","Darumaka,Darmanitan,Darumaka,Darmanitan"
+0553,Krookodile,"Ground,Dark",1.5 m (4′11″),96.3 kg (212.3 lbs),"/ability/intimidate,/ability/moxie,/ability/anger-point","intimidate,moxie,anger-point","Sandile,Krokorok,Krookodile"
+0552,Krokorok,"Ground,Dark",1.0 m (3′03″),33.4 kg (73.6 lbs),"/ability/intimidate,/ability/moxie,/ability/anger-point,/pokedex/sandile","intimidate,moxie,anger-point,sandile","Sandile,Krokorok,Krookodile"
+0551,Sandile,"Ground,Dark,Route 9",0.7 m (2′04″),15.2 kg (33.5 lbs),"/ability/intimidate,/ability/moxie,/ability/anger-point","intimidate,moxie,anger-point","Sandile,Krokorok,Krookodile"
+0559,Scraggy,"Dark,Fighting,Route 4,Desert Resort",0.6 m (2′00″),11.8 kg (26.0 lbs),"/ability/shed-skin,/ability/moxie,/ability/intimidate","shed-skin,moxie,intimidate","Scraggy,Scrafty"
+0561,Sigilyph,"Psychic,Flying,Route 10",1.4 m (4′07″),14.0 kg (30.9 lbs),"/ability/wonder-skin,/ability/magic-guard,/ability/tinted-lens","wonder-skin,magic-guard,tinted-lens",
+0560,Scrafty,"Dark,Fighting,Route 1,15,18,P2 Laboratory",1.1 m (3′07″),30.0 kg (66.1 lbs),"/ability/shed-skin,/ability/moxie,/ability/intimidate","shed-skin,moxie,intimidate","Scraggy,Scrafty"
+0558,Crustle,"Bug,Rock",1.4 m (4′07″),200.0 kg (440.9 lbs),"/ability/sturdy,/ability/shell-armor,/ability/weak-armor","sturdy,shell-armor,weak-armor","Dwebble,Crustle"
+0550,Basculin,"Water,Water,Water,Route 1,3,6,11,13,14,19,20,22,23,Dragonspiral Tower,Abundant Shrine,Giant Chasm,Lostlorn Forest,Wellspring Cave,Striaton City,Undella Town,Victory Road,Village Bridge,Pinwheel Forest,Aspertia City,Floccesy Ranch,Humilau City,Clay Tunnel,Nature Sanctuary,Relic Passage,Nature Preserve",1.0 m (3′03″),18.0 kg (39.7 lbs),"/ability/reckless,/ability/adaptability,/ability/mold-breaker,/ability/rock-head,/ability/adaptability,/ability/mold-breaker,/ability/rattled,/ability/adaptability,/ability/mold-breaker","reckless,adaptability,mold-breaker,rock-head,adaptability,mold-breaker,rattled,adaptability,mold-breaker",Basculin
+0549,Lilligant,"Grass,Grass,Fighting,Abundant Shrine,Lostlorn Forest,Pinwheel Forest",1.1 m (3′07″),16.3 kg (35.9 lbs),"/ability/chlorophyll,/ability/own-tempo,/ability/leaf-guard,/ability/chlorophyll,/ability/hustle,/ability/leaf-guard,/pokedex/petilil","chlorophyll,own-tempo,leaf-guard,chlorophyll,hustle,leaf-guard,petilil",Petilil
+0548,Petilil,"Grass,Abundant Shrine,Lostlorn Forest,Pinwheel Forest",0.5 m (1′08″),6.6 kg (14.6 lbs),"/ability/chlorophyll,/ability/own-tempo,/ability/leaf-guard","chlorophyll,own-tempo,leaf-guard",Petilil
+0547,Whimsicott,"Grass,Fairy",0.7 m (2′04″),6.6 kg (14.6 lbs),"/ability/prankster,/ability/infiltrator,/ability/chlorophyll,/pokedex/cottonee","prankster,infiltrator,chlorophyll,cottonee","Cottonee,Whimsicott"
+0566,Archen,"Rock,Flying,Ambrette Town",0.5 m (1′08″),9.5 kg (20.9 lbs),/ability/defeatist,defeatist,"Archen,Archeops"
+0570,Zorua,"Dark,Normal,Ghost",0.7 m (2′04″),12.5 kg (27.6 lbs),"/ability/illusion,/ability/illusion","illusion,illusion","Zorua,Zoroark,Zorua,Zoroark"
+0569,Garbodor,"Poison,Lost Hotel,Pokémon Village",1.9 m (6′03″),107.3 kg (236.6 lbs),"/ability/stench,/ability/weak-armor,/ability/aftermath","stench,weak-armor,aftermath","Trubbish,Garbodor"
+0568,Trubbish,"Poison,Route 4,5,16",0.6 m (2′00″),31.0 kg (68.3 lbs),"/ability/stench,/ability/sticky-hold,/ability/aftermath","stench,sticky-hold,aftermath","Trubbish,Garbodor"
+0567,Archeops,"Rock,Flying",1.4 m (4′07″),32.0 kg (70.5 lbs),/ability/defeatist,defeatist,"Archen,Archeops"
+0565,Carracosta,"Water,Rock",1.2 m (3′11″),81.0 kg (178.6 lbs),"/ability/solid-rock,/ability/sturdy,/ability/swift-swim","solid-rock,sturdy,swift-swim","Tirtouga,Carracosta"
+0564,Tirtouga,"Water,Rock,Ambrette Town",0.7 m (2′04″),16.5 kg (36.4 lbs),"/ability/solid-rock,/ability/sturdy,/ability/swift-swim","solid-rock,sturdy,swift-swim","Tirtouga,Carracosta"
+0563,Cofagrigus,Ghost,1.7 m (5′07″),76.5 kg (168.7 lbs),/ability/mummy,mummy,"Yamask,Cofagrigus,Yamask,Runerigus"
+0581,Swanna,"Water,Flying",1.3 m (4′03″),24.2 kg (53.4 lbs),"/ability/keen-eye,/ability/big-pecks,/ability/hydration","keen-eye,big-pecks,hydration","Ducklett,Swanna"
+0599,Klink,"Steel,Chargestone Cave",0.3 m (1′00″),21.0 kg (46.3 lbs),"/ability/plus,/ability/minus,/ability/clear-body","plus,minus,clear-body","Klink,Klang,Klinklang"
+0598,Ferrothorn,"Grass,Steel",1.0 m (3′03″),110.0 kg (242.5 lbs),"/ability/iron-barbs,/ability/anticipation","iron-barbs,anticipation","Ferroseed,Ferrothorn"
+0597,Ferroseed,"Grass,Steel,Glittering Cave,Reflection Cave",0.6 m (2′00″),18.8 kg (41.4 lbs),/ability/iron-barbs,iron-barbs,"Ferroseed,Ferrothorn"
+0596,Galvantula,"Bug,Electric",0.8 m (2′07″),14.3 kg (31.5 lbs),"/ability/compound-eyes,/ability/unnerve,/ability/swarm","compound-eyes,unnerve,swarm","Joltik,Galvantula"
+0595,Joltik,"Bug,Electric",0.1 m (0′04″),0.6 kg (1.3 lbs),"/ability/compound-eyes,/ability/unnerve,/ability/swarm","compound-eyes,unnerve,swarm","Joltik,Galvantula"
+0594,Alomomola,"Water,Route 4,17,18,21,P2 Laboratory,Virbank City,Virbank Complex",1.2 m (3′11″),31.6 kg (69.7 lbs),"/ability/healer,/ability/hydration,/ability/regenerator","healer,hydration,regenerator",
+0593,Jellicent,"Water,Ghost,Route 4,13,17,18,21,P2 Laboratory,Undella Bay,Undella Town,Virbank City,Virbank Complex,Humilau City,Seaside Cave",2.2 m (7′03″),135.0 kg (297.6 lbs),"/ability/water-absorb,/ability/cursed-body,/ability/damp,/pokedex/frillish","water-absorb,cursed-body,damp,frillish","Frillish,Jellicent"
+0605,Elgyem,Psychic,0.5 m (1′08″),9.0 kg (19.8 lbs),"/ability/telepathy,/ability/synchronize,/ability/analytic","telepathy,synchronize,analytic","Elgyem,Beheeyem"
+0614,Beartic,"Ice,Dragonspiral Tower,Twist Mountain",2.6 m (8′06″),260.0 kg (573.2 lbs),"/ability/snow-cloak,/ability/slush-rush,/ability/swift-swim","snow-cloak,slush-rush,swift-swim","Cubchoo,Beartic"
+0613,Cubchoo,"Ice,Route 7",0.5 m (1′08″),8.5 kg (18.7 lbs),"/ability/snow-cloak,/ability/slush-rush,/ability/rattled","snow-cloak,slush-rush,rattled","Cubchoo,Beartic"
+0612,Haxorus,"Dragon,Nature Preserve",1.8 m (5′11″),105.5 kg (232.6 lbs),"/ability/rivalry,/ability/mold-breaker,/ability/unnerve","rivalry,mold-breaker,unnerve","Axew,Fraxure,Haxorus"
+0611,Fraxure,"Dragon,Nature Sanctuary,Nature Preserve",1.0 m (3′03″),36.0 kg (79.4 lbs),"/ability/rivalry,/ability/mold-breaker,/ability/unnerve,/pokedex/axew","rivalry,mold-breaker,unnerve,axew","Axew,Fraxure,Haxorus"
+0610,Axew,"Dragon,Connecting Cave",0.6 m (2′00″),18.0 kg (39.7 lbs),"/ability/rivalry,/ability/mold-breaker,/ability/unnerve","rivalry,mold-breaker,unnerve","Axew,Fraxure,Haxorus"
+0609,Chandelure,"Ghost,Fire",1.0 m (3′03″),34.3 kg (75.6 lbs),"/ability/flash-fire,/ability/flame-body,/ability/infiltrator,/pokedex/litwick,/pokedex/lampent","flash-fire,flame-body,infiltrator,litwick,lampent","Litwick,Lampent,Chandelure"
+0608,Lampent,"Ghost,Fire",0.6 m (2′00″),13.0 kg (28.7 lbs),"/ability/flash-fire,/ability/flame-body,/ability/infiltrator","flash-fire,flame-body,infiltrator","Litwick,Lampent,Chandelure"
+0619,Mienfoo,"Fighting,Route 14,22,23,Dragonspiral Tower",0.9 m (2′11″),20.0 kg (44.1 lbs),"/ability/inner-focus,/ability/regenerator,/ability/reckless","inner-focus,regenerator,reckless","Mienfoo,Mienshao"
+0629,Vullaby,"Dark,Flying",0.5 m (1′08″),9.0 kg (19.8 lbs),"/ability/big-pecks,/ability/overcoat,/ability/weak-armor","big-pecks,overcoat,weak-armor","Vullaby,Mandibuzz"
+0628,Braviary,"Normal,Flying,Psychic,Flying,Route 11,Village Bridge",1.5 m (4′11″),41.0 kg (90.4 lbs),"/ability/keen-eye,/ability/sheer-force,/ability/defiant,/ability/keen-eye,/ability/sheer-force,/ability/tinted-lens,/pokedex/rufflet","keen-eye,sheer-force,defiant,keen-eye,sheer-force,tinted-lens,rufflet",Rufflet
+0627,Rufflet,"Normal,Flying,Route 10,11,Victory Road,Village Bridge",0.5 m (1′08″),10.5 kg (23.1 lbs),"/ability/keen-eye,/ability/sheer-force,/ability/hustle","keen-eye,sheer-force,hustle",Rufflet
+0626,Bouffalant,"Normal,Route 23",1.6 m (5′03″),94.6 kg (208.6 lbs),"/ability/reckless,/ability/sap-sipper,/ability/soundproof","reckless,sap-sipper,soundproof",
+0625,Bisharp,"Dark,Steel",1.6 m (5′03″),70.0 kg (154.3 lbs),"/ability/defiant,/ability/inner-focus,/ability/pressure","defiant,inner-focus,pressure","Pawniard,Bisharp,Kingambit"
+0624,Pawniard,"Dark,Steel,Route 9",0.5 m (1′08″),10.2 kg (22.5 lbs),"/ability/defiant,/ability/inner-focus,/ability/pressure","defiant,inner-focus,pressure","Pawniard,Bisharp,Kingambit"
+0623,Golurk,"Ground,Ghost,Dragonspiral Tower,Victory Road",2.8 m (9′02″),330.0 kg (727.5 lbs),"/ability/iron-fist,/ability/klutz,/ability/no-guard,/pokedex/golett","iron-fist,klutz,no-guard,golett","Golett,Golurk"
+0636,Larvesta,"Bug,Fire",1.1 m (3′07″),28.8 kg (63.5 lbs),"/ability/flame-body,/ability/swarm","flame-body,swarm","Larvesta,Volcarona"
+0642,Thundurus,"Electric,Flying,Electric,Flying,Roaming Unova",1.5 m (4′11″),61.0 kg (134.5 lbs),"/ability/prankster,/ability/defiant,/ability/volt-absorb","prankster,defiant,volt-absorb",
+0641,Tornadus,"Flying,Flying",1.5 m (4′11″),63.0 kg (138.9 lbs),"/ability/prankster,/ability/defiant,/ability/regenerator","prankster,defiant,regenerator",
+0640,Virizion,"Grass,Fighting,Route 11",2.0 m (6′07″),200.0 kg (440.9 lbs),/ability/justified,justified,
+0639,Terrakion,"Rock,Fighting,Route 22",1.9 m (6′03″),260.0 kg (573.2 lbs),/ability/justified,justified,
+0638,Cobalion,"Steel,Fighting,Route 13",2.1 m (6′11″),250.0 kg (551.2 lbs),/ability/justified,justified,
+0637,Volcarona,"Bug,Fire",1.6 m (5′03″),46.0 kg (101.4 lbs),"/ability/flame-body,/ability/swarm","flame-body,swarm","Larvesta,Volcarona"
+0635,Hydreigon,"Dark,Dragon,Victory Road",1.8 m (5′11″),160.0 kg (352.7 lbs),/ability/levitate,levitate,"Deino,Zweilous,Hydreigon"
+0647,Keldeo,"Water,Fighting,Water,Fighting",1.4 m (4′07″),48.5 kg (106.9 lbs),"/ability/justified,/ability/justified","justified,justified",
+0654,Braixen,Fire,1.0 m (3′03″),14.5 kg (32.0 lbs),"/ability/blaze,/ability/magician","blaze,magician","Fennekin,Braixen,Delphox"
+0653,Fennekin,Fire,0.4 m (1′04″),9.4 kg (20.7 lbs),"/ability/blaze,/ability/magician","blaze,magician","Fennekin,Braixen,Delphox"
+0652,Chesnaught,"Grass,Fighting",1.6 m (5′03″),90.0 kg (198.4 lbs),"/ability/overgrow,/ability/bulletproof","overgrow,bulletproof","Chespin,Quilladin,Chesnaught"
+0651,Quilladin,Grass,0.7 m (2′04″),29.0 kg (63.9 lbs),"/ability/overgrow,/ability/bulletproof","overgrow,bulletproof","Chespin,Quilladin,Chesnaught"
+0650,Chespin,Grass,0.4 m (1′04″),9.0 kg (19.8 lbs),"/ability/overgrow,/ability/bulletproof","overgrow,bulletproof","Chespin,Quilladin,Chesnaught"
+0649,Genesect,"Bug,Steel",1.5 m (4′11″),82.5 kg (181.9 lbs),/ability/download,download,
+0648,Meloetta,"Normal,Psychic,Normal,Fighting",0.6 m (2′00″),6.5 kg (14.3 lbs),"/ability/serene-grace,/ability/serene-grace","serene-grace,serene-grace",
+0668,Pyroar,"Fire,Normal",1.5 m (4′11″),81.5 kg (179.7 lbs),"/ability/rivalry,/ability/unnerve,/ability/moxie","rivalry,unnerve,moxie","Litleo,Pyroar"
+0680,Doublade,"Steel,Ghost",0.8 m (2′07″),4.5 kg (9.9 lbs),/ability/no-guard,no-guard,"Honedge,Doublade,Aegislash"
+0679,Honedge,"Steel,Ghost",0.8 m (2′07″),2.0 kg (4.4 lbs),/ability/no-guard,no-guard,"Honedge,Doublade,Aegislash"
+0678,Meowstic,"Psychic,Psychic",0.6 m (2′00″),8.5 kg (18.7 lbs),"/ability/keen-eye,/ability/infiltrator,/ability/prankster,/ability/keen-eye,/ability/infiltrator,/ability/competitive","keen-eye,infiltrator,prankster,keen-eye,infiltrator,competitive",Espurr
+0676,Furfrou,Normal,1.2 m (3′11″),28.0 kg (61.7 lbs),/ability/fur-coat,fur-coat,
+0675,Pangoro,"Fighting,Dark",2.1 m (6′11″),136.0 kg (299.8 lbs),"/ability/iron-fist,/ability/mold-breaker,/ability/scrappy","iron-fist,mold-breaker,scrappy","Pancham,Pangoro"
+0674,Pancham,Fighting,0.6 m (2′00″),8.0 kg (17.6 lbs),"/ability/iron-fist,/ability/mold-breaker,/ability/scrappy","iron-fist,mold-breaker,scrappy","Pancham,Pangoro"
+0693,Clawitzer,Water,1.3 m (4′03″),35.3 kg (77.8 lbs),/ability/mega-launcher,mega-launcher,"Clauncher,Clawitzer"
+0677,Espurr,Psychic,0.3 m (1′00″),3.5 kg (7.7 lbs),"/ability/keen-eye,/ability/infiltrator,/ability/own-tempo","keen-eye,infiltrator,own-tempo",Espurr
+0706,Goodra,"Dragon,Steel,Dragon",2.0 m (6′07″),150.5 kg (331.8 lbs),"/ability/sap-sipper,/ability/hydration,/ability/gooey,/ability/sap-sipper,/ability/shell-armor,/ability/gooey,/pokedex/goomy,/pokedex/sliggoo,/pokedex/sliggoo","sap-sipper,hydration,gooey,sap-sipper,shell-armor,gooey,goomy,sliggoo,sliggoo",Goomy
+0705,Sliggoo,"Dragon,Steel,Dragon",0.8 m (2′07″),17.5 kg (38.6 lbs),"/ability/sap-sipper,/ability/hydration,/ability/gooey,/ability/sap-sipper,/ability/shell-armor,/ability/gooey","sap-sipper,hydration,gooey,sap-sipper,shell-armor,gooey",Goomy
+0704,Goomy,Dragon,0.3 m (1′00″),2.8 kg (6.2 lbs),"/ability/sap-sipper,/ability/hydration,/ability/gooey","sap-sipper,hydration,gooey",Goomy
+0703,Carbink,"Rock,Fairy",0.3 m (1′00″),5.7 kg (12.6 lbs),"/ability/clear-body,/ability/sturdy","clear-body,sturdy",
+0702,Dedenne,"Electric,Fairy",0.2 m (0′08″),2.2 kg (4.9 lbs),"/ability/cheek-pouch,/ability/pickup,/ability/plus","cheek-pouch,pickup,plus",
+0701,Hawlucha,"Fighting,Flying",0.8 m (2′07″),21.5 kg (47.4 lbs),"/ability/limber,/ability/unburden,/ability/mold-breaker","limber,unburden,mold-breaker",
+0700,Sylveon,Fairy,1.0 m (3′03″),23.5 kg (51.8 lbs),"/ability/cute-charm,/ability/pixilate","cute-charm,pixilate","Eevee,Eevee,Eevee,Eevee,Sylveon"
+0711,Gourgeist,"Ghost,Grass,Ghost,Grass,Ghost,Grass,Ghost,Grass",0.9 m (2′11″),12.5 kg (27.6 lbs),"/ability/pickup,/ability/frisk,/ability/insomnia,/ability/pickup,/ability/frisk,/ability/insomnia,/ability/pickup,/ability/frisk,/ability/insomnia,/ability/pickup,/ability/frisk,/ability/insomnia","pickup,frisk,insomnia,pickup,frisk,insomnia,pickup,frisk,insomnia,pickup,frisk,insomnia","Pumpkaboo,Gourgeist"
+0717,Yveltal,"Dark,Flying,Team Flare HQ",5.8 m (19′00″),203.0 kg (447.5 lbs),/ability/dark-aura,dark-aura,
+0716,Xerneas,Fairy,3.0 m (9′10″),215.0 kg (474.0 lbs),/ability/fairy-aura,fairy-aura,
+0715,Noivern,"Flying,Dragon",1.5 m (4′11″),85.0 kg (187.4 lbs),"/ability/frisk,/ability/infiltrator,/ability/telepathy","frisk,infiltrator,telepathy","Noibat,Noivern"
+0714,Noibat,"Flying,Dragon",0.5 m (1′08″),8.0 kg (17.6 lbs),"/ability/frisk,/ability/infiltrator,/ability/telepathy","frisk,infiltrator,telepathy","Noibat,Noivern"
+0713,Avalugg,"Ice,Ice,Rock",2.0 m (6′07″),505.0 kg (1113.3 lbs),"/ability/own-tempo,/ability/ice-body,/ability/sturdy,/ability/strong-jaw,/ability/ice-body,/ability/sturdy","own-tempo,ice-body,sturdy,strong-jaw,ice-body,sturdy",Bergmite
+0712,Bergmite,Ice,1.0 m (3′03″),99.5 kg (219.4 lbs),"/ability/own-tempo,/ability/ice-body,/ability/sturdy","own-tempo,ice-body,sturdy",Bergmite
+0726,Torracat,Fire,0.7 m (2′04″),25.0 kg (55.1 lbs),"/ability/blaze,/ability/intimidate","blaze,intimidate","Litten,Torracat,Incineroar"
+0725,Litten,"Fire,Route 1",0.4 m (1′04″),4.3 kg (9.5 lbs),"/ability/blaze,/ability/intimidate","blaze,intimidate","Litten,Torracat,Incineroar"
+0740,Crabominable,"Fighting,Ice",1.7 m (5′07″),180.0 kg (396.8 lbs),"/ability/hyper-cutter,/ability/iron-fist,/ability/anger-point","hyper-cutter,iron-fist,anger-point","Crabrawler,Crabominable"
+0739,Crabrawler,"Fighting,Route 2,3,4,5,8,10,16,17,Berry Fields,Poni Wilds,Poni Plains,Ula'ula Beach",0.6 m (2′00″),7.0 kg (15.4 lbs),"/ability/hyper-cutter,/ability/iron-fist,/ability/anger-point","hyper-cutter,iron-fist,anger-point","Crabrawler,Crabominable"
+0738,Vikavolt,"Bug,Electric,Blush Mountain,Heahea Beach",1.5 m (4′11″),45.0 kg (99.2 lbs),/ability/levitate,levitate,"Grubbin,Charjabug,Vikavolt"
+0737,Charjabug,"Bug,Electric",0.5 m (1′08″),10.5 kg (23.1 lbs),/ability/battery,battery,"Grubbin,Charjabug,Vikavolt"
+0736,Grubbin,"Bug,Route 1,4,5,6,Blush Mountain",0.4 m (1′04″),4.4 kg (9.7 lbs),/ability/swarm,swarm,"Grubbin,Charjabug,Vikavolt"
+0735,Gumshoos,"Normal,Route 8,10,14,15,16,17,Akala Outskirts,Tapu Village,Mount Lanakila,Poni Plains,Heahea Beach",0.7 m (2′04″),14.2 kg (31.3 lbs),"/ability/strong-jaw,/ability/stakeout,/ability/adaptability","strong-jaw,stakeout,adaptability","Yungoos,Gumshoos"
+0745,Lycanroc,"Rock,Rock,Rock",0.8 m (2′07″),25.0 kg (55.1 lbs),"/ability/keen-eye,/ability/sand-rush,/ability/steadfast,/ability/keen-eye,/ability/vital-spirit,/ability/no-guard,/ability/tough-claws","keen-eye,sand-rush,steadfast,keen-eye,vital-spirit,no-guard,tough-claws","Rockruff,Rockruff,Lycanroc"
+0744,Rockruff,"Rock,Rock,Route 1,Ten Carat Hill",0.5 m (1′08″),9.2 kg (20.3 lbs),"/ability/keen-eye,/ability/vital-spirit,/ability/steadfast,/ability/own-tempo","keen-eye,vital-spirit,steadfast,own-tempo","Rockruff,Rockruff,Lycanroc"
+0750,Mudsdale,"Ground,Route 12,Blush Mountain,Poni Plains",2.5 m (8′02″),920.0 kg (2028.3 lbs),"/ability/own-tempo,/ability/stamina,/ability/inner-focus","own-tempo,stamina,inner-focus","Mudbray,Mudsdale"
+0749,Mudbray,Ground,1.0 m (3′03″),110.0 kg (242.5 lbs),"/ability/own-tempo,/ability/stamina,/ability/inner-focus","own-tempo,stamina,inner-focus","Mudbray,Mudsdale"
+0748,Toxapex,"Poison,Water",0.7 m (2′04″),14.5 kg (32.0 lbs),"/ability/merciless,/ability/limber,/ability/regenerator","merciless,limber,regenerator","Mareanie,Toxapex"
+0747,Mareanie,"Poison,Water,Route 9,Melemele Sea,Hau'oli City",0.4 m (1′04″),8.0 kg (17.6 lbs),"/ability/merciless,/ability/limber,/ability/regenerator","merciless,limber,regenerator","Mareanie,Toxapex"
+0746,Wishiwashi,"Water,Water,Route 7,8,9,13,14,15,Melemele Sea,Kala'e Bay,Hau'oli City,Akala Outskirts,Brooklet Hill,Tapu Village",0.2 m (0′08″),0.3 kg (0.7 lbs),"/ability/schooling,/ability/schooling","schooling,schooling",
+0743,Ribombee,"Bug,Fairy,Ula'ula Meadow,Poni Meadow,Heahea Beach",0.2 m (0′08″),0.5 kg (1.1 lbs),"/ability/honey-gather,/ability/shield-dust,/ability/sweet-veil","honey-gather,shield-dust,sweet-veil","Cutiefly,Ribombee"
+0760,Bewear,"Normal,Fighting,Hau'oli City,Poni Gauntlet",2.1 m (6′11″),135.0 kg (297.6 lbs),"/ability/fluffy,/ability/klutz,/ability/unnerve","fluffy,klutz,unnerve","Stufful,Bewear"
+0759,Stufful,"Normal,Fighting",0.5 m (1′08″),6.8 kg (15.0 lbs),"/ability/fluffy,/ability/klutz,/ability/cute-charm","fluffy,klutz,cute-charm","Stufful,Bewear"
+0769,Sandygast,"Ghost,Ground,Route 15,Hano Beach",0.5 m (1′08″),70.0 kg (154.3 lbs),"/ability/water-compaction,/ability/sand-veil","water-compaction,sand-veil","Sandygast,Palossand"
+0768,Golisopod,"Bug,Water",2.0 m (6′07″),108.0 kg (238.1 lbs),/ability/emergency-exit,emergency-exit,"Wimpod,Golisopod"
+0767,Wimpod,"Bug,Water,Route 8,Poni Breaker Coast,Dividing Peak Tunnel",0.5 m (1′08″),12.0 kg (26.5 lbs),/ability/wimp-out,wimp-out,"Wimpod,Golisopod"
+0766,Passimian,Fighting,2.0 m (6′07″),82.8 kg (182.5 lbs),"/ability/receiver,/ability/defiant","receiver,defiant",
+0765,Oranguru,"Normal,Psychic,Lush Jungle",1.5 m (4′11″),76.0 kg (167.6 lbs),"/ability/inner-focus,/ability/telepathy,/ability/symbiosis","inner-focus,telepathy,symbiosis",
+0764,Comfey,"Fairy,Lush Jungle,Poké Pelago",0.1 m (0′04″),0.3 kg (0.7 lbs),"/ability/flower-veil,/ability/triage,/ability/natural-cure","flower-veil,triage,natural-cure",
+0780,Drampa,"Normal,Dragon,Mount Lanakila",3.0 m (9′10″),185.0 kg (407.9 lbs),"/ability/berserk,/ability/sap-sipper,/ability/cloud-nine","berserk,sap-sipper,cloud-nine",
+0779,Bruxish,"Water,Psychic,Route 13,14,15,Tapu Village",0.9 m (2′11″),19.0 kg (41.9 lbs),"/ability/dazzling,/ability/strong-jaw,/ability/wonder-skin","dazzling,strong-jaw,wonder-skin",
+0792,Lunala,"Psychic,Ghost,Altar of the Moone",4.0 m (13′01″),120.0 kg (264.6 lbs),/ability/shadow-shield,shadow-shield,"Cosmog,Cosmoem"
+0791,Solgaleo,"Psychic,Steel",3.4 m (11′02″),230.0 kg (507.1 lbs),/ability/full-metal-body,full-metal-body,"Cosmog,Cosmoem"
+0790,Cosmoem,Psychic,0.1 m (0′04″),999.9 kg (2204.4 lbs),/ability/sturdy,sturdy,"Cosmog,Cosmoem"
+0789,Cosmog,"Psychic,Lake of the Moone",0.2 m (0′08″),0.1 kg (0.2 lbs),/ability/unaware,unaware,"Cosmog,Cosmoem"
+0788,Tapu Fini,"Water,Fairy",1.3 m (4′03″),21.2 kg (46.7 lbs),"/ability/misty-surge,/ability/telepathy","misty-surge,telepathy",
+0787,Tapu Bulu,"Grass,Fairy",1.9 m (6′03″),45.5 kg (100.3 lbs),"/ability/grassy-surge,/ability/telepathy","grassy-surge,telepathy",
+0800,Necrozma,"Psychic,Psychic,Steel,Psychic,Ghost,Psychic,Dragon,Mount Lanakila",2.4 m (7′10″),230.0 kg (507.1 lbs),"/ability/prism-armor,/ability/prism-armor,/ability/prism-armor,/ability/neuroforce","prism-armor,prism-armor,prism-armor,neuroforce",
+0799,Guzzlord,"Dark,Dragon,Ultra Space",5.5 m (18′01″),888.0 kg (1957.7 lbs),/ability/beast-boost,beast-boost,
+0810,Grookey,Grass,0.3 m (1′00″),5.0 kg (11.0 lbs),"/ability/overgrow,/ability/grassy-surge","overgrow,grassy-surge","Grookey,Thwackey,Rillaboom"
+0809,Melmetal,Steel,2.5 m (8′02″),800.0 kg (1763.7 lbs),/ability/iron-fist,iron-fist,"Meltan,Melmetal"
+0808,Meltan,Steel,0.2 m (0′08″),8.0 kg (17.6 lbs),/ability/magnet-pull,magnet-pull,"Meltan,Melmetal"
+0807,Zeraora,Electric,1.5 m (4′11″),44.5 kg (98.1 lbs),/ability/volt-absorb,volt-absorb,
+0806,Blacephalon,"Fire,Ghost",1.8 m (5′11″),13.0 kg (28.7 lbs),/ability/beast-boost,beast-boost,
+0805,Stakataka,"Rock,Steel,Poni Grove",5.5 m (18′01″),820.0 kg (1807.8 lbs),/ability/beast-boost,beast-boost,
+0812,Rillaboom,Grass,2.1 m (6′11″),90.0 kg (198.4 lbs),"/ability/overgrow,/ability/grassy-surge","overgrow,grassy-surge","Grookey,Thwackey,Rillaboom"
+0811,Thwackey,Grass,0.7 m (2′04″),14.0 kg (30.9 lbs),"/ability/overgrow,/ability/grassy-surge","overgrow,grassy-surge","Grookey,Thwackey,Rillaboom"
+0833,Chewtle,Water,0.3 m (1′00″),8.5 kg (18.7 lbs),"/ability/strong-jaw,/ability/shell-armor,/ability/swift-swim","strong-jaw,shell-armor,swift-swim","Chewtle,Drednaw"
+0832,Dubwool,Normal,1.3 m (4′03″),43.0 kg (94.8 lbs),"/ability/fluffy,/ability/steadfast,/ability/bulletproof","fluffy,steadfast,bulletproof","Wooloo,Dubwool"
+0831,Wooloo,Normal,0.6 m (2′00″),6.0 kg (13.2 lbs),"/ability/fluffy,/ability/run-away,/ability/bulletproof","fluffy,run-away,bulletproof","Wooloo,Dubwool"
+0830,Eldegoss,Grass,0.5 m (1′08″),2.5 kg (5.5 lbs),"/ability/cotton-down,/ability/regenerator,/ability/effect-spore","cotton-down,regenerator,effect-spore","Gossifleur,Eldegoss"
+0829,Gossifleur,Grass,0.4 m (1′04″),2.2 kg (4.9 lbs),"/ability/cotton-down,/ability/regenerator,/ability/effect-spore","cotton-down,regenerator,effect-spore","Gossifleur,Eldegoss"
+0828,Thievul,Dark,1.2 m (3′11″),19.9 kg (43.9 lbs),"/ability/run-away,/ability/unburden,/ability/stakeout","run-away,unburden,stakeout","Nickit,Thievul"
+0834,Drednaw,"Water,Rock",1.0 m (3′03″),115.5 kg (254.6 lbs),"/ability/strong-jaw,/ability/shell-armor,/ability/swift-swim","strong-jaw,shell-armor,swift-swim","Chewtle,Drednaw"
+0827,Nickit,Dark,0.6 m (2′00″),8.9 kg (19.6 lbs),"/ability/run-away,/ability/unburden,/ability/stakeout","run-away,unburden,stakeout","Nickit,Thievul"
+0849,Toxtricity,"Electric,Poison,Electric,Poison",1.6 m (5′03″),40.0 kg (88.2 lbs),"/ability/punk-rock,/ability/plus,/ability/technician,/ability/punk-rock,/ability/minus,/ability/technician","punk-rock,plus,technician,punk-rock,minus,technician",Toxel
+0848,Toxel,"Electric,Poison",0.4 m (1′04″),11.0 kg (24.3 lbs),"/ability/rattled,/ability/static,/ability/klutz","rattled,static,klutz",Toxel
+0847,Barraskewda,Water,1.3 m (4′03″),30.0 kg (66.1 lbs),"/ability/swift-swim,/ability/propeller-tail","swift-swim,propeller-tail","Arrokuda,Barraskewda"
+0846,Arrokuda,Water,0.5 m (1′08″),1.0 kg (2.2 lbs),"/ability/swift-swim,/ability/propeller-tail","swift-swim,propeller-tail","Arrokuda,Barraskewda"
+0845,Cramorant,"Flying,Water",0.8 m (2′07″),18.0 kg (39.7 lbs),/ability/gulp-missile,gulp-missile,
+0844,Sandaconda,Ground,3.8 m (12′06″),65.5 kg (144.4 lbs),"/ability/sand-spit,/ability/shed-skin,/ability/sand-veil","sand-spit,shed-skin,sand-veil","Silicobra,Sandaconda"
+0864,Cursola,Ghost,1.0 m (3′03″),0.4 kg (0.9 lbs),"/ability/weak-armor,/ability/perish-body","weak-armor,perish-body","Corsola,Cursola"
+0863,Perrserker,Steel,0.8 m (2′07″),28.0 kg (61.7 lbs),"/ability/battle-armor,/ability/tough-claws,/ability/steely-spirit","battle-armor,tough-claws,steely-spirit","Meowth,Persian,Meowth,Persian,Meowth,Perrserker"
+0866,Mr. Rime,"Ice,Psychic",1.5 m (4′11″),58.2 kg (128.3 lbs),"/ability/tangled-feet,/ability/screen-cleaner,/ability/ice-body","tangled-feet,screen-cleaner,ice-body",Mime Jr.
+0865,Sirfetch'd,Fighting,0.8 m (2′07″),117.0 kg (257.9 lbs),"/ability/steadfast,/ability/scrappy","steadfast,scrappy","Farfetch'd,Sirfetch'd"
+0862,Obstagoon,"Dark,Normal",1.6 m (5′03″),46.0 kg (101.4 lbs),"/ability/reckless,/ability/guts,/ability/defiant","reckless,guts,defiant","Zigzagoon,Linoone,Zigzagoon,Linoone,Obstagoon"
+0861,Grimmsnarl,"Dark,Fairy",1.5 m (4′11″),61.0 kg (134.5 lbs),"/ability/prankster,/ability/frisk,/ability/pickpocket","prankster,frisk,pickpocket","Impidimp,Morgrem,Grimmsnarl"
+0860,Morgrem,"Dark,Fairy",0.8 m (2′07″),12.5 kg (27.6 lbs),"/ability/prankster,/ability/frisk,/ability/pickpocket","prankster,frisk,pickpocket","Impidimp,Morgrem,Grimmsnarl"
+0859,Impidimp,"Dark,Fairy",0.4 m (1′04″),5.5 kg (12.1 lbs),"/ability/prankster,/ability/frisk,/ability/pickpocket","prankster,frisk,pickpocket","Impidimp,Morgrem,Grimmsnarl"
+0875,Eiscue,"Ice,Ice,Route 10,Lake of Outrage,Frigid Sea",1.4 m (4′07″),89.0 kg (196.2 lbs),"/ability/ice-face,/ability/ice-face","ice-face,ice-face",
+0874,Stonjourner,Rock,2.5 m (8′02″),520.0 kg (1146.4 lbs),/ability/power-spot,power-spot,
+0889,Zamazenta,"Fighting,Fighting,Steel",2.9 m (9′06″),210.0 kg (463.0 lbs),"/ability/dauntless-shield,/ability/dauntless-shield","dauntless-shield,dauntless-shield",
+0888,Zacian,"Fairy,Fairy,Steel",2.8 m (9′02″),110.0 kg (242.5 lbs),"/ability/intrepid-sword,/ability/intrepid-sword","intrepid-sword,intrepid-sword",
+0887,Dragapult,"Dragon,Ghost",3.0 m (9′10″),50.0 kg (110.2 lbs),"/ability/clear-body,/ability/infiltrator,/ability/cursed-body","clear-body,infiltrator,cursed-body","Dreepy,Drakloak,Dragapult"
+0886,Drakloak,"Dragon,Ghost",1.4 m (4′07″),11.0 kg (24.3 lbs),"/ability/clear-body,/ability/infiltrator,/ability/cursed-body","clear-body,infiltrator,cursed-body","Dreepy,Drakloak,Dragapult"
+0885,Dreepy,"Dragon,Ghost",0.5 m (1′08″),2.0 kg (4.4 lbs),"/ability/clear-body,/ability/infiltrator,/ability/cursed-body","clear-body,infiltrator,cursed-body","Dreepy,Drakloak,Dragapult"
+0884,Duraludon,"Steel,Dragon",1.8 m (5′11″),40.0 kg (88.2 lbs),"/ability/light-metal,/ability/heavy-metal,/ability/stalwart","light-metal,heavy-metal,stalwart",
+0903,Sneasler,"Fighting,Poison",1.3 m (4′03″),43.0 kg (94.8 lbs),"/ability/pressure,/ability/unburden,/ability/poison-touch","pressure,unburden,poison-touch","Sneasel,Weavile,Sneasel,Sneasler"
+0902,Basculegion,"Water,Ghost,Water,Ghost",3.0 m (9′10″),110.0 kg (242.5 lbs),"/ability/swift-swim,/ability/adaptability,/ability/mold-breaker,/ability/swift-swim,/ability/adaptability,/ability/mold-breaker","swift-swim,adaptability,mold-breaker,swift-swim,adaptability,mold-breaker",Basculin
+0914,Quaquaval,"Water,Fighting",1.8 m (5′11″),61.9 kg (136.5 lbs),"/ability/torrent,/ability/moxie","torrent,moxie","Quaxly,Quaxwell,Quaquaval"
+0913,Quaxwell,Water,1.2 m (3′11″),21.5 kg (47.4 lbs),"/ability/torrent,/ability/moxie","torrent,moxie","Quaxly,Quaxwell,Quaquaval"
+0912,Quaxly,Water,0.5 m (1′08″),6.1 kg (13.4 lbs),"/ability/torrent,/ability/moxie","torrent,moxie","Quaxly,Quaxwell,Quaquaval"
+0910,Crocalor,Fire,1.0 m (3′03″),30.7 kg (67.7 lbs),"/ability/blaze,/ability/unaware","blaze,unaware","Fuecoco,Crocalor,Skeledirge"
+0909,Fuecoco,Fire,0.4 m (1′04″),9.8 kg (21.6 lbs),"/ability/blaze,/ability/unaware","blaze,unaware","Fuecoco,Crocalor,Skeledirge"
+0925,Maushold,"Normal,Normal",0.3 m (1′00″),2.8 kg (6.2 lbs),"/ability/friend-guard,/ability/cheek-pouch,/ability/technician,/ability/friend-guard,/ability/cheek-pouch,/ability/technician","friend-guard,cheek-pouch,technician,friend-guard,cheek-pouch,technician",Tandemaus
+0924,Tandemaus,Normal,0.3 m (1′00″),1.8 kg (4.0 lbs),"/ability/run-away,/ability/pickup,/ability/own-tempo","run-away,pickup,own-tempo",Tandemaus
+0911,Skeledirge,"Fire,Ghost",1.6 m (5′03″),326.5 kg (719.8 lbs),"/ability/blaze,/ability/unaware","blaze,unaware","Fuecoco,Crocalor,Skeledirge"
+0937,Ceruledge,"Fire,Ghost",1.6 m (5′03″),62.0 kg (136.7 lbs),"/ability/flash-fire,/ability/weak-armor","flash-fire,weak-armor",Charcadet
+0936,Armarouge,"Fire,Psychic",1.5 m (4′11″),85.0 kg (187.4 lbs),"/ability/flash-fire,/ability/weak-armor","flash-fire,weak-armor",Charcadet
+0935,Charcadet,Fire,0.6 m (2′00″),10.5 kg (23.1 lbs),"/ability/flash-fire,/ability/flame-body","flash-fire,flame-body",Charcadet
+0934,Garganacl,Rock,2.3 m (7′07″),240.0 kg (529.1 lbs),"/ability/purifying-salt,/ability/sturdy,/ability/clear-body","purifying-salt,sturdy,clear-body","Nacli,Naclstack,Garganacl"
+0933,Naclstack,Rock,0.6 m (2′00″),105.0 kg (231.5 lbs),"/ability/purifying-salt,/ability/sturdy,/ability/clear-body","purifying-salt,sturdy,clear-body","Nacli,Naclstack,Garganacl"
+0932,Nacli,Rock,0.4 m (1′04″),16.0 kg (35.3 lbs),"/ability/purifying-salt,/ability/sturdy,/ability/clear-body","purifying-salt,sturdy,clear-body","Nacli,Naclstack,Garganacl"
+0955,Flittle,Psychic,0.2 m (0′08″),1.5 kg (3.3 lbs),"/ability/anticipation,/ability/frisk,/ability/speed-boost","anticipation,frisk,speed-boost","Flittle,Espathra"
+0954,Rabsca,"Bug,Psychic",0.3 m (1′00″),3.5 kg (7.7 lbs),"/ability/synchronize,/ability/telepathy","synchronize,telepathy","Rellor,Rabsca"
+0969,Glimmet,"Rock,Poison",0.7 m (2′04″),8.0 kg (17.6 lbs),"/ability/toxic-debris,/ability/corrosion","toxic-debris,corrosion","Glimmet,Glimmora"
+0968,Orthworm,Steel,2.5 m (8′02″),310.0 kg (683.4 lbs),"/ability/earth-eater,/ability/sand-veil","earth-eater,sand-veil",
+0967,Cyclizar,"Dragon,Normal",1.6 m (5′03″),63.0 kg (138.9 lbs),"/ability/shed-skin,/ability/regenerator","shed-skin,regenerator",
+0966,Revavroom,"Steel,Poison",1.8 m (5′11″),120.0 kg (264.6 lbs),"/ability/overcoat,/ability/filter","overcoat,filter","Varoom,Revavroom"
+0965,Varoom,"Steel,Poison",1.0 m (3′03″),35.0 kg (77.2 lbs),"/ability/overcoat,/ability/slow-start","overcoat,slow-start","Varoom,Revavroom"
+0978,Tatsugiri,"Dragon,Water,Dragon,Water,Dragon,Water",0.3 m (1′00″),8.0 kg (17.6 lbs),"/ability/commander,/ability/storm-drain","commander,storm-drain",
+0977,Dondozo,Water,12.0 m (39′04″),220.0 kg (485.0 lbs),"/ability/unaware,/ability/oblivious,/ability/water-veil","unaware,oblivious,water-veil",
+0976,Veluza,"Water,Psychic",2.5 m (8′02″),90.0 kg (198.4 lbs),"/ability/mold-breaker,/ability/sharpness","mold-breaker,sharpness",
+0985,Scream Tail,"Fairy,Psychic",1.2 m (3′11″),8.0 kg (17.6 lbs),/ability/protosynthesis,protosynthesis,
+0984,Great Tusk,"Ground,Fighting",2.2 m (7′03″),320.0 kg (705.5 lbs),/ability/protosynthesis,protosynthesis,
+0983,Kingambit,"Dark,Steel",2.0 m (6′07″),120.0 kg (264.6 lbs),"/ability/defiant,/ability/supreme-overlord,/ability/pressure","defiant,supreme-overlord,pressure","Pawniard,Bisharp,Kingambit"
+0982,Dudunsparce,"Normal,Normal",3.6 m (11′10″),39.2 kg (86.4 lbs),"/ability/serene-grace,/ability/run-away,/ability/rattled,/ability/serene-grace,/ability/run-away,/ability/rattled","serene-grace,run-away,rattled,serene-grace,run-away,rattled",Dunsparce
+0981,Farigiraf,"Normal,Psychic",3.2 m (10′06″),160.0 kg (352.7 lbs),"/ability/cud-chew,/ability/armor-tail,/ability/sap-sipper","cud-chew,armor-tail,sap-sipper","Girafarig,Farigiraf"
+0999,Gimmighoul,"Ghost,Ghost",0.3 m (1′00″),5.0 kg (11.0 lbs),"/ability/rattled,/ability/run-away","rattled,run-away","Gimmighoul,Gholdengo"
+0998,Baxcalibur,"Dragon,Ice",2.1 m (6′11″),210.0 kg (463.0 lbs),"/ability/thermal-exchange,/ability/ice-body","thermal-exchange,ice-body","Frigibax,Arctibax,Baxcalibur"
+0997,Arctibax,"Dragon,Ice",0.8 m (2′07″),30.0 kg (66.1 lbs),"/ability/thermal-exchange,/ability/ice-body","thermal-exchange,ice-body","Frigibax,Arctibax,Baxcalibur"
+1010,Iron Leaves,"Grass,Psychic",1.5 m (4′11″),125.0 kg (275.6 lbs),/ability/quark-drive,quark-drive,
+1009,Walking Wake,"Water,Dragon",3.5 m (11′06″),280.0 kg (617.3 lbs),/ability/protosynthesis,protosynthesis,
+1008,Miraidon,"Electric,Dragon,Poco Path,The Great Crater of Paldea",3.5 m (11′06″),240.0 kg (529.1 lbs),/ability/hadron-engine,hadron-engine,
+1007,Koraidon,"Fighting,Dragon",2.5 m (8′02″),303.0 kg (668.0 lbs),/ability/orichalcum-pulse,orichalcum-pulse,
+1006,Iron Valiant,"Fairy,Fighting,The Great Crater of Paldea",1.4 m (4′07″),35.0 kg (77.2 lbs),/ability/quark-drive,quark-drive,
+1005,Roaring Moon,"Dragon,Dark",2.0 m (6′07″),380.0 kg (837.8 lbs),/ability/protosynthesis,protosynthesis,
+1004,Chi-Yu,"Dark,Fire",0.4 m (1′04″),4.9 kg (10.8 lbs),/ability/beads-of-ruin,beads-of-ruin,
+1003,Ting-Lu,"Dark,Ground",2.7 m (8′10″),699.7 kg (1542.6 lbs),/ability/vessel-of-ruin,vessel-of-ruin,
+1002,Chien-Pao,"Dark,Ice",1.9 m (6′03″),152.2 kg (335.5 lbs),/ability/sword-of-ruin,sword-of-ruin,
+1001,Wo-Chien,"Dark,Grass",1.5 m (4′11″),74.2 kg (163.6 lbs),/ability/tablets-of-ruin,tablets-of-ruin,
+1000,Gholdengo,"Steel,Ghost",1.2 m (3′11″),30.0 kg (66.1 lbs),/ability/good-as-gold,good-as-gold,"Gimmighoul,Gholdengo"
+0996,Frigibax,"Dragon,Ice",0.5 m (1′08″),17.0 kg (37.5 lbs),"/ability/thermal-exchange,/ability/ice-body","thermal-exchange,ice-body","Frigibax,Arctibax,Baxcalibur"
+0995,Iron Thorns,"Rock,Electric,The Great Crater of Paldea",1.6 m (5′03″),303.0 kg (668.0 lbs),/ability/quark-drive,quark-drive,
+0994,Iron Moth,"Fire,Poison,The Great Crater of Paldea",1.2 m (3′11″),36.0 kg (79.4 lbs),/ability/quark-drive,quark-drive,
+0993,Iron Jugulis,"Dark,Flying,The Great Crater of Paldea",1.3 m (4′03″),111.0 kg (244.7 lbs),/ability/quark-drive,quark-drive,
+0992,Iron Hands,"Fighting,Electric,The Great Crater of Paldea",1.8 m (5′11″),380.7 kg (839.3 lbs),/ability/quark-drive,quark-drive,
+0991,Iron Bundle,"Ice,Water,The Great Crater of Paldea",0.6 m (2′00″),11.0 kg (24.3 lbs),/ability/quark-drive,quark-drive,
+0990,Iron Treads,"Ground,Steel,The Great Crater of Paldea",0.9 m (2′11″),240.0 kg (529.1 lbs),/ability/quark-drive,quark-drive,
+0989,Sandy Shocks,"Electric,Ground",2.3 m (7′07″),60.0 kg (132.3 lbs),/ability/protosynthesis,protosynthesis,
+0988,Slither Wing,"Bug,Fighting",3.2 m (10′06″),92.0 kg (202.8 lbs),/ability/protosynthesis,protosynthesis,
+0987,Flutter Mane,"Ghost,Fairy",1.4 m (4′07″),4.0 kg (8.8 lbs),/ability/protosynthesis,protosynthesis,
+0986,Brute Bonnet,"Grass,Dark",1.2 m (3′11″),21.0 kg (46.3 lbs),/ability/protosynthesis,protosynthesis,
+0980,Clodsire,"Poison,Ground",1.8 m (5′11″),223.0 kg (491.6 lbs),"/ability/poison-point,/ability/water-absorb,/ability/unaware","poison-point,water-absorb,unaware","Wooper,Quagsire,Wooper,Clodsire"
+0979,Annihilape,"Fighting,Ghost",1.2 m (3′11″),56.0 kg (123.5 lbs),"/ability/vital-spirit,/ability/inner-focus,/ability/defiant","vital-spirit,inner-focus,defiant","Mankey,Primeape,Annihilape"
+0975,Cetitan,Ice,4.5 m (14′09″),700.0 kg (1543.2 lbs),"/ability/thick-fat,/ability/slush-rush,/ability/sheer-force","thick-fat,slush-rush,sheer-force","Cetoddle,Cetitan"
+0974,Cetoddle,Ice,1.2 m (3′11″),45.0 kg (99.2 lbs),"/ability/thick-fat,/ability/snow-cloak,/ability/sheer-force","thick-fat,snow-cloak,sheer-force","Cetoddle,Cetitan"
+0973,Flamigo,"Flying,Fighting",1.6 m (5′03″),37.0 kg (81.6 lbs),"/ability/scrappy,/ability/tangled-feet,/ability/costar","scrappy,tangled-feet,costar",
+0972,Houndstone,Ghost,2.0 m (6′07″),15.0 kg (33.1 lbs),"/ability/sand-rush,/ability/fluffy","sand-rush,fluffy","Greavard,Houndstone"
+0971,Greavard,Ghost,0.6 m (2′00″),35.0 kg (77.2 lbs),"/ability/pickup,/ability/fluffy","pickup,fluffy","Greavard,Houndstone"
+0970,Glimmora,"Rock,Poison",1.5 m (4′11″),45.0 kg (99.2 lbs),"/ability/toxic-debris,/ability/corrosion","toxic-debris,corrosion","Glimmet,Glimmora"
+0964,Palafin,"Water,Water",1.3 m (4′03″),60.2 kg (132.7 lbs),"/ability/zero-to-hero,/ability/zero-to-hero","zero-to-hero,zero-to-hero","Finizen,Palafin"
+0963,Finizen,Water,1.3 m (4′03″),60.2 kg (132.7 lbs),/ability/water-veil,water-veil,"Finizen,Palafin"
+0962,Bombirdier,"Flying,Dark",1.5 m (4′11″),42.9 kg (94.6 lbs),"/ability/big-pecks,/ability/keen-eye,/ability/rocky-payload","big-pecks,keen-eye,rocky-payload",
+0961,Wugtrio,Water,1.2 m (3′11″),5.4 kg (11.9 lbs),"/ability/gooey,/ability/rattled,/ability/sand-veil","gooey,rattled,sand-veil","Wiglett,Wugtrio"
+0960,Wiglett,Water,1.2 m (3′11″),1.8 kg (4.0 lbs),"/ability/gooey,/ability/rattled,/ability/sand-veil","gooey,rattled,sand-veil","Wiglett,Wugtrio"
+0959,Tinkaton,"Fairy,Steel",0.7 m (2′04″),112.8 kg (248.7 lbs),"/ability/mold-breaker,/ability/own-tempo,/ability/pickpocket","mold-breaker,own-tempo,pickpocket","Tinkatink,Tinkatuff,Tinkaton"
+0958,Tinkatuff,"Fairy,Steel",0.7 m (2′04″),59.1 kg (130.3 lbs),"/ability/mold-breaker,/ability/own-tempo,/ability/pickpocket","mold-breaker,own-tempo,pickpocket","Tinkatink,Tinkatuff,Tinkaton"
+0957,Tinkatink,"Fairy,Steel",0.4 m (1′04″),8.9 kg (19.6 lbs),"/ability/mold-breaker,/ability/own-tempo,/ability/pickpocket","mold-breaker,own-tempo,pickpocket","Tinkatink,Tinkatuff,Tinkaton"
+0956,Espathra,Psychic,1.9 m (6′03″),90.0 kg (198.4 lbs),"/ability/opportunist,/ability/frisk,/ability/speed-boost","opportunist,frisk,speed-boost","Flittle,Espathra"
+0953,Rellor,Bug,0.2 m (0′08″),1.0 kg (2.2 lbs),"/ability/compound-eyes,/ability/shed-skin","compound-eyes,shed-skin","Rellor,Rabsca"
+0952,Scovillain,"Grass,Fire",0.9 m (2′11″),15.0 kg (33.1 lbs),"/ability/chlorophyll,/ability/insomnia,/ability/moody","chlorophyll,insomnia,moody","Capsakid,Scovillain"
+0951,Capsakid,Grass,0.3 m (1′00″),3.0 kg (6.6 lbs),"/ability/chlorophyll,/ability/insomnia,/ability/klutz","chlorophyll,insomnia,klutz","Capsakid,Scovillain"
+0950,Klawf,Rock,1.3 m (4′03″),79.0 kg (174.2 lbs),"/ability/anger-shell,/ability/shell-armor,/ability/regenerator","anger-shell,shell-armor,regenerator",
+0949,Toedscruel,"Ground,Grass",1.9 m (6′03″),58.0 kg (127.9 lbs),/ability/mycelium-might,mycelium-might,"Toedscool,Toedscruel"
+0948,Toedscool,"Ground,Grass",0.9 m (2′11″),33.0 kg (72.8 lbs),/ability/mycelium-might,mycelium-might,"Toedscool,Toedscruel"
+0947,Brambleghast,"Grass,Ghost",1.2 m (3′11″),6.0 kg (13.2 lbs),"/ability/wind-rider,/ability/infiltrator","wind-rider,infiltrator","Bramblin,Brambleghast"
+0946,Bramblin,"Grass,Ghost",0.6 m (2′00″),0.6 kg (1.3 lbs),"/ability/wind-rider,/ability/infiltrator","wind-rider,infiltrator","Bramblin,Brambleghast"
+0945,Grafaiai,"Poison,Normal",0.7 m (2′04″),27.2 kg (60.0 lbs),"/ability/unburden,/ability/poison-touch,/ability/prankster","unburden,poison-touch,prankster","Shroodle,Grafaiai"
+0944,Shroodle,"Poison,Normal",0.2 m (0′08″),0.7 kg (1.5 lbs),"/ability/unburden,/ability/pickpocket,/ability/prankster","unburden,pickpocket,prankster","Shroodle,Grafaiai"
+0943,Mabosstiff,Dark,1.1 m (3′07″),61.0 kg (134.5 lbs),"/ability/intimidate,/ability/guard-dog,/ability/stakeout","intimidate,guard-dog,stakeout","Maschiff,Mabosstiff"
+0942,Maschiff,Dark,0.5 m (1′08″),16.0 kg (35.3 lbs),"/ability/intimidate,/ability/run-away,/ability/stakeout","intimidate,run-away,stakeout","Maschiff,Mabosstiff"
+0941,Kilowattrel,"Electric,Flying",1.4 m (4′07″),38.6 kg (85.1 lbs),"/ability/wind-power,/ability/volt-absorb,/ability/competitive","wind-power,volt-absorb,competitive","Wattrel,Kilowattrel"
+0939,Bellibolt,Electric,1.2 m (3′11″),113.0 kg (249.1 lbs),"/ability/electromorphosis,/ability/static,/ability/damp","electromorphosis,static,damp","Tadbulb,Bellibolt"
+0938,Tadbulb,Electric,0.3 m (1′00″),0.4 kg (0.9 lbs),"/ability/own-tempo,/ability/static,/ability/damp","own-tempo,static,damp","Tadbulb,Bellibolt"
+0931,Squawkabilly,"Normal,Flying,Normal,Flying,Normal,Flying,Normal,Flying",0.6 m (2′00″),2.4 kg (5.3 lbs),"/ability/intimidate,/ability/hustle,/ability/guts,/ability/intimidate,/ability/hustle,/ability/guts,/ability/intimidate,/ability/hustle,/ability/sheer-force,/ability/intimidate,/ability/hustle,/ability/sheer-force","intimidate,hustle,guts,intimidate,hustle,guts,intimidate,hustle,sheer-force,intimidate,hustle,sheer-force",
+0940,Wattrel,"Electric,Flying",0.4 m (1′04″),3.6 kg (7.9 lbs),"/ability/wind-power,/ability/volt-absorb,/ability/competitive","wind-power,volt-absorb,competitive","Wattrel,Kilowattrel"
+0930,Arboliva,"Grass,Normal",1.4 m (4′07″),48.2 kg (106.3 lbs),"/ability/seed-sower,/ability/harvest","seed-sower,harvest","Smoliv,Dolliv,Arboliva"
+0929,Dolliv,"Grass,Normal",0.6 m (2′00″),11.9 kg (26.2 lbs),"/ability/early-bird,/ability/harvest","early-bird,harvest","Smoliv,Dolliv,Arboliva"
+0928,Smoliv,"Grass,Normal",0.3 m (1′00″),6.5 kg (14.3 lbs),"/ability/early-bird,/ability/harvest","early-bird,harvest","Smoliv,Dolliv,Arboliva"
+0927,Dachsbun,Fairy,0.5 m (1′08″),14.9 kg (32.8 lbs),"/ability/well-baked-body,/ability/aroma-veil","well-baked-body,aroma-veil","Fidough,Dachsbun"
+0926,Fidough,Fairy,0.3 m (1′00″),10.9 kg (24.0 lbs),"/ability/own-tempo,/ability/klutz","own-tempo,klutz","Fidough,Dachsbun"
+0923,Pawmot,"Electric,Fighting",0.9 m (2′11″),41.0 kg (90.4 lbs),"/ability/volt-absorb,/ability/natural-cure,/ability/iron-fist","volt-absorb,natural-cure,iron-fist","Pawmi,Pawmo,Pawmot"
+0922,Pawmo,"Electric,Fighting",0.4 m (1′04″),6.5 kg (14.3 lbs),"/ability/volt-absorb,/ability/natural-cure,/ability/iron-fist","volt-absorb,natural-cure,iron-fist","Pawmi,Pawmo,Pawmot"
+0921,Pawmi,Electric,0.3 m (1′00″),2.5 kg (5.5 lbs),"/ability/static,/ability/natural-cure,/ability/iron-fist","static,natural-cure,iron-fist","Pawmi,Pawmo,Pawmot"
+0920,Lokix,"Bug,Dark",1.0 m (3′03″),17.5 kg (38.6 lbs),"/ability/swarm,/ability/tinted-lens","swarm,tinted-lens","Nymble,Lokix"
+0919,Nymble,Bug,0.2 m (0′08″),1.0 kg (2.2 lbs),"/ability/swarm,/ability/tinted-lens","swarm,tinted-lens","Nymble,Lokix"
+0918,Spidops,Bug,1.0 m (3′03″),16.5 kg (36.4 lbs),"/ability/insomnia,/ability/stakeout","insomnia,stakeout","Tarountula,Spidops"
+0917,Tarountula,Bug,0.3 m (1′00″),4.0 kg (8.8 lbs),"/ability/insomnia,/ability/stakeout","insomnia,stakeout","Tarountula,Spidops"
+0916,Oinkologne,"Normal,Normal",1.0 m (3′03″),120.0 kg (264.6 lbs),"/ability/lingering-aroma,/ability/gluttony,/ability/thick-fat,/ability/aroma-veil,/ability/gluttony,/ability/thick-fat","lingering-aroma,gluttony,thick-fat,aroma-veil,gluttony,thick-fat",Lechonk
+0915,Lechonk,Normal,0.5 m (1′08″),10.2 kg (22.5 lbs),"/ability/aroma-veil,/ability/gluttony,/ability/thick-fat","aroma-veil,gluttony,thick-fat",Lechonk
+0908,Meowscarada,"Grass,Dark",1.5 m (4′11″),31.2 kg (68.8 lbs),"/ability/overgrow,/ability/protean","overgrow,protean","Sprigatito,Floragato,Meowscarada"
+0907,Floragato,Grass,0.9 m (2′11″),12.2 kg (26.9 lbs),"/ability/overgrow,/ability/protean","overgrow,protean","Sprigatito,Floragato,Meowscarada"
+0906,Sprigatito,Grass,0.4 m (1′04″),4.1 kg (9.0 lbs),"/ability/overgrow,/ability/protean","overgrow,protean","Sprigatito,Floragato,Meowscarada"
+0905,Enamorus,"Fairy,Flying,Fairy,Flying,Scarlet Bog",1.6 m (5′03″),48.0 kg (105.8 lbs),"/ability/cute-charm,/ability/contrary,/ability/overcoat","cute-charm,contrary,overcoat",
+0904,Overqwil,"Dark,Poison",2.5 m (8′02″),60.5 kg (133.4 lbs),"/ability/poison-point,/ability/swift-swim,/ability/intimidate","poison-point,swift-swim,intimidate","Qwilfish,Overqwil"
+0901,Ursaluna,"Ground,Normal",2.4 m (7′10″),290.0 kg (639.3 lbs),"/ability/guts,/ability/bulletproof,/ability/unnerve","guts,bulletproof,unnerve","Teddiursa,Ursaring,Ursaluna"
+0900,Kleavor,"Bug,Rock",1.8 m (5′11″),89.0 kg (196.2 lbs),"/ability/swarm,/ability/sheer-force,/ability/sharpness","swarm,sheer-force,sharpness",Scyther
+0899,Wyrdeer,"Normal,Psychic",1.8 m (5′11″),95.1 kg (209.7 lbs),"/ability/intimidate,/ability/frisk,/ability/sap-sipper","intimidate,frisk,sap-sipper","Stantler,Wyrdeer"
+0898,Calyrex,"Psychic,Grass,Psychic,Ice,Psychic,Ghost",1.1 m (3′07″),7.7 kg (17.0 lbs),"/ability/unnerve,/ability/as-one,/ability/as-one","unnerve,as-one,as-one",
+0897,Spectrier,Ghost,2.0 m (6′07″),44.5 kg (98.1 lbs),/ability/grim-neigh,grim-neigh,
+0896,Glastrier,Ice,2.2 m (7′03″),800.0 kg (1763.7 lbs),/ability/chilling-neigh,chilling-neigh,
+0895,Regidrago,Dragon,2.1 m (6′11″),200.0 kg (440.9 lbs),/ability/dragons-maw,dragons-maw,
+0894,Regieleki,Electric,1.2 m (3′11″),145.0 kg (319.7 lbs),/ability/transistor,transistor,
+0893,Zarude,"Dark,Grass",1.8 m (5′11″),70.0 kg (154.3 lbs),/ability/leaf-guard,leaf-guard,
+0892,Urshifu,"Fighting,Dark,Fighting,Water",1.9 m (6′03″),105.0 kg (231.5 lbs),"/ability/unseen-fist,/ability/unseen-fist","unseen-fist,unseen-fist",Kubfu
+0891,Kubfu,Fighting,0.6 m (2′00″),12.0 kg (26.5 lbs),/ability/inner-focus,inner-focus,Kubfu
+0890,Eternatus,"Poison,Dragon,Poison,Dragon",20.0 m (65′07″),950.0 kg (2094.4 lbs),/ability/pressure,pressure,
+0883,Arctovish,"Water,Ice",2.0 m (6′07″),175.0 kg (385.8 lbs),"/ability/water-absorb,/ability/ice-body,/ability/slush-rush","water-absorb,ice-body,slush-rush",
+0882,Dracovish,"Water,Dragon",2.3 m (7′07″),215.0 kg (474.0 lbs),"/ability/water-absorb,/ability/strong-jaw,/ability/sand-rush","water-absorb,strong-jaw,sand-rush",
+0881,Arctozolt,"Electric,Ice",2.3 m (7′07″),150.0 kg (330.7 lbs),"/ability/volt-absorb,/ability/static,/ability/slush-rush","volt-absorb,static,slush-rush",
+0880,Dracozolt,"Electric,Dragon",1.8 m (5′11″),190.0 kg (418.9 lbs),"/ability/volt-absorb,/ability/hustle,/ability/sand-rush","volt-absorb,hustle,sand-rush",
+0879,Copperajah,Steel,3.0 m (9′10″),650.0 kg (1433.0 lbs),"/ability/sheer-force,/ability/heavy-metal","sheer-force,heavy-metal","Cufant,Copperajah"
+0878,Cufant,Steel,1.2 m (3′11″),100.0 kg (220.5 lbs),"/ability/sheer-force,/ability/heavy-metal","sheer-force,heavy-metal","Cufant,Copperajah"
+0877,Morpeko,"Electric,Dark,Electric,Dark",0.3 m (1′00″),3.0 kg (6.6 lbs),"/ability/hunger-switch,/ability/hunger-switch","hunger-switch,hunger-switch",
+0876,Indeedee,"Psychic,Normal,Psychic,Normal",0.9 m (2′11″),28.0 kg (61.7 lbs),"/ability/inner-focus,/ability/synchronize,/ability/psychic-surge,/ability/own-tempo,/ability/synchronize,/ability/psychic-surge","inner-focus,synchronize,psychic-surge,own-tempo,synchronize,psychic-surge",
+0873,Frosmoth,"Ice,Bug",1.3 m (4′03″),42.0 kg (92.6 lbs),"/ability/shield-dust,/ability/ice-scales","shield-dust,ice-scales","Snom,Frosmoth"
+0872,Snom,"Ice,Bug",0.3 m (1′00″),3.8 kg (8.4 lbs),"/ability/shield-dust,/ability/ice-scales","shield-dust,ice-scales","Snom,Frosmoth"
+0871,Pincurchin,Electric,0.3 m (1′00″),1.0 kg (2.2 lbs),"/ability/lightning-rod,/ability/electric-surge","lightning-rod,electric-surge",
+0870,Falinks,Fighting,3.0 m (9′10″),62.0 kg (136.7 lbs),"/ability/battle-armor,/ability/defiant","battle-armor,defiant",
+0869,Alcremie,Fairy,0.3 m (1′00″),0.5 kg (1.1 lbs),"/ability/sweet-veil,/ability/aroma-veil","sweet-veil,aroma-veil","Milcery,Alcremie"
+0868,Milcery,Fairy,0.2 m (0′08″),0.3 kg (0.7 lbs),"/ability/sweet-veil,/ability/aroma-veil","sweet-veil,aroma-veil","Milcery,Alcremie"
+0867,Runerigus,"Ground,Ghost",1.6 m (5′03″),66.6 kg (146.8 lbs),/ability/wandering-spirit,wandering-spirit,"Yamask,Cofagrigus,Yamask,Runerigus"
+0858,Hatterene,"Psychic,Fairy",2.1 m (6′11″),5.1 kg (11.2 lbs),"/ability/healer,/ability/anticipation,/ability/magic-bounce","healer,anticipation,magic-bounce","Hatenna,Hattrem,Hatterene"
+0857,Hattrem,Psychic,0.6 m (2′00″),4.8 kg (10.6 lbs),"/ability/healer,/ability/anticipation,/ability/magic-bounce","healer,anticipation,magic-bounce","Hatenna,Hattrem,Hatterene"
+0856,Hatenna,Psychic,0.4 m (1′04″),3.4 kg (7.5 lbs),"/ability/healer,/ability/anticipation,/ability/magic-bounce","healer,anticipation,magic-bounce","Hatenna,Hattrem,Hatterene"
+0855,Polteageist,Ghost,0.2 m (0′08″),0.4 kg (0.9 lbs),"/ability/weak-armor,/ability/cursed-body","weak-armor,cursed-body","Sinistea,Polteageist"
+0854,Sinistea,Ghost,0.1 m (0′04″),0.2 kg (0.4 lbs),"/ability/weak-armor,/ability/cursed-body","weak-armor,cursed-body","Sinistea,Polteageist"
+0853,Grapploct,Fighting,1.6 m (5′03″),39.0 kg (86.0 lbs),"/ability/limber,/ability/technician","limber,technician","Clobbopus,Grapploct"
+0852,Clobbopus,Fighting,0.6 m (2′00″),4.0 kg (8.8 lbs),"/ability/limber,/ability/technician","limber,technician","Clobbopus,Grapploct"
+0851,Centiskorch,"Fire,Bug",3.0 m (9′10″),120.0 kg (264.6 lbs),"/ability/flash-fire,/ability/white-smoke,/ability/flame-body","flash-fire,white-smoke,flame-body","Sizzlipede,Centiskorch"
+0850,Sizzlipede,"Fire,Bug",0.7 m (2′04″),1.0 kg (2.2 lbs),"/ability/flash-fire,/ability/white-smoke,/ability/flame-body","flash-fire,white-smoke,flame-body","Sizzlipede,Centiskorch"
+0843,Silicobra,Ground,2.2 m (7′03″),7.6 kg (16.8 lbs),"/ability/sand-spit,/ability/shed-skin,/ability/sand-veil","sand-spit,shed-skin,sand-veil","Silicobra,Sandaconda"
+0842,Appletun,"Grass,Dragon,Stepping-Stone Sea",0.4 m (1′04″),13.0 kg (28.7 lbs),"/ability/ripen,/ability/gluttony,/ability/thick-fat","ripen,gluttony,thick-fat",Applin
+0841,Flapple,"Grass,Dragon",0.3 m (1′00″),1.0 kg (2.2 lbs),"/ability/ripen,/ability/gluttony,/ability/hustle","ripen,gluttony,hustle",Applin
+0840,Applin,"Grass,Dragon",0.2 m (0′08″),0.5 kg (1.1 lbs),"/ability/ripen,/ability/gluttony,/ability/bulletproof","ripen,gluttony,bulletproof",Applin
+0839,Coalossal,"Rock,Fire",2.8 m (9′02″),310.5 kg (684.5 lbs),"/ability/steam-engine,/ability/flame-body,/ability/flash-fire","steam-engine,flame-body,flash-fire","Rolycoly,Carkol,Coalossal"
+0838,Carkol,"Rock,Fire",1.1 m (3′07″),78.0 kg (172.0 lbs),"/ability/steam-engine,/ability/flame-body,/ability/flash-fire","steam-engine,flame-body,flash-fire","Rolycoly,Carkol,Coalossal"
+0837,Rolycoly,Rock,0.3 m (1′00″),12.0 kg (26.5 lbs),"/ability/steam-engine,/ability/heatproof,/ability/flash-fire","steam-engine,heatproof,flash-fire","Rolycoly,Carkol,Coalossal"
+0836,Boltund,Electric,1.0 m (3′03″),34.0 kg (75.0 lbs),"/ability/strong-jaw,/ability/competitive","strong-jaw,competitive","Yamper,Boltund"
+0835,Yamper,Electric,0.3 m (1′00″),13.5 kg (29.8 lbs),"/ability/ball-fetch,/ability/rattled","ball-fetch,rattled","Yamper,Boltund"
+0826,Orbeetle,"Bug,Psychic",0.4 m (1′04″),40.8 kg (89.9 lbs),"/ability/swarm,/ability/frisk,/ability/telepathy","swarm,frisk,telepathy","Blipbug,Dottler,Orbeetle"
+0825,Dottler,"Bug,Psychic",0.4 m (1′04″),19.5 kg (43.0 lbs),"/ability/swarm,/ability/compound-eyes,/ability/telepathy","swarm,compound-eyes,telepathy","Blipbug,Dottler,Orbeetle"
+0824,Blipbug,Bug,0.4 m (1′04″),8.0 kg (17.6 lbs),"/ability/swarm,/ability/compound-eyes,/ability/telepathy","swarm,compound-eyes,telepathy","Blipbug,Dottler,Orbeetle"
+0823,Corviknight,"Flying,Steel",2.2 m (7′03″),75.0 kg (165.3 lbs),"/ability/pressure,/ability/unnerve,/ability/mirror-armor","pressure,unnerve,mirror-armor","Rookidee,Corvisquire,Corviknight"
+0822,Corvisquire,Flying,0.8 m (2′07″),16.0 kg (35.3 lbs),"/ability/keen-eye,/ability/unnerve,/ability/big-pecks","keen-eye,unnerve,big-pecks","Rookidee,Corvisquire,Corviknight"
+0821,Rookidee,Flying,0.2 m (0′08″),1.8 kg (4.0 lbs),"/ability/keen-eye,/ability/unnerve,/ability/big-pecks","keen-eye,unnerve,big-pecks","Rookidee,Corvisquire,Corviknight"
+0820,Greedent,Normal,0.6 m (2′00″),6.0 kg (13.2 lbs),"/ability/cheek-pouch,/ability/gluttony","cheek-pouch,gluttony","Skwovet,Greedent"
+0819,Skwovet,Normal,0.3 m (1′00″),2.5 kg (5.5 lbs),"/ability/cheek-pouch,/ability/gluttony","cheek-pouch,gluttony","Skwovet,Greedent"
+0818,Inteleon,Water,1.9 m (6′03″),45.2 kg (99.6 lbs),"/ability/torrent,/ability/sniper","torrent,sniper","Sobble,Drizzile,Inteleon"
+0817,Drizzile,Water,0.7 m (2′04″),11.5 kg (25.4 lbs),"/ability/torrent,/ability/sniper","torrent,sniper","Sobble,Drizzile,Inteleon"
+0816,Sobble,Water,0.3 m (1′00″),4.0 kg (8.8 lbs),"/ability/torrent,/ability/sniper","torrent,sniper","Sobble,Drizzile,Inteleon"
+0815,Cinderace,Fire,1.4 m (4′07″),33.0 kg (72.8 lbs),"/ability/blaze,/ability/libero","blaze,libero","Scorbunny,Raboot,Cinderace"
+0814,Raboot,Fire,0.6 m (2′00″),9.0 kg (19.8 lbs),"/ability/blaze,/ability/libero","blaze,libero","Scorbunny,Raboot,Cinderace"
+0813,Scorbunny,Fire,0.3 m (1′00″),4.5 kg (9.9 lbs),"/ability/blaze,/ability/libero","blaze,libero","Scorbunny,Raboot,Cinderace"
+0804,Naganadel,"Poison,Dragon",3.6 m (11′10″),150.0 kg (330.7 lbs),/ability/beast-boost,beast-boost,"Poipole,Naganadel"
+0803,Poipole,Poison,0.6 m (2′00″),1.8 kg (4.0 lbs),/ability/beast-boost,beast-boost,"Poipole,Naganadel"
+0802,Marshadow,"Fighting,Ghost",0.7 m (2′04″),22.2 kg (48.9 lbs),/ability/technician,technician,
+0801,Magearna,"Steel,Fairy",1.0 m (3′03″),80.5 kg (177.5 lbs),/ability/soul-heart,soul-heart,
+0798,Kartana,"Grass,Steel",0.3 m (1′00″),0.1 kg (0.2 lbs),/ability/beast-boost,beast-boost,
+0797,Celesteela,"Steel,Flying,Haina Desert,Malie Garden",9.2 m (30′02″),999.9 kg (2204.4 lbs),/ability/beast-boost,beast-boost,
+0796,Xurkitree,"Electric,Ultra Space",3.8 m (12′06″),100.0 kg (220.5 lbs),/ability/beast-boost,beast-boost,
+0795,Pheromosa,"Bug,Fighting,Verdant Cavern",1.8 m (5′11″),25.0 kg (55.1 lbs),/ability/beast-boost,beast-boost,
+0794,Buzzwole,"Bug,Fighting",2.4 m (7′10″),333.6 kg (735.5 lbs),/ability/beast-boost,beast-boost,
+0793,Nihilego,"Rock,Poison,Ultra Space",1.2 m (3′11″),55.5 kg (122.4 lbs),/ability/beast-boost,beast-boost,
+0786,Tapu Lele,"Psychic,Fairy",1.2 m (3′11″),18.6 kg (41.0 lbs),"/ability/psychic-surge,/ability/telepathy","psychic-surge,telepathy",
+0785,Tapu Koko,"Electric,Fairy",1.8 m (5′11″),20.5 kg (45.2 lbs),"/ability/electric-surge,/ability/telepathy","electric-surge,telepathy",
+0784,Kommo-o,"Dragon,Fighting,Vast Poni Canyon,Heahea Beach",1.6 m (5′03″),78.2 kg (172.4 lbs),"/ability/bulletproof,/ability/soundproof,/ability/overcoat","bulletproof,soundproof,overcoat","Jangmo-o,Hakamo-o,Kommo-o"
+0783,Hakamo-o,"Dragon,Fighting",1.2 m (3′11″),47.0 kg (103.6 lbs),"/ability/bulletproof,/ability/soundproof,/ability/overcoat","bulletproof,soundproof,overcoat","Jangmo-o,Hakamo-o,Kommo-o"
+0782,Jangmo-o,Dragon,0.6 m (2′00″),29.7 kg (65.5 lbs),"/ability/bulletproof,/ability/soundproof,/ability/overcoat","bulletproof,soundproof,overcoat","Jangmo-o,Hakamo-o,Kommo-o"
+0781,Dhelmise,"Ghost,Grass",3.9 m (12′10″),210.0 kg (463.0 lbs),/ability/steelworker,steelworker,
+0778,Mimikyu,"Ghost,Fairy,Thrifty Megamart,Heahea Beach",0.2 m (0′08″),0.7 kg (1.5 lbs),/ability/disguise,disguise,
+0777,Togedemaru,"Electric,Steel,Blush Mountain,Heahea Beach",0.3 m (1′00″),3.3 kg (7.3 lbs),"/ability/iron-barbs,/ability/lightning-rod,/ability/sturdy","iron-barbs,lightning-rod,sturdy",
+0776,Turtonator,"Fire,Dragon",2.0 m (6′07″),212.0 kg (467.4 lbs),/ability/shell-armor,shell-armor,
+0775,Komala,Normal,0.4 m (1′04″),19.9 kg (43.9 lbs),/ability/comatose,comatose,
+0774,Minior,"Rock,Flying,Rock,Flying",0.3 m (1′00″),40.0 kg (88.2 lbs),"/ability/shields-down,/ability/shields-down","shields-down,shields-down",
+0773,Silvally,Normal,2.3 m (7′07″),100.5 kg (221.6 lbs),/ability/rks-system,rks-system,"Type: Null,Silvally"
+0772,Type: Null,"Normal,Ancient Poni Path",1.9 m (6′03″),120.5 kg (265.7 lbs),/ability/battle-armor,battle-armor,"Type: Null,Silvally"
+0771,Pyukumuku,Water,0.3 m (1′00″),1.2 kg (2.6 lbs),"/ability/innards-out,/ability/unaware","innards-out,unaware",
+0770,Palossand,"Ghost,Ground",1.3 m (4′03″),250.0 kg (551.2 lbs),"/ability/water-compaction,/ability/sand-veil","water-compaction,sand-veil","Sandygast,Palossand"
+0763,Tsareena,Grass,1.2 m (3′11″),21.4 kg (47.2 lbs),"/ability/leaf-guard,/ability/queenly-majesty,/ability/sweet-veil","leaf-guard,queenly-majesty,sweet-veil","Bounsweet,Steenee,Tsareena"
+0762,Steenee,"Grass,Lush Jungle",0.7 m (2′04″),8.2 kg (18.1 lbs),"/ability/leaf-guard,/ability/oblivious,/ability/sweet-veil","leaf-guard,oblivious,sweet-veil","Bounsweet,Steenee,Tsareena"
+0761,Bounsweet,Grass,0.3 m (1′00″),3.2 kg (7.1 lbs),"/ability/leaf-guard,/ability/oblivious,/ability/sweet-veil","leaf-guard,oblivious,sweet-veil","Bounsweet,Steenee,Tsareena"
+0758,Salazzle,"Poison,Fire,Wela Volcano Park,Lush Jungle",1.2 m (3′11″),22.2 kg (48.9 lbs),"/ability/corrosion,/ability/oblivious","corrosion,oblivious","Salandit,Salazzle"
+0757,Salandit,"Poison,Fire,Route 8,Wela Volcano Park,Lush Jungle",0.6 m (2′00″),4.8 kg (10.6 lbs),"/ability/corrosion,/ability/oblivious","corrosion,oblivious","Salandit,Salazzle"
+0756,Shiinotic,"Grass,Fairy,Route 11",1.0 m (3′03″),11.5 kg (25.4 lbs),"/ability/illuminate,/ability/effect-spore,/ability/rain-dish","illuminate,effect-spore,rain-dish","Morelull,Shiinotic"
+0755,Morelull,"Grass,Fairy,Brooklet Hill,Lush Jungle",0.2 m (0′08″),1.5 kg (3.3 lbs),"/ability/illuminate,/ability/effect-spore,/ability/rain-dish","illuminate,effect-spore,rain-dish","Morelull,Shiinotic"
+0754,Lurantis,"Grass,Heahea Beach",0.9 m (2′11″),18.5 kg (40.8 lbs),"/ability/leaf-guard,/ability/contrary","leaf-guard,contrary","Fomantis,Lurantis"
+0753,Fomantis,Grass,0.3 m (1′00″),1.5 kg (3.3 lbs),"/ability/leaf-guard,/ability/contrary","leaf-guard,contrary","Fomantis,Lurantis"
+0752,Araquanid,"Water,Bug,Malie Garden,Heahea Beach",1.8 m (5′11″),82.0 kg (180.8 lbs),"/ability/water-bubble,/ability/water-absorb","water-bubble,water-absorb","Dewpider,Araquanid"
+0751,Dewpider,"Water,Bug",0.3 m (1′00″),4.0 kg (8.8 lbs),"/ability/water-bubble,/ability/water-absorb","water-bubble,water-absorb","Dewpider,Araquanid"
+0742,Cutiefly,"Bug,Fairy,Route 2,3,Melemele Meadow,Poké Pelago",0.1 m (0′04″),0.2 kg (0.4 lbs),"/ability/honey-gather,/ability/shield-dust,/ability/sweet-veil","honey-gather,shield-dust,sweet-veil","Cutiefly,Ribombee"
+0741,Oricorio,"Fire,Flying,Electric,Flying,Psychic,Flying,Ghost,Flying",0.6 m (2′00″),3.4 kg (7.5 lbs),"/ability/dancer,/ability/dancer,/ability/dancer,/ability/dancer","dancer,dancer,dancer,dancer",
+0734,Yungoos,"Normal,Route 1,2,4,6,8,Kala'e Bay,Verdant Cavern",0.4 m (1′04″),6.0 kg (13.2 lbs),"/ability/strong-jaw,/ability/stakeout,/ability/adaptability","strong-jaw,stakeout,adaptability","Yungoos,Gumshoos"
+0733,Toucannon,"Normal,Flying,Route 11,Poni Grove,Poni Plains",1.1 m (3′07″),26.0 kg (57.3 lbs),"/ability/keen-eye,/ability/skill-link,/ability/sheer-force","keen-eye,skill-link,sheer-force","Pikipek,Trumbeak,Toucannon"
+0732,Trumbeak,"Normal,Flying",0.6 m (2′00″),14.8 kg (32.6 lbs),"/ability/keen-eye,/ability/skill-link,/ability/pickup","keen-eye,skill-link,pickup","Pikipek,Trumbeak,Toucannon"
+0731,Pikipek,"Normal,Flying,Route 1,4,5,6,Poké Pelago",0.3 m (1′00″),1.2 kg (2.6 lbs),"/ability/keen-eye,/ability/skill-link,/ability/pickup","keen-eye,skill-link,pickup","Pikipek,Trumbeak,Toucannon"
+0730,Primarina,"Water,Fairy",1.8 m (5′11″),44.0 kg (97.0 lbs),"/ability/torrent,/ability/liquid-voice","torrent,liquid-voice","Popplio,Brionne,Primarina"
+0729,Brionne,Water,0.6 m (2′00″),17.5 kg (38.6 lbs),"/ability/torrent,/ability/liquid-voice","torrent,liquid-voice","Popplio,Brionne,Primarina"
+0728,Popplio,"Water,Route 1",0.4 m (1′04″),7.5 kg (16.5 lbs),"/ability/torrent,/ability/liquid-voice","torrent,liquid-voice","Popplio,Brionne,Primarina"
+0727,Incineroar,"Fire,Dark",1.8 m (5′11″),83.0 kg (183.0 lbs),"/ability/blaze,/ability/intimidate","blaze,intimidate","Litten,Torracat,Incineroar"
+0724,Decidueye,"Grass,Ghost,Grass,Fighting",1.6 m (5′03″),36.6 kg (80.7 lbs),"/ability/overgrow,/ability/long-reach,/ability/overgrow,/ability/scrappy","overgrow,long-reach,overgrow,scrappy","Rowlet,Dartrix"
+0723,Dartrix,"Grass,Flying",0.7 m (2′04″),16.0 kg (35.3 lbs),"/ability/overgrow,/ability/long-reach","overgrow,long-reach","Rowlet,Dartrix"
+0722,Rowlet,"Grass,Flying,Route 1",0.3 m (1′00″),1.5 kg (3.3 lbs),"/ability/overgrow,/ability/long-reach","overgrow,long-reach","Rowlet,Dartrix"
+0721,Volcanion,"Fire,Water",1.7 m (5′07″),195.0 kg (429.9 lbs),/ability/water-absorb,water-absorb,
+0720,Hoopa,"Psychic,Ghost,Psychic,Dark",0.5 m (1′08″),9.0 kg (19.8 lbs),"/ability/magician,/ability/magician","magician,magician",
+0719,Diancie,"Rock,Fairy,Rock,Fairy",0.7 m (2′04″),8.8 kg (19.4 lbs),"/ability/clear-body,/ability/magic-bounce","clear-body,magic-bounce",
+0718,Zygarde,"Dragon,Ground,Dragon,Ground,Dragon,Ground",5.0 m (16′05″),305.0 kg (672.4 lbs),"/ability/aura-break,/ability/power-construct,/ability/aura-break,/ability/power-construct,/ability/power-construct","aura-break,power-construct,aura-break,power-construct,power-construct",
+0710,Pumpkaboo,"Ghost,Grass,Ghost,Grass,Ghost,Grass,Ghost,Grass",0.4 m (1′04″),5.0 kg (11.0 lbs),"/ability/pickup,/ability/frisk,/ability/insomnia,/ability/pickup,/ability/frisk,/ability/insomnia,/ability/pickup,/ability/frisk,/ability/insomnia,/ability/pickup,/ability/frisk,/ability/insomnia","pickup,frisk,insomnia,pickup,frisk,insomnia,pickup,frisk,insomnia,pickup,frisk,insomnia","Pumpkaboo,Gourgeist"
+0709,Trevenant,"Ghost,Grass",1.5 m (4′11″),71.0 kg (156.5 lbs),"/ability/natural-cure,/ability/frisk,/ability/harvest,/pokedex/phantump","natural-cure,frisk,harvest,phantump","Phantump,Trevenant"
+0708,Phantump,"Ghost,Grass,Petalburg Woods",0.4 m (1′04″),7.0 kg (15.4 lbs),"/ability/natural-cure,/ability/frisk,/ability/harvest","natural-cure,frisk,harvest","Phantump,Trevenant"
+0707,Klefki,"Steel,Fairy,Route 113",0.2 m (0′08″),3.0 kg (6.6 lbs),"/ability/prankster,/ability/magician","prankster,magician",
+0699,Aurorus,"Rock,Ice",2.7 m (8′10″),225.0 kg (496.0 lbs),"/ability/refrigerate,/ability/snow-warning","refrigerate,snow-warning","Amaura,Aurorus"
+0698,Amaura,"Rock,Ice,Rustboro City",1.3 m (4′03″),25.2 kg (55.6 lbs),"/ability/refrigerate,/ability/snow-warning","refrigerate,snow-warning","Amaura,Aurorus"
+0697,Tyrantrum,"Rock,Dragon",2.5 m (8′02″),270.0 kg (595.2 lbs),"/ability/strong-jaw,/ability/rock-head","strong-jaw,rock-head","Tyrunt,Tyrantrum"
+0696,Tyrunt,"Rock,Dragon,Rustboro City",0.8 m (2′07″),26.0 kg (57.3 lbs),"/ability/strong-jaw,/ability/sturdy","strong-jaw,sturdy","Tyrunt,Tyrantrum"
+0695,Heliolisk,"Electric,Normal",1.0 m (3′03″),21.0 kg (46.3 lbs),"/ability/dry-skin,/ability/sand-veil,/ability/solar-power,/pokedex/helioptile","dry-skin,sand-veil,solar-power,helioptile","Helioptile,Heliolisk"
+0694,Helioptile,"Electric,Normal",0.5 m (1′08″),6.0 kg (13.2 lbs),"/ability/dry-skin,/ability/sand-veil,/ability/solar-power","dry-skin,sand-veil,solar-power","Helioptile,Heliolisk"
+0692,Clauncher,Water,0.5 m (1′08″),8.3 kg (18.3 lbs),/ability/mega-launcher,mega-launcher,"Clauncher,Clawitzer"
+0691,Dragalge,"Poison,Dragon,Route 8,Cyllage City,Ambrette Town",1.8 m (5′11″),81.5 kg (179.7 lbs),"/ability/poison-point,/ability/poison-touch,/ability/adaptability","poison-point,poison-touch,adaptability","Skrelp,Dragalge"
+0690,Skrelp,"Poison,Water,Route 8,Cyllage City,Ambrette Town",0.5 m (1′08″),7.3 kg (16.1 lbs),"/ability/poison-point,/ability/poison-touch,/ability/adaptability,/pokedex/dragalge","poison-point,poison-touch,adaptability,dragalge","Skrelp,Dragalge"
+0689,Barbaracle,"Rock,Water",1.3 m (4′03″),96.0 kg (211.6 lbs),"/ability/sniper,/ability/tough-claws,/ability/pickpocket","sniper,tough-claws,pickpocket","Binacle,Barbaracle"
+0688,Binacle,"Rock,Water,Route 8,12,Cyllage City,Ambrette Town,Azure Bay",0.5 m (1′08″),31.0 kg (68.3 lbs),"/ability/sniper,/ability/tough-claws,/ability/pickpocket","sniper,tough-claws,pickpocket","Binacle,Barbaracle"
+0687,Malamar,"Dark,Psychic",1.5 m (4′11″),47.0 kg (103.6 lbs),"/ability/contrary,/ability/suction-cups,/ability/infiltrator,/pokedex/inkay","contrary,suction-cups,infiltrator,inkay","Inkay,Malamar"
+0686,Inkay,"Dark,Psychic",0.4 m (1′04″),3.5 kg (7.7 lbs),"/ability/contrary,/ability/suction-cups,/ability/infiltrator","contrary,suction-cups,infiltrator","Inkay,Malamar"
+0685,Slurpuff,Fairy,0.8 m (2′07″),5.0 kg (11.0 lbs),"/ability/sweet-veil,/ability/unburden","sweet-veil,unburden","Swirlix,Slurpuff"
+0684,Swirlix,Fairy,0.4 m (1′04″),3.5 kg (7.7 lbs),"/ability/sweet-veil,/ability/unburden","sweet-veil,unburden","Swirlix,Slurpuff"
+0683,Aromatisse,Fairy,0.8 m (2′07″),15.5 kg (34.2 lbs),"/ability/healer,/ability/aroma-veil","healer,aroma-veil","Spritzee,Aromatisse"
+0682,Spritzee,"Fairy,Route 7",0.2 m (0′08″),0.5 kg (1.1 lbs),"/ability/healer,/ability/aroma-veil","healer,aroma-veil","Spritzee,Aromatisse"
+0681,Aegislash,"Steel,Ghost,Steel,Ghost",1.7 m (5′07″),53.0 kg (116.8 lbs),"/ability/stance-change,/ability/stance-change","stance-change,stance-change","Honedge,Doublade,Aegislash"
+0673,Gogoat,Grass,1.7 m (5′07″),91.0 kg (200.6 lbs),"/ability/sap-sipper,/ability/grass-pelt","sap-sipper,grass-pelt","Skiddo,Gogoat"
+0672,Skiddo,Grass,0.9 m (2′11″),31.0 kg (68.3 lbs),"/ability/sap-sipper,/ability/grass-pelt","sap-sipper,grass-pelt","Skiddo,Gogoat"
+0671,Florges,Fairy,1.1 m (3′07″),10.0 kg (22.0 lbs),"/ability/flower-veil,/ability/symbiosis","flower-veil,symbiosis","Flabébé,Floette,Florges"
+0670,Floette,Fairy,0.2 m (0′08″),0.9 kg (2.0 lbs),"/ability/flower-veil,/ability/symbiosis","flower-veil,symbiosis","Flabébé,Floette,Florges"
+0669,Flabébé,Fairy,0.1 m (0′04″),0.1 kg (0.2 lbs),"/ability/flower-veil,/ability/symbiosis","flower-veil,symbiosis","Flabébé,Floette,Florges"
+0667,Litleo,"Fire,Normal",0.6 m (2′00″),13.5 kg (29.8 lbs),"/ability/rivalry,/ability/unnerve,/ability/moxie","rivalry,unnerve,moxie","Litleo,Pyroar"
+0666,Vivillon,"Bug,Flying",1.2 m (3′11″),17.0 kg (37.5 lbs),"/ability/shield-dust,/ability/compound-eyes,/ability/friend-guard","shield-dust,compound-eyes,friend-guard","Scatterbug,Spewpa,Vivillon"
+0665,Spewpa,Bug,0.3 m (1′00″),8.4 kg (18.5 lbs),"/ability/shed-skin,/ability/friend-guard","shed-skin,friend-guard","Scatterbug,Spewpa,Vivillon"
+0664,Scatterbug,Bug,0.3 m (1′00″),2.5 kg (5.5 lbs),"/ability/shield-dust,/ability/compound-eyes,/ability/friend-guard","shield-dust,compound-eyes,friend-guard","Scatterbug,Spewpa,Vivillon"
+0663,Talonflame,"Fire,Flying",1.2 m (3′11″),24.5 kg (54.0 lbs),"/ability/flame-body,/ability/gale-wings,/pokedex/fletchling,/pokedex/fletchinder","flame-body,gale-wings,fletchling,fletchinder","Fletchling,Fletchinder,Talonflame"
+0662,Fletchinder,"Fire,Flying",0.7 m (2′04″),16.0 kg (35.3 lbs),"/ability/flame-body,/ability/gale-wings","flame-body,gale-wings","Fletchling,Fletchinder,Talonflame"
+0661,Fletchling,"Normal,Flying",0.3 m (1′00″),1.7 kg (3.7 lbs),"/ability/big-pecks,/ability/gale-wings","big-pecks,gale-wings","Fletchling,Fletchinder,Talonflame"
+0660,Diggersby,"Normal,Ground",1.0 m (3′03″),42.4 kg (93.5 lbs),"/ability/pickup,/ability/cheek-pouch,/ability/huge-power","pickup,cheek-pouch,huge-power","Bunnelby,Diggersby"
+0659,Bunnelby,Normal,0.4 m (1′04″),5.0 kg (11.0 lbs),"/ability/pickup,/ability/cheek-pouch,/ability/huge-power","pickup,cheek-pouch,huge-power","Bunnelby,Diggersby"
+0658,Greninja,"Water,Dark,Water,Dark",1.5 m (4′11″),40.0 kg (88.2 lbs),"/ability/torrent,/ability/protean,/ability/battle-bond","torrent,protean,battle-bond","Froakie,Frogadier,Greninja"
+0657,Frogadier,Water,0.6 m (2′00″),10.9 kg (24.0 lbs),"/ability/torrent,/ability/protean","torrent,protean","Froakie,Frogadier,Greninja"
+0656,Froakie,Water,0.3 m (1′00″),7.0 kg (15.4 lbs),"/ability/torrent,/ability/protean","torrent,protean","Froakie,Frogadier,Greninja"
+0655,Delphox,"Fire,Psychic",1.5 m (4′11″),39.0 kg (86.0 lbs),"/ability/blaze,/ability/magician","blaze,magician","Fennekin,Braixen,Delphox"
+0646,Kyurem,"Dragon,Ice,Dragon,Ice,Dragon,Ice",3.0 m (9′10″),325.0 kg (716.5 lbs),"/ability/pressure,/ability/turboblaze,/ability/teravolt","pressure,turboblaze,teravolt",
+0645,Landorus,"Ground,Flying,Ground,Flying",1.5 m (4′11″),68.0 kg (149.9 lbs),"/ability/sand-force,/ability/sheer-force,/ability/intimidate","sand-force,sheer-force,intimidate",
+0644,Zekrom,"Dragon,Electric,Dragonspiral Tower,N's Castle",2.9 m (9′06″),345.0 kg (760.6 lbs),/ability/teravolt,teravolt,
+0643,Reshiram,"Dragon,Fire",3.2 m (10′06″),330.0 kg (727.5 lbs),/ability/turboblaze,turboblaze,
+0634,Zweilous,"Dark,Dragon,Victory Road",1.4 m (4′07″),50.0 kg (110.2 lbs),/ability/hustle,hustle,"Deino,Zweilous,Hydreigon"
+0633,Deino,"Dark,Dragon",0.8 m (2′07″),17.3 kg (38.1 lbs),/ability/hustle,hustle,"Deino,Zweilous,Hydreigon"
+0632,Durant,"Bug,Steel,Twist Mountain,Clay Tunnel,Underground Ruins",0.3 m (1′00″),33.0 kg (72.8 lbs),"/ability/swarm,/ability/hustle,/ability/truant","swarm,hustle,truant",
+0631,Heatmor,"Fire,Twist Mountain",1.4 m (4′07″),58.0 kg (127.9 lbs),"/ability/gluttony,/ability/flash-fire,/ability/white-smoke","gluttony,flash-fire,white-smoke",
+0630,Mandibuzz,"Dark,Flying",1.2 m (3′11″),39.5 kg (87.1 lbs),"/ability/big-pecks,/ability/overcoat,/ability/weak-armor,/pokedex/vullaby","big-pecks,overcoat,weak-armor,vullaby","Vullaby,Mandibuzz"
+0622,Golett,"Ground,Ghost",1.0 m (3′03″),92.0 kg (202.8 lbs),"/ability/iron-fist,/ability/klutz,/ability/no-guard","iron-fist,klutz,no-guard","Golett,Golurk"
+0621,Druddigon,"Dragon,Dragonspiral Tower,Victory Road",1.6 m (5′03″),139.0 kg (306.4 lbs),"/ability/rough-skin,/ability/sheer-force,/ability/mold-breaker","rough-skin,sheer-force,mold-breaker",
+0620,Mienshao,"Fighting,Route 23,Dragonspiral Tower",1.4 m (4′07″),35.5 kg (78.3 lbs),"/ability/inner-focus,/ability/regenerator,/ability/reckless,/pokedex/mienfoo","inner-focus,regenerator,reckless,mienfoo","Mienfoo,Mienshao"
+0618,Stunfisk,"Ground,Electric,Ground,Steel,Route 14,19",0.7 m (2′04″),11.0 kg (24.3 lbs),"/ability/static,/ability/limber,/ability/sand-veil,/ability/mimicry","static,limber,sand-veil,mimicry",
+0617,Accelgor,Bug,0.8 m (2′07″),25.3 kg (55.8 lbs),"/ability/hydration,/ability/sticky-hold,/ability/unburden,/pokedex/shelmet","hydration,sticky-hold,unburden,shelmet","Shelmet,Accelgor"
+0616,Shelmet,"Bug,Route 6,8,11,Icirrus City,Moor of Icirrus",0.4 m (1′04″),7.7 kg (17.0 lbs),"/ability/hydration,/ability/shell-armor,/ability/overcoat","hydration,shell-armor,overcoat","Shelmet,Accelgor"
+0615,Cryogonal,"Ice,Frost Cavern",1.1 m (3′07″),148.0 kg (326.3 lbs),/ability/levitate,levitate,
+0607,Litwick,"Ghost,Fire,Celestial Tower,Strange House",0.3 m (1′00″),3.1 kg (6.8 lbs),"/ability/flash-fire,/ability/flame-body,/ability/infiltrator","flash-fire,flame-body,infiltrator","Litwick,Lampent,Chandelure"
+0606,Beheeyem,Psychic,1.0 m (3′03″),34.5 kg (76.1 lbs),"/ability/telepathy,/ability/synchronize,/ability/analytic,/pokedex/elgyem","telepathy,synchronize,analytic,elgyem","Elgyem,Beheeyem"
+0604,Eelektross,Electric,2.1 m (6′11″),80.5 kg (177.5 lbs),/ability/levitate,levitate,"Tynamo,Eelektrik,Eelektross"
+0603,Eelektrik,"Electric,Seaside Cave",1.2 m (3′11″),22.0 kg (48.5 lbs),/ability/levitate,levitate,"Tynamo,Eelektrik,Eelektross"
+0602,Tynamo,"Electric,Chargestone Cave,Seaside Cave",0.2 m (0′08″),0.3 kg (0.7 lbs),/ability/levitate,levitate,"Tynamo,Eelektrik,Eelektross"
+0601,Klinklang,"Steel,P2 Laboratory",0.6 m (2′00″),81.0 kg (178.6 lbs),"/ability/plus,/ability/minus,/ability/clear-body","plus,minus,clear-body","Klink,Klang,Klinklang"
+0600,Klang,"Steel,P2 Laboratory",0.6 m (2′00″),51.0 kg (112.4 lbs),"/ability/plus,/ability/minus,/ability/clear-body","plus,minus,clear-body","Klink,Klang,Klinklang"
+0592,Frillish,"Water,Ghost,Route 4,13,17,18,21,P2 Laboratory,Undella Bay,Undella Town,Virbank City,Virbank Complex,Humilau City,Seaside Cave",1.2 m (3′11″),33.0 kg (72.8 lbs),"/ability/water-absorb,/ability/cursed-body,/ability/damp","water-absorb,cursed-body,damp","Frillish,Jellicent"
+0591,Amoonguss,"Grass,Poison,Route 11,22,23",0.6 m (2′00″),10.5 kg (23.1 lbs),"/ability/effect-spore,/ability/regenerator","effect-spore,regenerator","Foongus,Amoonguss"
+0590,Foongus,"Grass,Poison,Route 6,7",0.2 m (0′08″),1.0 kg (2.2 lbs),"/ability/effect-spore,/ability/regenerator","effect-spore,regenerator","Foongus,Amoonguss"
+0589,Escavalier,"Bug,Steel",1.0 m (3′03″),33.0 kg (72.8 lbs),"/ability/swarm,/ability/shell-armor,/ability/overcoat,/pokedex/karrablast","swarm,shell-armor,overcoat,karrablast","Karrablast,Escavalier"
+0588,Karrablast,"Bug,Route 6,8,11,Icirrus City,Moor of Icirrus",0.5 m (1′08″),5.9 kg (13.0 lbs),"/ability/swarm,/ability/shed-skin,/ability/no-guard","swarm,shed-skin,no-guard","Karrablast,Escavalier"
+0587,Emolga,"Electric,Flying,Route 5,6,7,9,11,12,13,14,15,16,22,23,Dragonspiral Tower,Abundant Shrine,Lostlorn Forest,Village Bridge",0.4 m (1′04″),5.0 kg (11.0 lbs),"/ability/static,/ability/motor-drive","static,motor-drive",
+0586,Sawsbuck,"Normal,Grass",1.9 m (6′03″),92.5 kg (203.9 lbs),"/ability/chlorophyll,/ability/sap-sipper,/ability/serene-grace","chlorophyll,sap-sipper,serene-grace","Deerling,Sawsbuck"
+0585,Deerling,"Normal,Grass,Route 6,7",0.6 m (2′00″),19.5 kg (43.0 lbs),"/ability/chlorophyll,/ability/sap-sipper,/ability/serene-grace","chlorophyll,sap-sipper,serene-grace","Deerling,Sawsbuck"
+0584,Vanilluxe,"Ice,Dragonspiral Tower,Giant Chasm",1.3 m (4′03″),57.5 kg (126.8 lbs),"/ability/ice-body,/ability/snow-warning,/ability/weak-armor","ice-body,snow-warning,weak-armor","Vanillite,Vanillish,Vanilluxe"
+0583,Vanillish,"Ice,Dragonspiral Tower,Giant Chasm",1.1 m (3′07″),41.0 kg (90.4 lbs),"/ability/ice-body,/ability/snow-cloak,/ability/weak-armor","ice-body,snow-cloak,weak-armor","Vanillite,Vanillish,Vanilluxe"
+0582,Vanillite,Ice,0.4 m (1′04″),5.7 kg (12.6 lbs),"/ability/ice-body,/ability/snow-cloak,/ability/weak-armor","ice-body,snow-cloak,weak-armor","Vanillite,Vanillish,Vanilluxe"
+0580,Ducklett,"Water,Flying,Route 7",0.5 m (1′08″),5.5 kg (12.1 lbs),"/ability/keen-eye,/ability/big-pecks,/ability/hydration","keen-eye,big-pecks,hydration","Ducklett,Swanna"
+0579,Reuniclus,"Psychic,Route 9",1.0 m (3′03″),20.1 kg (44.3 lbs),"/ability/overcoat,/ability/magic-guard,/ability/regenerator","overcoat,magic-guard,regenerator","Solosis,Duosion,Reuniclus"
+0578,Duosion,"Psychic,Route 9",0.6 m (2′00″),8.0 kg (17.6 lbs),"/ability/overcoat,/ability/magic-guard,/ability/regenerator","overcoat,magic-guard,regenerator","Solosis,Duosion,Reuniclus"
+0577,Solosis,"Psychic,Route 5,16",0.3 m (1′00″),1.0 kg (2.2 lbs),"/ability/overcoat,/ability/magic-guard,/ability/regenerator","overcoat,magic-guard,regenerator","Solosis,Duosion,Reuniclus"
+0576,Gothitelle,Psychic,1.5 m (4′11″),44.0 kg (97.0 lbs),"/ability/frisk,/ability/competitive,/ability/shadow-tag,/pokedex/gothita,/pokedex/gothorita","frisk,competitive,shadow-tag,gothita,gothorita","Gothita,Gothorita,Gothitelle"
+0575,Gothorita,Psychic,0.7 m (2′04″),18.0 kg (39.7 lbs),"/ability/frisk,/ability/competitive,/ability/shadow-tag,/pokedex/gothita","frisk,competitive,shadow-tag,gothita","Gothita,Gothorita,Gothitelle"
+0574,Gothita,Psychic,0.4 m (1′04″),5.8 kg (12.8 lbs),"/ability/frisk,/ability/competitive,/ability/shadow-tag","frisk,competitive,shadow-tag","Gothita,Gothorita,Gothitelle"
+0573,Cinccino,"Normal,Route 5,9,16",0.5 m (1′08″),7.5 kg (16.5 lbs),"/ability/cute-charm,/ability/technician,/ability/skill-link,/pokedex/minccino","cute-charm,technician,skill-link,minccino","Minccino,Cinccino"
+0572,Minccino,"Normal,Route 5,9,16",0.4 m (1′04″),5.8 kg (12.8 lbs),"/ability/cute-charm,/ability/technician,/ability/skill-link","cute-charm,technician,skill-link","Minccino,Cinccino"
+0571,Zoroark,"Dark,Normal,Ghost",1.6 m (5′03″),81.1 kg (178.8 lbs),"/ability/illusion,/ability/illusion","illusion,illusion","Zorua,Zoroark,Zorua,Zoroark"
+0562,Yamask,"Ghost,Ground,Ghost",0.5 m (1′08″),1.5 kg (3.3 lbs),"/ability/mummy,/ability/wandering-spirit","mummy,wandering-spirit","Yamask,Cofagrigus,Yamask,Runerigus"
+0546,Cottonee,"Grass,Fairy,Nacrene City",0.3 m (1′00″),0.6 kg (1.3 lbs),"/ability/prankster,/ability/infiltrator,/ability/chlorophyll","prankster,infiltrator,chlorophyll","Cottonee,Whimsicott"
+0545,Scolipede,"Bug,Poison,Pinwheel Forest",2.5 m (8′02″),200.5 kg (442.0 lbs),"/ability/poison-point,/ability/swarm,/ability/speed-boost","poison-point,swarm,speed-boost","Venipede,Whirlipede,Scolipede"
+0544,Whirlipede,"Bug,Poison,Lostlorn Forest,Pinwheel Forest",1.2 m (3′11″),58.5 kg (129.0 lbs),"/ability/poison-point,/ability/swarm,/ability/speed-boost","poison-point,swarm,speed-boost","Venipede,Whirlipede,Scolipede"
+0543,Venipede,"Bug,Poison,Route 20,Lostlorn Forest",0.4 m (1′04″),5.3 kg (11.7 lbs),"/ability/poison-point,/ability/swarm,/ability/speed-boost","poison-point,swarm,speed-boost","Venipede,Whirlipede,Scolipede"
+0542,Leavanny,"Bug,Grass,Route 6,12,Lostlorn Forest",1.2 m (3′11″),20.5 kg (45.2 lbs),"/ability/swarm,/ability/chlorophyll,/ability/overcoat","swarm,chlorophyll,overcoat","Sewaddle,Swadloon,Leavanny"
+0541,Swadloon,"Bug,Grass",0.5 m (1′08″),7.3 kg (16.1 lbs),"/ability/leaf-guard,/ability/chlorophyll,/ability/overcoat","leaf-guard,chlorophyll,overcoat","Sewaddle,Swadloon,Leavanny"
+0540,Sewaddle,"Bug,Grass,Route 12,20",0.3 m (1′00″),2.5 kg (5.5 lbs),"/ability/swarm,/ability/chlorophyll,/ability/overcoat","swarm,chlorophyll,overcoat","Sewaddle,Swadloon,Leavanny"
+0531,Audino,"Normal,Normal,Fairy,Route 1,2,3,5,6,7,9,11,12,13,14,15,16,18,20,22,23,Dreamyard,Dragonspiral Tower,Abundant Shrine,Giant Chasm,Castelia City,Lostlorn Forest,P2 Laboratory,Victory Road,Village Bridge,Pinwheel Forest,Virbank Complex,Floccesy Ranch,Nature Sanctuary,Reversal Mountain,Nature Preserve",1.1 m (3′07″),31.0 kg (68.3 lbs),"/ability/healer,/ability/regenerator,/ability/klutz,/ability/healer","healer,regenerator,klutz,healer",
+0530,Excadrill,"Ground,Steel,Giant Chasm,Wellspring Cave,Twist Mountain,Victory Road,Clay Tunnel,Reversal Mountain,Seaside Cave,Underground Ruins",0.7 m (2′04″),40.4 kg (89.1 lbs),"/ability/sand-rush,/ability/sand-force,/ability/mold-breaker","sand-rush,sand-force,mold-breaker","Drilbur,Excadrill"
+0529,Drilbur,"Ground,Chargestone Cave,Mistralton Cave,Relic Passage",0.3 m (1′00″),8.5 kg (18.7 lbs),"/ability/sand-rush,/ability/sand-force,/ability/mold-breaker","sand-rush,sand-force,mold-breaker","Drilbur,Excadrill"
+0528,Swoobat,"Psychic,Flying",0.9 m (2′11″),10.5 kg (23.1 lbs),"/ability/unaware,/ability/klutz,/ability/simple,/pokedex/woobat","unaware,klutz,simple,woobat","Woobat,Swoobat"
+0527,Woobat,"Psychic,Flying,Mistralton Cave,Wellspring Cave,Twist Mountain,Clay Tunnel,Reversal Mountain,Relic Passage,Seaside Cave,Underground Ruins",0.4 m (1′04″),2.1 kg (4.6 lbs),"/ability/unaware,/ability/klutz,/ability/simple","unaware,klutz,simple","Woobat,Swoobat"
+0526,Gigalith,"Rock,Route 7",1.7 m (5′07″),260.0 kg (573.2 lbs),"/ability/sturdy,/ability/sand-stream,/ability/sand-force,/pokedex/roggenrola,/pokedex/boldore","sturdy,sand-stream,sand-force,roggenrola,boldore","Roggenrola,Boldore,Gigalith"
+0525,Boldore,"Rock,Chargestone Cave,Mistralton Cave,Wellspring Cave,Twist Mountain,Victory Road,Clay Tunnel,Reversal Mountain,Relic Passage,Seaside Cave,Underground Ruins",0.9 m (2′11″),102.0 kg (224.9 lbs),"/ability/sturdy,/ability/weak-armor,/ability/sand-force","sturdy,weak-armor,sand-force","Roggenrola,Boldore,Gigalith"
+0524,Roggenrola,"Rock,Relic Passage",0.4 m (1′04″),18.0 kg (39.7 lbs),"/ability/sturdy,/ability/weak-armor,/ability/sand-force","sturdy,weak-armor,sand-force","Roggenrola,Boldore,Gigalith"
+0523,Zebstrika,"Electric,Route 3,7",1.6 m (5′03″),79.5 kg (175.3 lbs),"/ability/lightning-rod,/ability/motor-drive,/ability/sap-sipper","lightning-rod,motor-drive,sap-sipper","Blitzle,Zebstrika"
+0522,Blitzle,Electric,0.8 m (2′07″),29.8 kg (65.7 lbs),"/ability/lightning-rod,/ability/motor-drive,/ability/sap-sipper","lightning-rod,motor-drive,sap-sipper","Blitzle,Zebstrika"
+0521,Unfezant,"Normal,Flying,Route 3,6,7,12,Dragonspiral Tower,Victory Road",1.2 m (3′11″),29.0 kg (63.9 lbs),"/ability/big-pecks,/ability/super-luck,/ability/rivalry","big-pecks,super-luck,rivalry","Pidove,Tranquill,Unfezant"
+0520,Tranquill,"Normal,Flying,Route 3,6,7,12,Dragonspiral Tower,Victory Road",0.6 m (2′00″),15.0 kg (33.1 lbs),"/ability/big-pecks,/ability/super-luck,/ability/rivalry","big-pecks,super-luck,rivalry","Pidove,Tranquill,Unfezant"
+0519,Pidove,"Normal,Flying,Route 20,Castelia City,Virbank Complex,Floccesy Ranch",0.3 m (1′00″),2.1 kg (4.6 lbs),"/ability/big-pecks,/ability/super-luck,/ability/rivalry","big-pecks,super-luck,rivalry","Pidove,Tranquill,Unfezant"
+0518,Musharna,Psychic,1.1 m (3′07″),60.5 kg (133.4 lbs),"/ability/forewarn,/ability/synchronize,/ability/telepathy,/pokedex/munna","forewarn,synchronize,telepathy,munna","Munna,Musharna"
+0517,Munna,Psychic,0.6 m (2′00″),23.3 kg (51.4 lbs),"/ability/forewarn,/ability/synchronize,/ability/telepathy","forewarn,synchronize,telepathy","Munna,Musharna"
+0516,Simipour,Water,1.0 m (3′03″),29.0 kg (63.9 lbs),"/ability/gluttony,/ability/torrent","gluttony,torrent","Panpour,Simipour"
+0515,Panpour,"Water,Lostlorn Forest,Pinwheel Forest",0.6 m (2′00″),13.5 kg (29.8 lbs),"/ability/gluttony,/ability/torrent","gluttony,torrent","Panpour,Simipour"
+0514,Simisear,Fire,1.0 m (3′03″),28.0 kg (61.7 lbs),"/ability/gluttony,/ability/blaze","gluttony,blaze","Pansear,Simisear"
+0513,Pansear,"Fire,Lostlorn Forest,Pinwheel Forest",0.6 m (2′00″),11.0 kg (24.3 lbs),"/ability/gluttony,/ability/blaze","gluttony,blaze","Pansear,Simisear"
+0512,Simisage,Grass,1.1 m (3′07″),30.5 kg (67.2 lbs),"/ability/gluttony,/ability/overgrow","gluttony,overgrow","Pansage,Simisage"
+0503,Samurott,"Water,Water,Dark",1.5 m (4′11″),94.6 kg (208.6 lbs),"/ability/torrent,/ability/shell-armor,/ability/torrent,/ability/sharpness","torrent,shell-armor,torrent,sharpness","Oshawott,Dewott"
+0502,Dewott,Water,0.8 m (2′07″),24.5 kg (54.0 lbs),"/ability/torrent,/ability/shell-armor","torrent,shell-armor","Oshawott,Dewott"
+0501,Oshawott,"Water,Aspertia City",0.5 m (1′08″),5.9 kg (13.0 lbs),"/ability/torrent,/ability/shell-armor","torrent,shell-armor","Oshawott,Dewott"
+0500,Emboar,"Fire,Fighting",1.6 m (5′03″),150.0 kg (330.7 lbs),"/ability/blaze,/ability/reckless","blaze,reckless","Tepig,Pignite,Emboar"
+0499,Pignite,"Fire,Fighting",1.0 m (3′03″),55.5 kg (122.4 lbs),"/ability/blaze,/ability/thick-fat","blaze,thick-fat","Tepig,Pignite,Emboar"
+0498,Tepig,"Fire,Aspertia City",0.5 m (1′08″),9.9 kg (21.8 lbs),"/ability/blaze,/ability/thick-fat","blaze,thick-fat","Tepig,Pignite,Emboar"
+0497,Serperior,Grass,3.3 m (10′10″),63.0 kg (138.9 lbs),"/ability/overgrow,/ability/contrary","overgrow,contrary","Snivy,Servine,Serperior"
+0496,Servine,Grass,0.8 m (2′07″),16.0 kg (35.3 lbs),"/ability/overgrow,/ability/contrary","overgrow,contrary","Snivy,Servine,Serperior"
+0495,Snivy,"Grass,Aspertia City",0.6 m (2′00″),8.1 kg (17.9 lbs),"/ability/overgrow,/ability/contrary","overgrow,contrary","Snivy,Servine,Serperior"
+0494,Victini,"Psychic,Fire",0.4 m (1′04″),4.0 kg (8.8 lbs),/ability/victory-star,victory-star,
+0493,Arceus,Normal,3.2 m (10′06″),320.0 kg (705.5 lbs),/ability/multitype,multitype,
+0492,Shaymin,"Grass,Grass,Flying",0.2 m (0′08″),2.1 kg (4.6 lbs),"/ability/natural-cure,/ability/serene-grace","natural-cure,serene-grace",
+0491,Darkrai,Dark,1.5 m (4′11″),50.5 kg (111.3 lbs),/ability/bad-dreams,bad-dreams,
+0490,Manaphy,Water,0.3 m (1′00″),1.4 kg (3.1 lbs),/ability/hydration,hydration,
+0489,Phione,Water,0.4 m (1′04″),3.1 kg (6.8 lbs),/ability/hydration,hydration,
+0488,Cresselia,Psychic,1.5 m (4′11″),85.6 kg (188.7 lbs),/ability/levitate,levitate,
+0479,Rotom,"Electric,Ghost,Electric,Fire,Electric,Water,Electric,Ice,Electric,Flying,Electric,Grass",0.3 m (1′00″),0.3 kg (0.7 lbs),"/ability/levitate,/ability/levitate,/ability/levitate,/ability/levitate,/ability/levitate,/ability/levitate","levitate,levitate,levitate,levitate,levitate,levitate",
+0478,Froslass,"Ice,Ghost",1.3 m (4′03″),26.6 kg (58.6 lbs),"/ability/snow-cloak,/ability/cursed-body,/pokedex/snorunt","snow-cloak,cursed-body,snorunt",Snorunt
+0477,Dusknoir,Ghost,2.2 m (7′03″),106.6 kg (235.0 lbs),"/ability/pressure,/ability/frisk","pressure,frisk","Duskull,Dusclops,Dusknoir"
+0476,Probopass,"Rock,Steel",1.4 m (4′07″),340.0 kg (749.6 lbs),"/ability/sturdy,/ability/magnet-pull,/ability/sand-force,/pokedex/nosepass","sturdy,magnet-pull,sand-force,nosepass","Nosepass,Probopass"
+0475,Gallade,"Psychic,Fighting,Psychic,Fighting",1.6 m (5′03″),52.0 kg (114.6 lbs),"/ability/steadfast,/ability/sharpness,/ability/justified,/ability/inner-focus","steadfast,sharpness,justified,inner-focus","Ralts,Kirlia"
+0474,Porygon-Z,Normal,0.9 m (2′11″),34.0 kg (75.0 lbs),"/ability/adaptability,/ability/download,/ability/analytic,/pokedex/porygon,/pokedex/porygon2","adaptability,download,analytic,porygon,porygon2","Porygon,Porygon2,Porygon-Z"
+0473,Mamoswine,"Ice,Ground,Giant Chasm",2.5 m (8′02″),291.0 kg (641.5 lbs),"/ability/oblivious,/ability/snow-cloak,/ability/thick-fat","oblivious,snow-cloak,thick-fat","Swinub,Piloswine,Mamoswine"
+0472,Gliscor,"Ground,Flying",2.0 m (6′07″),42.5 kg (93.7 lbs),"/ability/hyper-cutter,/ability/sand-veil,/ability/poison-heal","hyper-cutter,sand-veil,poison-heal","Gligar,Gliscor"
+0471,Glaceon,Ice,0.8 m (2′07″),25.9 kg (57.1 lbs),"/ability/snow-cloak,/ability/ice-body","snow-cloak,ice-body","Eevee,Eevee,Eevee,Eevee,Sylveon"
+0470,Leafeon,Grass,1.0 m (3′03″),25.5 kg (56.2 lbs),"/ability/leaf-guard,/ability/chlorophyll","leaf-guard,chlorophyll","Eevee,Eevee,Eevee,Eevee,Sylveon"
+0461,Weavile,"Dark,Ice",1.1 m (3′07″),34.0 kg (75.0 lbs),"/ability/pressure,/ability/pickpocket","pressure,pickpocket","Sneasel,Weavile,Sneasel,Sneasler"
+0460,Abomasnow,"Grass,Ice,Grass,Ice",2.2 m (7′03″),135.5 kg (298.7 lbs),"/ability/snow-warning,/ability/soundproof,/ability/snow-warning","snow-warning,soundproof,snow-warning","Snover,Abomasnow"
+0459,Snover,"Grass,Ice,Route 216,217,Acuity Lakefront,Lake Acuity,Mt. Coronet",1.0 m (3′03″),50.5 kg (111.3 lbs),"/ability/snow-warning,/ability/soundproof","snow-warning,soundproof","Snover,Abomasnow"
+0458,Mantyke,"Water,Flying,Route 223",1.0 m (3′03″),65.0 kg (143.3 lbs),"/ability/swift-swim,/ability/water-absorb,/ability/water-veil","swift-swim,water-absorb,water-veil","Mantyke,Mantine"
+0457,Lumineon,Water,1.2 m (3′11″),24.0 kg (52.9 lbs),"/ability/swift-swim,/ability/storm-drain,/ability/water-veil,/pokedex/finneon","swift-swim,storm-drain,water-veil,finneon","Finneon,Lumineon"
+0456,Finneon,Water,0.4 m (1′04″),7.0 kg (15.4 lbs),"/ability/swift-swim,/ability/storm-drain,/ability/water-veil","swift-swim,storm-drain,water-veil","Finneon,Lumineon"
+0455,Carnivine,"Grass,Ilex Forest,Viridian Forest",1.4 m (4′07″),27.0 kg (59.5 lbs),/ability/levitate,levitate,
+0454,Toxicroak,"Poison,Fighting",1.3 m (4′03″),44.4 kg (97.9 lbs),"/ability/anticipation,/ability/dry-skin,/ability/poison-touch","anticipation,dry-skin,poison-touch","Croagunk,Toxicroak"
+0445,Garchomp,"Dragon,Ground,Dragon,Ground",1.9 m (6′03″),95.0 kg (209.4 lbs),"/ability/sand-veil,/ability/rough-skin,/ability/sand-force","sand-veil,rough-skin,sand-force","Gible,Gabite,Garchomp"
+0444,Gabite,"Dragon,Ground,Victory Road",1.4 m (4′07″),56.0 kg (123.5 lbs),"/ability/sand-veil,/ability/rough-skin","sand-veil,rough-skin","Gible,Gabite,Garchomp"
+0443,Gible,"Dragon,Ground",0.7 m (2′04″),20.5 kg (45.2 lbs),"/ability/sand-veil,/ability/rough-skin,/pokedex/gabite,/pokedex/garchomp","sand-veil,rough-skin,gabite,garchomp","Gible,Gabite,Garchomp"
+0442,Spiritomb,"Ghost,Dark",1.0 m (3′03″),108.0 kg (238.1 lbs),"/ability/pressure,/ability/infiltrator","pressure,infiltrator",
+0441,Chatot,"Normal,Flying,Route 213,218,222,Eterna City",0.5 m (1′08″),1.9 kg (4.2 lbs),"/ability/keen-eye,/ability/tangled-feet,/ability/big-pecks","keen-eye,tangled-feet,big-pecks",
+0440,Happiny,Normal,0.6 m (2′00″),24.4 kg (53.8 lbs),"/ability/natural-cure,/ability/serene-grace,/ability/friend-guard","natural-cure,serene-grace,friend-guard","Happiny,Chansey,Blissey"
+0439,Mime Jr.,"Psychic,Fairy,Trophy Garden",0.6 m (2′00″),13.0 kg (28.7 lbs),"/ability/soundproof,/ability/filter,/ability/technician","soundproof,filter,technician",Mime Jr.
+0438,Bonsly,"Rock,Route 209,210,Trophy Garden",0.5 m (1′08″),15.0 kg (33.1 lbs),"/ability/sturdy,/ability/rock-head,/ability/rattled,/pokedex/sudowoodo","sturdy,rock-head,rattled,sudowoodo","Bonsly,Sudowoodo"
+0437,Bronzong,"Steel,Psychic",1.3 m (4′03″),187.0 kg (412.3 lbs),"/ability/levitate,/ability/heatproof,/ability/heavy-metal","levitate,heatproof,heavy-metal","Bronzor,Bronzong"
+0436,Bronzor,"Steel,Psychic,Route 211,Mt. Coronet,Turnback Cave,Wayward Cave",0.5 m (1′08″),60.5 kg (133.4 lbs),"/ability/levitate,/ability/heatproof,/ability/heavy-metal","levitate,heatproof,heavy-metal","Bronzor,Bronzong"
+0427,Buneary,"Normal,Route 25",0.4 m (1′04″),5.5 kg (12.1 lbs),"/ability/run-away,/ability/klutz,/ability/limber","run-away,klutz,limber","Buneary,Lopunny"
+0426,Drifblim,"Ghost,Flying",1.2 m (3′11″),15.0 kg (33.1 lbs),"/ability/aftermath,/ability/unburden,/ability/flare-boost","aftermath,unburden,flare-boost","Drifloon,Drifblim"
+0425,Drifloon,"Ghost,Flying",0.4 m (1′04″),1.2 kg (2.6 lbs),"/ability/aftermath,/ability/unburden,/ability/flare-boost","aftermath,unburden,flare-boost","Drifloon,Drifblim"
+0424,Ambipom,Normal,1.2 m (3′11″),20.3 kg (44.8 lbs),"/ability/technician,/ability/pickup,/ability/skill-link","technician,pickup,skill-link","Aipom,Ambipom"
+0423,Gastrodon,"Water,Ground,Route 205,212,213,218,224,Canalave City,Fuego Ironworks,Pastoria City,Valley Windworks",0.9 m (2′11″),29.9 kg (65.9 lbs),"/ability/sticky-hold,/ability/storm-drain,/ability/sand-force,/pokedex/shellos","sticky-hold,storm-drain,sand-force,shellos","Shellos,Gastrodon"
+0422,Shellos,"Water,Route 205,212,213,218,Canalave City,Fuego Ironworks,Pastoria City,Valley Windworks",0.3 m (1′00″),6.3 kg (13.9 lbs),"/ability/sticky-hold,/ability/storm-drain,/ability/sand-force","sticky-hold,storm-drain,sand-force","Shellos,Gastrodon"
+0421,Cherrim,"Grass,Route 12",0.5 m (1′08″),9.3 kg (20.5 lbs),/ability/flower-gift,flower-gift,"Cherubi,Cherrim"
+0420,Cherubi,"Grass,National Park",0.4 m (1′04″),3.3 kg (7.3 lbs),"/ability/chlorophyll,/pokedex/cherrim","chlorophyll,cherrim","Cherubi,Cherrim"
+0419,Floatzel,"Water,Route 218,221,222,224,230,Fuego Ironworks,Victory Road",1.1 m (3′07″),33.5 kg (73.9 lbs),"/ability/swift-swim,/ability/water-veil","swift-swim,water-veil","Buizel,Floatzel"
+0418,Buizel,"Water,Route 205,212,213,Valley Windworks",0.7 m (2′04″),29.5 kg (65.0 lbs),"/ability/swift-swim,/ability/water-veil,/pokedex/floatzel","swift-swim,water-veil,floatzel","Buizel,Floatzel"
+0417,Pachirisu,"Electric,Route 205,Valley Windworks",0.4 m (1′04″),3.9 kg (8.6 lbs),"/ability/run-away,/ability/pickup,/ability/volt-absorb","run-away,pickup,volt-absorb",
+0416,Vespiquen,"Bug,Flying,Route 12",1.2 m (3′11″),38.5 kg (84.9 lbs),"/ability/pressure,/ability/unnerve","pressure,unnerve","Combee,Vespiquen"
+0415,Combee,"Bug,Flying,Route 5,6,7,8,11,16,25,Celadon City,Cerulean City,National Park,Vermilion City",0.3 m (1′00″),5.5 kg (12.1 lbs),"/ability/honey-gather,/ability/hustle","honey-gather,hustle","Combee,Vespiquen"
+0414,Mothim,"Bug,Flying",0.9 m (2′11″),23.3 kg (51.4 lbs),"/ability/swarm,/ability/tinted-lens","swarm,tinted-lens","Burmy,Mothim,Burmy,Wormadam,Burmy,Wormadam,Burmy,Wormadam"
+0413,Wormadam,"Bug,Grass,Bug,Ground,Bug,Steel",0.5 m (1′08″),6.5 kg (14.3 lbs),"/ability/anticipation,/ability/overcoat,/ability/anticipation,/ability/overcoat,/ability/anticipation,/ability/overcoat","anticipation,overcoat,anticipation,overcoat,anticipation,overcoat","Burmy,Mothim,Burmy,Wormadam,Burmy,Wormadam,Burmy,Wormadam"
+0404,Luxio,"Electric,Route 222",0.9 m (2′11″),30.5 kg (67.2 lbs),"/ability/rivalry,/ability/intimidate,/ability/guts","rivalry,intimidate,guts","Shinx,Luxio,Luxray"
+0403,Shinx,"Electric,Route 202,203,204,Valley Windworks",0.5 m (1′08″),9.5 kg (20.9 lbs),"/ability/rivalry,/ability/intimidate,/ability/guts","rivalry,intimidate,guts","Shinx,Luxio,Luxray"
+0402,Kricketune,"Bug,Route 206,Trophy Garden,Valor Lakefront",1.0 m (3′03″),25.5 kg (56.2 lbs),"/ability/swarm,/ability/technician","swarm,technician","Kricketot,Kricketune"
+0401,Kricketot,"Bug,Route 201,202,203,204,205,207,Eterna Forest",0.3 m (1′00″),2.2 kg (4.9 lbs),"/ability/shed-skin,/ability/run-away","shed-skin,run-away","Kricketot,Kricketune"
+0400,Bibarel,"Normal,Water,Route 208,209,210,Great Marsh,Lake Acuity,Lake Valor,Sendoff Spring,Valor Lakefront",1.0 m (3′03″),31.5 kg (69.4 lbs),"/ability/simple,/ability/unaware,/ability/moody","simple,unaware,moody","Bidoof,Bibarel"
+0399,Bidoof,"Normal,Route 201,202,203,204,205,208,211,Eterna Forest,Lake Verity",0.5 m (1′08″),20.0 kg (44.1 lbs),"/ability/simple,/ability/unaware,/ability/moody","simple,unaware,moody","Bidoof,Bibarel"
+0398,Staraptor,"Normal,Flying",1.2 m (3′11″),24.9 kg (54.9 lbs),"/ability/intimidate,/ability/reckless","intimidate,reckless","Starly,Staravia,Staraptor"
+0397,Staravia,"Normal,Flying,Route 209,210,212,215,Great Marsh,Lake Valor,Sendoff Spring,Trophy Garden,Valor Lakefront",0.6 m (2′00″),15.5 kg (34.2 lbs),"/ability/intimidate,/ability/reckless","intimidate,reckless","Starly,Staravia,Staraptor"
+0396,Starly,"Normal,Flying,Route 201,202,203,204,Lake Verity",0.3 m (1′00″),2.0 kg (4.4 lbs),"/ability/keen-eye,/ability/reckless","keen-eye,reckless","Starly,Staravia,Staraptor"
+0395,Empoleon,"Water,Steel",1.7 m (5′07″),84.5 kg (186.3 lbs),"/ability/torrent,/ability/defiant","torrent,defiant","Piplup,Prinplup,Empoleon"
+0394,Prinplup,Water,0.8 m (2′07″),23.0 kg (50.7 lbs),"/ability/torrent,/ability/defiant","torrent,defiant","Piplup,Prinplup,Empoleon"
+0393,Piplup,"Water,Route 201",0.4 m (1′04″),5.2 kg (11.5 lbs),"/ability/torrent,/ability/defiant","torrent,defiant","Piplup,Prinplup,Empoleon"
+0392,Infernape,"Fire,Fighting",1.2 m (3′11″),55.0 kg (121.3 lbs),"/ability/blaze,/ability/iron-fist","blaze,iron-fist","Chimchar,Monferno,Infernape"
+0391,Monferno,"Fire,Fighting",0.9 m (2′11″),22.0 kg (48.5 lbs),"/ability/blaze,/ability/iron-fist","blaze,iron-fist","Chimchar,Monferno,Infernape"
+0390,Chimchar,"Fire,Route 201",0.5 m (1′08″),6.2 kg (13.7 lbs),"/ability/blaze,/ability/iron-fist","blaze,iron-fist","Chimchar,Monferno,Infernape"
+0389,Torterra,"Grass,Ground",2.2 m (7′03″),310.0 kg (683.4 lbs),"/ability/overgrow,/ability/shell-armor","overgrow,shell-armor","Turtwig,Grotle,Torterra"
+0388,Grotle,Grass,1.1 m (3′07″),97.0 kg (213.8 lbs),"/ability/overgrow,/ability/shell-armor","overgrow,shell-armor","Turtwig,Grotle,Torterra"
+0387,Turtwig,"Grass,Route 201",0.4 m (1′04″),10.2 kg (22.5 lbs),"/ability/overgrow,/ability/shell-armor","overgrow,shell-armor","Turtwig,Grotle,Torterra"
+0386,Deoxys,"Psychic,Psychic,Psychic,Psychic,Birth Island",1.7 m (5′07″),60.8 kg (134.0 lbs),"/ability/pressure,/ability/pressure,/ability/pressure,/ability/pressure","pressure,pressure,pressure,pressure",
+0377,Regirock,Rock,1.7 m (5′07″),230.0 kg (507.1 lbs),"/ability/clear-body,/ability/sturdy","clear-body,sturdy",
+0376,Metagross,"Steel,Psychic,Steel,Psychic",1.6 m (5′03″),550.0 kg (1212.5 lbs),"/ability/clear-body,/ability/light-metal,/ability/tough-claws","clear-body,light-metal,tough-claws","Beldum,Metang,Metagross"
+0375,Metang,"Steel,Psychic",1.2 m (3′11″),202.5 kg (446.4 lbs),"/ability/clear-body,/ability/light-metal","clear-body,light-metal","Beldum,Metang,Metagross"
+0374,Beldum,"Steel,Psychic",0.6 m (2′00″),95.2 kg (209.9 lbs),"/ability/clear-body,/ability/light-metal,/pokedex/metang,/pokedex/metagross","clear-body,light-metal,metang,metagross","Beldum,Metang,Metagross"
+0373,Salamence,"Dragon,Flying,Dragon,Flying",1.5 m (4′11″),102.6 kg (226.2 lbs),"/ability/intimidate,/ability/moxie,/ability/aerilate","intimidate,moxie,aerilate","Bagon,Shelgon,Salamence"
+0372,Shelgon,Dragon,1.1 m (3′07″),110.5 kg (243.6 lbs),"/ability/rock-head,/ability/overcoat","rock-head,overcoat","Bagon,Shelgon,Salamence"
+0371,Bagon,Dragon,0.6 m (2′00″),42.1 kg (92.8 lbs),"/ability/rock-head,/ability/sheer-force","rock-head,sheer-force","Bagon,Shelgon,Salamence"
+0362,Glalie,"Ice,Ice",1.5 m (4′11″),256.5 kg (565.5 lbs),"/ability/inner-focus,/ability/ice-body,/ability/moody,/ability/refrigerate","inner-focus,ice-body,moody,refrigerate",Snorunt
+0361,Snorunt,Ice,0.7 m (2′04″),16.8 kg (37.0 lbs),"/ability/inner-focus,/ability/ice-body,/ability/moody","inner-focus,ice-body,moody",Snorunt
+0360,Wynaut,Psychic,0.6 m (2′00″),14.0 kg (30.9 lbs),"/ability/shadow-tag,/ability/telepathy","shadow-tag,telepathy","Wynaut,Wobbuffet"
+0351,Castform,"Normal,Fire,Water,Ice",0.3 m (1′00″),0.8 kg (1.8 lbs),"/ability/forecast,/ability/forecast,/ability/forecast,/ability/forecast","forecast,forecast,forecast,forecast",
+0350,Milotic,Water,6.2 m (20′04″),162.0 kg (357.1 lbs),"/ability/marvel-scale,/ability/competitive,/ability/cute-charm","marvel-scale,competitive,cute-charm","Feebas,Milotic"
+0349,Feebas,Water,0.6 m (2′00″),7.4 kg (16.3 lbs),"/ability/swift-swim,/ability/oblivious,/ability/adaptability","swift-swim,oblivious,adaptability","Feebas,Milotic"
+0348,Armaldo,"Rock,Bug",1.5 m (4′11″),68.2 kg (150.4 lbs),"/ability/battle-armor,/ability/swift-swim,/pokedex/anorith","battle-armor,swift-swim,anorith","Anorith,Armaldo"
+0347,Anorith,"Rock,Bug",0.7 m (2′04″),12.5 kg (27.6 lbs),"/ability/battle-armor,/ability/swift-swim","battle-armor,swift-swim","Anorith,Armaldo"
+0346,Cradily,"Rock,Grass",1.5 m (4′11″),60.4 kg (133.2 lbs),"/ability/suction-cups,/ability/storm-drain,/pokedex/lileep","suction-cups,storm-drain,lileep","Lileep,Cradily"
+0345,Lileep,"Rock,Grass",1.0 m (3′03″),23.8 kg (52.5 lbs),"/ability/suction-cups,/ability/storm-drain","suction-cups,storm-drain","Lileep,Cradily"
+0336,Seviper,"Poison,Route 114",2.7 m (8′10″),52.5 kg (115.7 lbs),"/ability/shed-skin,/ability/infiltrator","shed-skin,infiltrator",
+0335,Zangoose,Normal,1.3 m (4′03″),40.3 kg (88.8 lbs),"/ability/immunity,/ability/toxic-boost","immunity,toxic-boost",
+0334,Altaria,"Dragon,Flying,Dragon,Fairy",1.1 m (3′07″),20.6 kg (45.4 lbs),"/ability/natural-cure,/ability/cloud-nine,/ability/pixilate","natural-cure,cloud-nine,pixilate","Swablu,Altaria"
+0333,Swablu,"Normal,Flying",0.4 m (1′04″),1.2 kg (2.6 lbs),"/ability/natural-cure,/ability/cloud-nine","natural-cure,cloud-nine","Swablu,Altaria"
+0332,Cacturne,"Grass,Dark",1.3 m (4′03″),77.4 kg (170.6 lbs),"/ability/sand-veil,/ability/water-absorb","sand-veil,water-absorb","Cacnea,Cacturne"
+0331,Cacnea,Grass,0.4 m (1′04″),51.3 kg (113.1 lbs),"/ability/sand-veil,/ability/water-absorb","sand-veil,water-absorb","Cacnea,Cacturne"
+0330,Flygon,"Ground,Dragon",2.0 m (6′07″),82.0 kg (180.8 lbs),/ability/levitate,levitate,"Trapinch,Vibrava,Flygon"
+0329,Vibrava,"Ground,Dragon",1.1 m (3′07″),15.3 kg (33.7 lbs),/ability/levitate,levitate,"Trapinch,Vibrava,Flygon"
+0328,Trapinch,Ground,0.7 m (2′04″),15.0 kg (33.1 lbs),"/ability/hyper-cutter,/ability/arena-trap,/ability/sheer-force","hyper-cutter,arena-trap,sheer-force","Trapinch,Vibrava,Flygon"
+0327,Spinda,Normal,1.1 m (3′07″),5.0 kg (11.0 lbs),"/ability/own-tempo,/ability/tangled-feet,/ability/contrary","own-tempo,tangled-feet,contrary",
+0326,Grumpig,Psychic,0.9 m (2′11″),71.5 kg (157.6 lbs),"/ability/thick-fat,/ability/own-tempo,/ability/gluttony","thick-fat,own-tempo,gluttony","Spoink,Grumpig"
+0325,Spoink,Psychic,0.7 m (2′04″),30.6 kg (67.5 lbs),"/ability/thick-fat,/ability/own-tempo,/ability/gluttony","thick-fat,own-tempo,gluttony","Spoink,Grumpig"
+0316,Gulpin,Poison,0.4 m (1′04″),10.3 kg (22.7 lbs),"/ability/liquid-ooze,/ability/sticky-hold,/ability/gluttony","liquid-ooze,sticky-hold,gluttony","Gulpin,Swalot"
+0315,Roselia,"Grass,Poison",0.3 m (1′00″),2.0 kg (4.4 lbs),"/ability/natural-cure,/ability/poison-point,/ability/leaf-guard,/pokedex/budew","natural-cure,poison-point,leaf-guard,budew","Budew,Roselia,Roserade"
+0314,Illumise,Bug,0.6 m (2′00″),17.7 kg (39.0 lbs),"/ability/oblivious,/ability/tinted-lens,/ability/prankster","oblivious,tinted-lens,prankster",
+0313,Volbeat,Bug,0.7 m (2′04″),17.7 kg (39.0 lbs),"/ability/illuminate,/ability/swarm,/ability/prankster","illuminate,swarm,prankster",
+0312,Minun,Electric,0.4 m (1′04″),4.2 kg (9.3 lbs),"/ability/minus,/ability/volt-absorb","minus,volt-absorb",
+0311,Plusle,Electric,0.4 m (1′04″),4.2 kg (9.3 lbs),"/ability/plus,/ability/lightning-rod","plus,lightning-rod",
+0310,Manectric,"Electric,Electric",1.5 m (4′11″),40.2 kg (88.6 lbs),"/ability/static,/ability/lightning-rod,/ability/minus,/ability/intimidate","static,lightning-rod,minus,intimidate","Electrike,Manectric"
+0309,Electrike,Electric,0.6 m (2′00″),15.2 kg (33.5 lbs),"/ability/static,/ability/lightning-rod,/ability/minus","static,lightning-rod,minus","Electrike,Manectric"
+0308,Medicham,"Fighting,Psychic,Fighting,Psychic",1.3 m (4′03″),31.5 kg (69.4 lbs),"/ability/pure-power,/ability/telepathy,/ability/pure-power","pure-power,telepathy,pure-power","Meditite,Medicham"
+0307,Meditite,"Fighting,Psychic",0.6 m (2′00″),11.2 kg (24.7 lbs),"/ability/pure-power,/ability/telepathy","pure-power,telepathy","Meditite,Medicham"
+0298,Azurill,"Normal,Fairy,Great Marsh,Trophy Garden",0.2 m (0′08″),2.0 kg (4.4 lbs),"/ability/thick-fat,/ability/huge-power,/ability/sap-sipper","thick-fat,huge-power,sap-sipper","Azurill,Marill,Azumarill"
+0289,Slaking,Normal,2.0 m (6′07″),130.5 kg (287.7 lbs),"/ability/truant,/pokedex/slakoth,/pokedex/vigoroth","truant,slakoth,vigoroth","Slakoth,Vigoroth,Slaking"
+0288,Vigoroth,Normal,1.4 m (4′07″),46.5 kg (102.5 lbs),"/ability/vital-spirit,/pokedex/slakoth","vital-spirit,slakoth","Slakoth,Vigoroth,Slaking"
+0287,Slakoth,Normal,0.8 m (2′07″),24.0 kg (52.9 lbs),/ability/truant,truant,"Slakoth,Vigoroth,Slaking"
+0286,Breloom,"Grass,Fighting",1.2 m (3′11″),39.2 kg (86.4 lbs),"/ability/effect-spore,/ability/poison-heal,/ability/technician","effect-spore,poison-heal,technician","Shroomish,Breloom"
+0285,Shroomish,Grass,0.4 m (1′04″),4.5 kg (9.9 lbs),"/ability/effect-spore,/ability/poison-heal,/ability/quick-feet","effect-spore,poison-heal,quick-feet","Shroomish,Breloom"
+0284,Masquerain,"Bug,Flying",0.8 m (2′07″),3.6 kg (7.9 lbs),"/ability/intimidate,/ability/unnerve","intimidate,unnerve","Surskit,Masquerain"
+0283,Surskit,"Bug,Water",0.5 m (1′08″),1.7 kg (3.7 lbs),"/ability/swift-swim,/ability/rain-dish","swift-swim,rain-dish","Surskit,Masquerain"
+0282,Gardevoir,"Psychic,Fairy,Psychic,Fairy",1.6 m (5′03″),48.4 kg (106.7 lbs),"/ability/synchronize,/ability/trace,/ability/telepathy,/ability/pixilate,/pokedex/ralts,/pokedex/kirlia","synchronize,trace,telepathy,pixilate,ralts,kirlia","Ralts,Kirlia"
+0281,Kirlia,"Psychic,Fairy",0.8 m (2′07″),20.2 kg (44.5 lbs),"/ability/synchronize,/ability/trace,/ability/telepathy,/pokedex/ralts","synchronize,trace,telepathy,ralts","Ralts,Kirlia"
+0280,Ralts,"Psychic,Fairy",0.4 m (1′04″),6.6 kg (14.6 lbs),"/ability/synchronize,/ability/trace,/ability/telepathy","synchronize,trace,telepathy","Ralts,Kirlia"
+0279,Pelipper,"Water,Flying",1.2 m (3′11″),28.0 kg (61.7 lbs),"/ability/keen-eye,/ability/drizzle,/ability/rain-dish,/pokedex/wingull","keen-eye,drizzle,rain-dish,wingull","Wingull,Pelipper"
+0278,Wingull,"Water,Flying",0.6 m (2′00″),9.5 kg (20.9 lbs),"/ability/keen-eye,/ability/hydration,/ability/rain-dish","keen-eye,hydration,rain-dish","Wingull,Pelipper"
+0277,Swellow,"Normal,Flying",0.7 m (2′04″),19.8 kg (43.7 lbs),"/ability/guts,/ability/scrappy","guts,scrappy","Taillow,Swellow"
+0276,Taillow,"Normal,Flying",0.3 m (1′00″),2.3 kg (5.1 lbs),"/ability/guts,/ability/scrappy,/pokedex/swellow","guts,scrappy,swellow","Taillow,Swellow"
+0275,Shiftry,"Grass,Dark",1.3 m (4′03″),59.6 kg (131.4 lbs),"/ability/chlorophyll,/ability/early-bird,/ability/pickpocket,/pokedex/seedot,/pokedex/nuzleaf","chlorophyll,early-bird,pickpocket,seedot,nuzleaf","Seedot,Nuzleaf,Shiftry"
+0274,Nuzleaf,"Grass,Dark",1.0 m (3′03″),28.0 kg (61.7 lbs),"/ability/chlorophyll,/ability/early-bird,/ability/pickpocket","chlorophyll,early-bird,pickpocket","Seedot,Nuzleaf,Shiftry"
+0273,Seedot,Grass,0.5 m (1′08″),4.0 kg (8.8 lbs),"/ability/chlorophyll,/ability/early-bird,/ability/pickpocket","chlorophyll,early-bird,pickpocket","Seedot,Nuzleaf,Shiftry"
+0272,Ludicolo,"Water,Grass",1.5 m (4′11″),55.0 kg (121.3 lbs),"/ability/swift-swim,/ability/rain-dish,/ability/own-tempo","swift-swim,rain-dish,own-tempo","Lotad,Lombre,Ludicolo"
+0271,Lombre,"Water,Grass,Route 114",1.2 m (3′11″),32.5 kg (71.7 lbs),"/ability/swift-swim,/ability/rain-dish,/ability/own-tempo","swift-swim,rain-dish,own-tempo","Lotad,Lombre,Ludicolo"
+0270,Lotad,"Water,Grass,Route 102,114",0.5 m (1′08″),2.6 kg (5.7 lbs),"/ability/swift-swim,/ability/rain-dish,/ability/own-tempo","swift-swim,rain-dish,own-tempo","Lotad,Lombre,Ludicolo"
+0269,Dustox,"Bug,Poison",1.2 m (3′11″),31.6 kg (69.7 lbs),"/ability/shield-dust,/ability/compound-eyes","shield-dust,compound-eyes",Wurmple
+0268,Cascoon,Bug,0.7 m (2′04″),11.5 kg (25.4 lbs),/ability/shed-skin,shed-skin,Wurmple
+0267,Beautifly,"Bug,Flying",1.0 m (3′03″),28.4 kg (62.6 lbs),"/ability/swarm,/ability/rivalry","swarm,rivalry",Wurmple
+0258,Mudkip,Water,0.4 m (1′04″),7.6 kg (16.8 lbs),"/ability/torrent,/ability/damp","torrent,damp","Mudkip,Marshtomp,Swampert"
+0257,Blaziken,"Fire,Fighting,Fire,Fighting",1.9 m (6′03″),52.0 kg (114.6 lbs),"/ability/blaze,/ability/speed-boost,/ability/speed-boost","blaze,speed-boost,speed-boost","Torchic,Combusken,Blaziken"
+0256,Combusken,"Fire,Fighting",0.9 m (2′11″),19.5 kg (43.0 lbs),"/ability/blaze,/ability/speed-boost","blaze,speed-boost","Torchic,Combusken,Blaziken"
+0255,Torchic,Fire,0.4 m (1′04″),2.5 kg (5.5 lbs),"/ability/blaze,/ability/speed-boost","blaze,speed-boost","Torchic,Combusken,Blaziken"
+0254,Sceptile,"Grass,Grass,Dragon",1.7 m (5′07″),52.2 kg (115.1 lbs),"/ability/overgrow,/ability/unburden,/ability/lightning-rod","overgrow,unburden,lightning-rod","Treecko,Grovyle,Sceptile"
+0253,Grovyle,Grass,0.9 m (2′11″),21.6 kg (47.6 lbs),"/ability/overgrow,/ability/unburden","overgrow,unburden","Treecko,Grovyle,Sceptile"
+0252,Treecko,Grass,0.5 m (1′08″),5.0 kg (11.0 lbs),"/ability/overgrow,/ability/unburden","overgrow,unburden","Treecko,Grovyle,Sceptile"
+0251,Celebi,"Psychic,Grass,Ilex Forest",0.6 m (2′00″),5.0 kg (11.0 lbs),/ability/natural-cure,natural-cure,
+0242,Blissey,Normal,1.5 m (4′11″),46.8 kg (103.2 lbs),"/ability/natural-cure,/ability/serene-grace,/ability/healer","natural-cure,serene-grace,healer","Happiny,Chansey,Blissey"
+0241,Miltank,Normal,1.2 m (3′11″),75.5 kg (166.4 lbs),"/ability/thick-fat,/ability/scrappy,/ability/sap-sipper","thick-fat,scrappy,sap-sipper",
+0240,Magby,"Fire,Route 34",0.7 m (2′04″),21.4 kg (47.2 lbs),"/ability/flame-body,/ability/vital-spirit","flame-body,vital-spirit","Magby,Magmar,Magmortar"
+0239,Elekid,"Electric,Route 34",0.6 m (2′00″),23.5 kg (51.8 lbs),"/ability/static,/ability/vital-spirit","static,vital-spirit","Elekid,Electabuzz,Electivire"
+0238,Smoochum,"Ice,Psychic,Route 34",0.4 m (1′04″),6.0 kg (13.2 lbs),"/ability/oblivious,/ability/forewarn,/ability/hydration","oblivious,forewarn,hydration","Smoochum,Jynx"
+0237,Hitmontop,Fighting,1.4 m (4′07″),48.0 kg (105.8 lbs),"/ability/intimidate,/ability/technician,/ability/steadfast,/pokedex/tyrogue","intimidate,technician,steadfast,tyrogue",Tyrogue
+0236,Tyrogue,"Fighting,Route 34,Mt. Mortar",0.7 m (2′04″),21.0 kg (46.3 lbs),"/ability/guts,/ability/steadfast,/ability/vital-spirit","guts,steadfast,vital-spirit",Tyrogue
+0227,Skarmory,"Steel,Flying,Route 45",1.7 m (5′07″),50.5 kg (111.3 lbs),"/ability/keen-eye,/ability/sturdy,/ability/weak-armor","keen-eye,sturdy,weak-armor",
+0226,Mantine,"Water,Flying",2.1 m (6′11″),220.0 kg (485.0 lbs),"/ability/swift-swim,/ability/water-absorb,/ability/water-veil","swift-swim,water-absorb,water-veil","Mantyke,Mantine"
+0225,Delibird,"Ice,Flying,Ice Path",0.9 m (2′11″),16.0 kg (35.3 lbs),"/ability/vital-spirit,/ability/hustle,/ability/insomnia","vital-spirit,hustle,insomnia",
+0216,Teddiursa,Normal,0.6 m (2′00″),8.8 kg (19.4 lbs),"/ability/pickup,/ability/quick-feet,/ability/honey-gather","pickup,quick-feet,honey-gather","Teddiursa,Ursaring,Ursaluna"
+0215,Sneasel,"Dark,Ice,Fighting,Poison,Ice Path",0.9 m (2′11″),28.0 kg (61.7 lbs),"/ability/inner-focus,/ability/keen-eye,/ability/pickpocket,/ability/inner-focus,/ability/keen-eye,/ability/pickpocket","inner-focus,keen-eye,pickpocket,inner-focus,keen-eye,pickpocket","Sneasel,Weavile,Sneasel,Sneasler"
+0214,Heracross,"Bug,Fighting,Bug,Fighting,Route 33,42,44,Azalea Town",1.5 m (4′11″),54.0 kg (119.0 lbs),"/ability/swarm,/ability/guts,/ability/moxie,/ability/skill-link","swarm,guts,moxie,skill-link",
+0213,Shuckle,"Bug,Rock",0.6 m (2′00″),20.5 kg (45.2 lbs),"/ability/sturdy,/ability/gluttony,/ability/contrary","sturdy,gluttony,contrary",
+0212,Scizor,"Bug,Steel,Bug,Steel",1.8 m (5′11″),118.0 kg (260.1 lbs),"/ability/swarm,/ability/technician,/ability/light-metal,/ability/technician","swarm,technician,light-metal,technician",Scyther
+0211,Qwilfish,"Water,Poison,Dark,Poison",0.5 m (1′08″),3.9 kg (8.6 lbs),"/ability/poison-point,/ability/swift-swim,/ability/intimidate,/ability/poison-point,/ability/swift-swim,/ability/intimidate","poison-point,swift-swim,intimidate,poison-point,swift-swim,intimidate","Qwilfish,Overqwil"
+0210,Granbull,"Fairy,Route 5,6",1.4 m (4′07″),48.7 kg (107.4 lbs),"/ability/intimidate,/ability/quick-feet,/ability/rattled","intimidate,quick-feet,rattled","Snubbull,Granbull"
+0209,Snubbull,"Fairy,Route 6,7,8,34,35",0.6 m (2′00″),7.8 kg (17.2 lbs),"/ability/intimidate,/ability/run-away,/ability/rattled","intimidate,run-away,rattled","Snubbull,Granbull"
+0208,Steelix,"Steel,Ground,Steel,Ground",9.2 m (30′02″),400.0 kg (881.8 lbs),"/ability/rock-head,/ability/sturdy,/ability/sheer-force,/ability/sand-force","rock-head,sturdy,sheer-force,sand-force","Onix,Steelix"
+0207,Gligar,"Ground,Flying",1.1 m (3′07″),64.8 kg (142.9 lbs),"/ability/hyper-cutter,/ability/sand-veil,/ability/immunity","hyper-cutter,sand-veil,immunity","Gligar,Gliscor"
+0206,Dunsparce,Normal,1.5 m (4′11″),14.0 kg (30.9 lbs),"/ability/serene-grace,/ability/run-away,/ability/rattled","serene-grace,run-away,rattled",Dunsparce
+0197,Umbreon,Dark,1.0 m (3′03″),27.0 kg (59.5 lbs),"/ability/synchronize,/ability/inner-focus","synchronize,inner-focus","Eevee,Eevee,Eevee,Eevee,Sylveon"
+0196,Espeon,Psychic,0.9 m (2′11″),26.5 kg (58.4 lbs),"/ability/synchronize,/ability/magic-bounce","synchronize,magic-bounce","Eevee,Eevee,Eevee,Eevee,Sylveon"
+0195,Quagsire,"Water,Ground,Route 12,13,14,15,26,27,32,Ruins of Alph,Union Cave",1.4 m (4′07″),75.0 kg (165.3 lbs),"/ability/damp,/ability/water-absorb,/ability/unaware","damp,water-absorb,unaware","Wooper,Quagsire,Wooper,Clodsire"
+0194,Wooper,"Water,Ground,Poison,Ground",0.4 m (1′04″),8.5 kg (18.7 lbs),"/ability/damp,/ability/water-absorb,/ability/unaware,/ability/poison-point,/ability/water-absorb,/ability/unaware","damp,water-absorb,unaware,poison-point,water-absorb,unaware","Wooper,Quagsire,Wooper,Clodsire"
+0193,Yanma,"Bug,Flying",1.2 m (3′11″),38.0 kg (83.8 lbs),"/ability/speed-boost,/ability/compound-eyes,/ability/frisk","speed-boost,compound-eyes,frisk","Yanma,Yanmega"
+0192,Sunflora,Grass,0.8 m (2′07″),8.5 kg (18.7 lbs),"/ability/chlorophyll,/ability/solar-power,/ability/early-bird,/pokedex/sunkern","chlorophyll,solar-power,early-bird,sunkern","Sunkern,Sunflora"
+0191,Sunkern,Grass,0.3 m (1′00″),1.8 kg (4.0 lbs),"/ability/chlorophyll,/ability/solar-power,/ability/early-bird","chlorophyll,solar-power,early-bird","Sunkern,Sunflora"
+0190,Aipom,"Normal,Route 33,42,44,Azalea Town",0.8 m (2′07″),11.5 kg (25.4 lbs),"/ability/run-away,/ability/pickup,/ability/skill-link","run-away,pickup,skill-link","Aipom,Ambipom"
+0189,Jumpluff,"Grass,Flying",0.8 m (2′07″),3.0 kg (6.6 lbs),"/ability/chlorophyll,/ability/leaf-guard,/ability/infiltrator","chlorophyll,leaf-guard,infiltrator","Hoppip,Skiploom,Jumpluff"
+0188,Skiploom,"Grass,Flying",0.6 m (2′00″),1.0 kg (2.2 lbs),"/ability/chlorophyll,/ability/leaf-guard,/ability/infiltrator","chlorophyll,leaf-guard,infiltrator","Hoppip,Skiploom,Jumpluff"
+0187,Hoppip,"Grass,Flying,Route 11,13,14,15,29,30,31,32,33",0.4 m (1′04″),0.5 kg (1.1 lbs),"/ability/chlorophyll,/ability/leaf-guard,/ability/infiltrator","chlorophyll,leaf-guard,infiltrator","Hoppip,Skiploom,Jumpluff"
+0186,Politoed,Water,1.1 m (3′07″),33.9 kg (74.7 lbs),"/ability/water-absorb,/ability/damp,/ability/drizzle","water-absorb,damp,drizzle","Poliwag,Poliwhirl"
+0185,Sudowoodo,Rock,1.2 m (3′11″),38.0 kg (83.8 lbs),"/ability/sturdy,/ability/rock-head,/ability/rattled","sturdy,rock-head,rattled","Bonsly,Sudowoodo"
+0176,Togetic,"Fairy,Flying",0.6 m (2′00″),3.2 kg (7.1 lbs),"/ability/hustle,/ability/serene-grace,/ability/super-luck","hustle,serene-grace,super-luck","Togepi,Togetic,Togekiss"
+0175,Togepi,Fairy,0.3 m (1′00″),1.5 kg (3.3 lbs),"/ability/hustle,/ability/serene-grace,/ability/super-luck","hustle,serene-grace,super-luck","Togepi,Togetic,Togekiss"
+0174,Igglybuff,"Normal,Fairy,Route 34",0.3 m (1′00″),1.0 kg (2.2 lbs),"/ability/cute-charm,/ability/competitive,/ability/friend-guard,/pokedex/jigglypuff,/pokedex/wigglytuff","cute-charm,competitive,friend-guard,jigglypuff,wigglytuff","Igglybuff,Jigglypuff,Wigglytuff"
+0173,Cleffa,"Fairy,Route 34",0.3 m (1′00″),3.0 kg (6.6 lbs),"/ability/cute-charm,/ability/magic-guard,/ability/friend-guard","cute-charm,magic-guard,friend-guard","Cleffa,Clefairy,Clefable"
+0172,Pichu,"Electric,Route 34",0.3 m (1′00″),2.0 kg (4.4 lbs),"/ability/static,/ability/lightning-rod","static,lightning-rod","Pichu,Pikachu"
+0171,Lanturn,"Water,Electric,Route 26,27,New Bark Town,Olivine City,Pallet Town,Vermilion City",1.2 m (3′11″),22.5 kg (49.6 lbs),"/ability/volt-absorb,/ability/illuminate,/ability/water-absorb","volt-absorb,illuminate,water-absorb","Chinchou,Lanturn"
+0170,Chinchou,"Water,Electric,Route 26,27,New Bark Town,Olivine City,Pallet Town,Vermilion City",0.5 m (1′08″),12.0 kg (26.5 lbs),"/ability/volt-absorb,/ability/illuminate,/ability/water-absorb","volt-absorb,illuminate,water-absorb","Chinchou,Lanturn"
+0169,Crobat,"Poison,Flying",1.8 m (5′11″),75.0 kg (165.3 lbs),"/ability/inner-focus,/ability/infiltrator,/pokedex/zubat,/pokedex/golbat","inner-focus,infiltrator,zubat,golbat","Zubat,Golbat,Crobat"
+0168,Ariados,"Bug,Poison",1.1 m (3′07″),33.5 kg (73.9 lbs),"/ability/swarm,/ability/insomnia,/ability/sniper","swarm,insomnia,sniper","Spinarak,Ariados"
+0167,Spinarak,"Bug,Poison",0.5 m (1′08″),8.5 kg (18.7 lbs),"/ability/swarm,/ability/insomnia,/ability/sniper","swarm,insomnia,sniper","Spinarak,Ariados"
+0166,Ledian,"Bug,Flying,Route 2",1.4 m (4′07″),35.6 kg (78.5 lbs),"/ability/swarm,/ability/early-bird,/ability/iron-fist","swarm,early-bird,iron-fist","Ledyba,Ledian"
+0165,Ledyba,"Bug,Flying,Route 2,30,31,37",1.0 m (3′03″),10.8 kg (23.8 lbs),"/ability/swarm,/ability/early-bird,/ability/rattled","swarm,early-bird,rattled","Ledyba,Ledian"
+0164,Noctowl,"Normal,Flying,Route 2,5,8,11,13,14,15,25,26,27,35,37,38,39,43,Ilex Forest",1.6 m (5′03″),40.8 kg (89.9 lbs),"/ability/insomnia,/ability/keen-eye,/ability/tinted-lens","insomnia,keen-eye,tinted-lens","Hoothoot,Noctowl"
+0155,Cyndaquil,Fire,0.5 m (1′08″),7.9 kg (17.4 lbs),"/ability/blaze,/ability/flash-fire","blaze,flash-fire","Cyndaquil,Quilava"
+0154,Meganium,Grass,1.8 m (5′11″),100.5 kg (221.6 lbs),"/ability/overgrow,/ability/leaf-guard","overgrow,leaf-guard","Chikorita,Bayleef,Meganium"
+0153,Bayleef,Grass,1.2 m (3′11″),15.8 kg (34.8 lbs),"/ability/overgrow,/ability/leaf-guard","overgrow,leaf-guard","Chikorita,Bayleef,Meganium"
+0152,Chikorita,Grass,0.9 m (2′11″),6.4 kg (14.1 lbs),"/ability/overgrow,/ability/leaf-guard","overgrow,leaf-guard","Chikorita,Bayleef,Meganium"
+0151,Mew,Psychic,0.4 m (1′04″),4.0 kg (8.8 lbs),/ability/synchronize,synchronize,
+0150,Mewtwo,"Psychic,Psychic,Fighting,Psychic",2.0 m (6′07″),122.0 kg (269.0 lbs),"/ability/pressure,/ability/unnerve,/ability/steadfast,/ability/insomnia","pressure,unnerve,steadfast,insomnia",
+0149,Dragonite,"Dragon,Flying",2.2 m (7′03″),210.0 kg (463.0 lbs),"/ability/inner-focus,/ability/multiscale,/pokedex/dratini,/pokedex/dragonair","inner-focus,multiscale,dratini,dragonair","Dratini,Dragonair,Dragonite"
+0148,Dragonair,"Dragon,Safari Zone",4.0 m (13′01″),16.5 kg (36.4 lbs),"/ability/shed-skin,/ability/marvel-scale","shed-skin,marvel-scale","Dratini,Dragonair,Dragonite"
+0147,Dratini,"Dragon,Safari Zone",1.8 m (5′11″),3.3 kg (7.3 lbs),"/ability/shed-skin,/ability/marvel-scale","shed-skin,marvel-scale","Dratini,Dragonair,Dragonite"
+0146,Moltres,"Fire,Flying,Dark,Flying",2.0 m (6′07″),60.0 kg (132.3 lbs),"/ability/pressure,/ability/flame-body,/ability/berserk","pressure,flame-body,berserk",
+0145,Zapdos,"Electric,Flying,Fighting,Flying",1.6 m (5′03″),52.6 kg (116.0 lbs),"/ability/pressure,/ability/static,/ability/defiant","pressure,static,defiant",
+0136,Flareon,Fire,0.9 m (2′11″),25.0 kg (55.1 lbs),"/ability/flash-fire,/ability/guts,/pokedex/eevee","flash-fire,guts,eevee","Eevee,Eevee,Eevee,Eevee,Sylveon"
+0135,Jolteon,Electric,0.8 m (2′07″),24.5 kg (54.0 lbs),"/ability/volt-absorb,/ability/quick-feet,/pokedex/eevee","volt-absorb,quick-feet,eevee","Eevee,Eevee,Eevee,Eevee,Sylveon"
+0134,Vaporeon,Water,1.0 m (3′03″),29.0 kg (63.9 lbs),"/ability/water-absorb,/ability/hydration,/pokedex/eevee","water-absorb,hydration,eevee","Eevee,Eevee,Eevee,Eevee,Sylveon"
+0133,Eevee,"Normal,Normal,Celadon City,Goldenrod City",0.3 m (1′00″),6.5 kg (14.3 lbs),"/ability/run-away,/ability/adaptability,/ability/anticipation","run-away,adaptability,anticipation","Eevee,Eevee,Eevee,Eevee,Sylveon"
+0132,Ditto,"Normal,Cerulean Cave,Pokémon Mansion",0.3 m (1′00″),4.0 kg (8.8 lbs),"/ability/limber,/ability/imposter","limber,imposter",
+0131,Lapras,"Water,Ice,Union Cave",2.5 m (8′02″),220.0 kg (485.0 lbs),"/ability/water-absorb,/ability/shell-armor,/ability/hydration","water-absorb,shell-armor,hydration",
+0130,Gyarados,"Water,Flying,Water,Dark,Fuchsia City",6.5 m (21′04″),235.0 kg (518.1 lbs),"/ability/intimidate,/ability/moxie,/ability/mold-breaker","intimidate,moxie,mold-breaker","Magikarp,Gyarados"
+0129,Magikarp,"Water,Route 6,9,10,12,13,19,20,21,22,24,25,26,27,28,30,31,32,34,35,40,41,42,43,44,45,Blackthorn City,Cerulean City,Cherrygrove City,Cianwood City,Cinnabar Island,Dark Cave,Dragon's Den,Ecruteak City,Fuchsia City,Ilex Forest,Lake of Rage,Mt. Mortar,Mt. Silver,New Bark Town,Olivine City,Pallet Town,Ruins of Alph,Slowpoke Well,Union Cave,Vermilion City,Violet City,Viridian City,Whirl Islands",0.9 m (2′11″),10.0 kg (22.0 lbs),"/ability/swift-swim,/ability/rattled","swift-swim,rattled","Magikarp,Gyarados"
+0128,Tauros,"Normal,Fighting,Fighting,Fire,Fighting,Water,Route 38,39",1.4 m (4′07″),88.4 kg (194.9 lbs),"/ability/intimidate,/ability/anger-point,/ability/sheer-force,/ability/intimidate,/ability/anger-point,/ability/cud-chew,/ability/intimidate,/ability/anger-point,/ability/cud-chew,/ability/intimidate,/ability/anger-point,/ability/cud-chew","intimidate,anger-point,sheer-force,intimidate,anger-point,cud-chew,intimidate,anger-point,cud-chew,intimidate,anger-point,cud-chew",
+0127,Pinsir,"Bug,Bug,Flying,Celadon City,Safari Zone",1.5 m (4′11″),55.0 kg (121.3 lbs),"/ability/hyper-cutter,/ability/mold-breaker,/ability/moxie,/ability/aerilate","hyper-cutter,mold-breaker,moxie,aerilate",
+0126,Magmar,"Fire,Pokémon Mansion",1.3 m (4′03″),44.5 kg (98.1 lbs),"/ability/flame-body,/ability/vital-spirit","flame-body,vital-spirit","Magby,Magmar,Magmortar"
+0125,Electabuzz,Electric,1.1 m (3′07″),30.0 kg (66.1 lbs),"/ability/static,/ability/vital-spirit","static,vital-spirit","Elekid,Electabuzz,Electivire"
+0124,Jynx,"Ice,Psychic",1.4 m (4′07″),40.6 kg (89.5 lbs),"/ability/oblivious,/ability/forewarn,/ability/dry-skin","oblivious,forewarn,dry-skin","Smoochum,Jynx"
+0123,Scyther,"Bug,Flying",1.5 m (4′11″),56.0 kg (123.5 lbs),"/ability/swarm,/ability/technician,/ability/steadfast","swarm,technician,steadfast",Scyther
+0122,Mr. Mime,"Psychic,Fairy,Ice,Psychic,Route 21,Celadon City",1.3 m (4′03″),54.5 kg (120.2 lbs),"/ability/soundproof,/ability/filter,/ability/technician,/ability/vital-spirit,/ability/screen-cleaner,/ability/ice-body","soundproof,filter,technician,vital-spirit,screen-cleaner,ice-body",Mime Jr.
+0121,Starmie,"Water,Psychic",1.1 m (3′07″),80.0 kg (176.4 lbs),"/ability/illuminate,/ability/natural-cure,/ability/analytic,/pokedex/staryu","illuminate,natural-cure,analytic,staryu","Staryu,Starmie"
+0112,Rhydon,"Ground,Rock,Cerulean Cave,Cinnabar Island",1.9 m (6′03″),120.0 kg (264.6 lbs),"/ability/lightning-rod,/ability/rock-head,/ability/reckless","lightning-rod,rock-head,reckless","Rhyhorn,Rhydon,Rhyperior"
+0111,Rhyhorn,"Ground,Rock,Cerulean Cave,Safari Zone",1.0 m (3′03″),115.0 kg (253.5 lbs),"/ability/lightning-rod,/ability/rock-head,/ability/reckless","lightning-rod,rock-head,reckless","Rhyhorn,Rhydon,Rhyperior"
+0110,Weezing,"Poison,Poison,Fairy",1.2 m (3′11″),9.5 kg (20.9 lbs),"/ability/levitate,/ability/neutralizing-gas,/ability/stench,/ability/levitate,/ability/neutralizing-gas,/ability/misty-surge","levitate,neutralizing-gas,stench,levitate,neutralizing-gas,misty-surge",Koffing
+0109,Koffing,Poison,0.6 m (2′00″),1.0 kg (2.2 lbs),"/ability/levitate,/ability/neutralizing-gas,/ability/stench","levitate,neutralizing-gas,stench",Koffing
+0108,Lickitung,"Normal,Cerulean Cave",1.2 m (3′11″),65.5 kg (144.4 lbs),"/ability/own-tempo,/ability/oblivious,/ability/cloud-nine","own-tempo,oblivious,cloud-nine","Lickitung,Lickilicky"
+0107,Hitmonchan,Fighting,1.4 m (4′07″),50.2 kg (110.7 lbs),"/ability/keen-eye,/ability/iron-fist,/ability/inner-focus,/pokedex/tyrogue","keen-eye,iron-fist,inner-focus,tyrogue",Tyrogue
+0106,Hitmonlee,Fighting,1.5 m (4′11″),49.8 kg (109.8 lbs),"/ability/limber,/ability/reckless,/ability/unburden,/pokedex/tyrogue","limber,reckless,unburden,tyrogue",Tyrogue
+0105,Marowak,"Ground,Fire,Ghost,Safari Zone",1.0 m (3′03″),45.0 kg (99.2 lbs),"/ability/rock-head,/ability/lightning-rod,/ability/battle-armor,/ability/cursed-body,/ability/lightning-rod,/ability/rock-head","rock-head,lightning-rod,battle-armor,cursed-body,lightning-rod,rock-head",Cubone
+0104,Cubone,"Ground,Pokémon Tower,Safari Zone",0.4 m (1′04″),6.5 kg (14.3 lbs),"/ability/rock-head,/ability/lightning-rod,/ability/battle-armor","rock-head,lightning-rod,battle-armor",Cubone
+0103,Exeggutor,"Grass,Psychic,Grass,Dragon",2.0 m (6′07″),120.0 kg (264.6 lbs),"/ability/chlorophyll,/ability/harvest,/ability/frisk,/ability/harvest,/pokedex/exeggcute","chlorophyll,harvest,frisk,harvest,exeggcute",Exeggcute
+0102,Exeggcute,"Grass,Psychic,Route 26,27,34,35,36,37,38,39,Azalea Town,Ilex Forest,Lake of Rage",0.4 m (1′04″),2.5 kg (5.5 lbs),"/ability/chlorophyll,/ability/harvest","chlorophyll,harvest",Exeggcute
+0101,Electrode,"Electric,Electric,Grass",1.2 m (3′11″),66.6 kg (146.8 lbs),"/ability/soundproof,/ability/static,/ability/aftermath,/ability/soundproof,/ability/static,/ability/aftermath","soundproof,static,aftermath,soundproof,static,aftermath","Voltorb,Electrode,Voltorb,Electrode"
+0100,Voltorb,"Electric,Electric,Grass,Power Plant",0.5 m (1′08″),10.4 kg (22.9 lbs),"/ability/soundproof,/ability/static,/ability/aftermath,/ability/soundproof,/ability/static,/ability/aftermath","soundproof,static,aftermath,soundproof,static,aftermath","Voltorb,Electrode,Voltorb,Electrode"
+0099,Kingler,"Water,Route 23,Cerulean Cave,Seafoam Islands",1.3 m (4′03″),60.0 kg (132.3 lbs),"/ability/hyper-cutter,/ability/shell-armor,/ability/sheer-force","hyper-cutter,shell-armor,sheer-force","Krabby,Kingler"
+0098,Krabby,"Water,Route 6,11,12,13,17,18,24,25,Fuchsia City,Seafoam Islands,Vermilion City,Safari Zone",0.4 m (1′04″),6.5 kg (14.3 lbs),"/ability/hyper-cutter,/ability/shell-armor,/ability/sheer-force","hyper-cutter,shell-armor,sheer-force","Krabby,Kingler"
+0097,Hypno,Psychic,1.6 m (5′03″),75.6 kg (166.7 lbs),"/ability/insomnia,/ability/forewarn,/ability/inner-focus","insomnia,forewarn,inner-focus","Drowzee,Hypno"
+0096,Drowzee,"Psychic,Route 11,34,35",1.0 m (3′03″),32.4 kg (71.4 lbs),"/ability/insomnia,/ability/forewarn,/ability/inner-focus","insomnia,forewarn,inner-focus","Drowzee,Hypno"
+0087,Dewgong,"Water,Ice,Cinnabar Island,Seafoam Islands",1.7 m (5′07″),120.0 kg (264.6 lbs),"/ability/thick-fat,/ability/hydration,/ability/ice-body","thick-fat,hydration,ice-body","Seel,Dewgong"
+0086,Seel,"Water,Seafoam Islands",1.1 m (3′07″),90.0 kg (198.4 lbs),"/ability/thick-fat,/ability/hydration,/ability/ice-body","thick-fat,hydration,ice-body","Seel,Dewgong"
+0085,Dodrio,"Normal,Flying,Route 17",1.8 m (5′11″),85.2 kg (187.8 lbs),"/ability/run-away,/ability/early-bird,/ability/tangled-feet","run-away,early-bird,tangled-feet","Doduo,Dodrio"
+0084,Doduo,"Normal,Flying,Route 16,17,18",1.4 m (4′07″),39.2 kg (86.4 lbs),"/ability/run-away,/ability/early-bird,/ability/tangled-feet","run-away,early-bird,tangled-feet","Doduo,Dodrio"
+0083,Farfetch'd,"Normal,Flying,Fighting,Route 12,13",0.8 m (2′07″),15.0 kg (33.1 lbs),"/ability/keen-eye,/ability/inner-focus,/ability/defiant,/ability/steadfast,/ability/scrappy","keen-eye,inner-focus,defiant,steadfast,scrappy","Farfetch'd,Sirfetch'd"
+0082,Magneton,"Electric,Steel,Power Plant",1.0 m (3′03″),60.0 kg (132.3 lbs),"/ability/magnet-pull,/ability/sturdy,/ability/analytic","magnet-pull,sturdy,analytic","Magnemite,Magneton,Magnezone"
+0081,Magnemite,"Electric,Steel,Route 10,Power Plant",0.3 m (1′00″),6.0 kg (13.2 lbs),"/ability/magnet-pull,/ability/sturdy,/ability/analytic","magnet-pull,sturdy,analytic","Magnemite,Magneton,Magnezone"
+0080,Slowbro,"Water,Psychic,Water,Psychic,Poison,Psychic,Route 12,13,Seafoam Islands",1.6 m (5′03″),78.5 kg (173.1 lbs),"/ability/oblivious,/ability/own-tempo,/ability/regenerator,/ability/shell-armor,/ability/quick-draw,/ability/own-tempo,/ability/regenerator","oblivious,own-tempo,regenerator,shell-armor,quick-draw,own-tempo,regenerator","Slowpoke,Slowpoke"
+0079,Slowpoke,"Water,Psychic,Psychic,Route 12,13,Seafoam Islands",1.2 m (3′11″),36.0 kg (79.4 lbs),"/ability/oblivious,/ability/own-tempo,/ability/regenerator,/ability/gluttony,/ability/own-tempo,/ability/regenerator","oblivious,own-tempo,regenerator,gluttony,own-tempo,regenerator","Slowpoke,Slowpoke"
+0078,Rapidash,"Fire,Psychic,Fairy,Route 28,Mt. Silver,Pewter City",1.7 m (5′07″),95.0 kg (209.4 lbs),"/ability/run-away,/ability/flash-fire,/ability/flame-body,/ability/run-away,/ability/pastel-veil,/ability/anticipation","run-away,flash-fire,flame-body,run-away,pastel-veil,anticipation","Ponyta,Rapidash,Ponyta,Rapidash"
+0077,Ponyta,"Fire,Psychic,Route 17",1.0 m (3′03″),30.0 kg (66.1 lbs),"/ability/run-away,/ability/flash-fire,/ability/flame-body,/ability/run-away,/ability/pastel-veil,/ability/anticipation","run-away,flash-fire,flame-body,run-away,pastel-veil,anticipation","Ponyta,Rapidash,Ponyta,Rapidash"
+0076,Golem,"Rock,Ground,Rock,Electric",1.4 m (4′07″),300.0 kg (661.4 lbs),"/ability/rock-head,/ability/sturdy,/ability/sand-veil,/ability/magnet-pull,/ability/sturdy,/ability/galvanize","rock-head,sturdy,sand-veil,magnet-pull,sturdy,galvanize","Geodude,Graveler,Golem,Geodude,Graveler,Golem"
+0075,Graveler,"Rock,Ground,Rock,Electric,Cerulean Cave,Victory Road",1.0 m (3′03″),105.0 kg (231.5 lbs),"/ability/rock-head,/ability/sturdy,/ability/sand-veil,/ability/magnet-pull,/ability/sturdy,/ability/galvanize","rock-head,sturdy,sand-veil,magnet-pull,sturdy,galvanize","Geodude,Graveler,Golem,Geodude,Graveler,Golem"
+0066,Machop,"Fighting,Route 10,Rock Tunnel",0.8 m (2′07″),19.5 kg (43.0 lbs),"/ability/guts,/ability/no-guard,/ability/steadfast","guts,no-guard,steadfast","Machop,Machoke,Machamp"
+0065,Alakazam,"Psychic,Psychic",1.5 m (4′11″),48.0 kg (105.8 lbs),"/ability/synchronize,/ability/inner-focus,/ability/magic-guard,/ability/trace,/pokedex/abra,/pokedex/kadabra","synchronize,inner-focus,magic-guard,trace,abra,kadabra","Abra,Kadabra,Alakazam"
+0064,Kadabra,"Psychic,Route 8",1.3 m (4′03″),56.5 kg (124.6 lbs),"/ability/synchronize,/ability/inner-focus,/ability/magic-guard,/pokedex/abra","synchronize,inner-focus,magic-guard,abra","Abra,Kadabra,Alakazam"
+0063,Abra,"Psychic,Route 5,6,7,8,Celadon City",0.9 m (2′11″),19.5 kg (43.0 lbs),"/ability/synchronize,/ability/inner-focus,/ability/magic-guard","synchronize,inner-focus,magic-guard","Abra,Kadabra,Alakazam"
+0062,Poliwrath,"Water,Fighting",1.3 m (4′03″),54.0 kg (119.0 lbs),"/ability/water-absorb,/ability/damp,/ability/swift-swim,/pokedex/poliwag,/pokedex/poliwhirl","water-absorb,damp,swift-swim,poliwag,poliwhirl","Poliwag,Poliwhirl"
+0061,Poliwhirl,"Water,Route 22,23",1.0 m (3′03″),20.0 kg (44.1 lbs),"/ability/water-absorb,/ability/damp,/ability/swift-swim","water-absorb,damp,swift-swim","Poliwag,Poliwhirl"
+0060,Poliwag,"Water,Route 6,22,28,30,31,35,44,Blackthorn City,Ecruteak City,Ilex Forest,Mt. Silver,Ruins of Alph,Violet City,Viridian City",0.6 m (2′00″),12.4 kg (27.3 lbs),"/ability/water-absorb,/ability/damp,/ability/swift-swim","water-absorb,damp,swift-swim","Poliwag,Poliwhirl"
+0059,Arcanine,"Fire,Fire,Rock",1.9 m (6′03″),155.0 kg (341.7 lbs),"/ability/intimidate,/ability/flash-fire,/ability/justified,/ability/intimidate,/ability/flash-fire,/ability/rock-head,/pokedex/growlithe","intimidate,flash-fire,justified,intimidate,flash-fire,rock-head,growlithe","Growlithe,Arcanine,Growlithe,Arcanine"
+0058,Growlithe,"Fire,Fire,Rock",0.7 m (2′04″),19.0 kg (41.9 lbs),"/ability/intimidate,/ability/flash-fire,/ability/justified,/ability/intimidate,/ability/flash-fire,/ability/rock-head","intimidate,flash-fire,justified,intimidate,flash-fire,rock-head","Growlithe,Arcanine,Growlithe,Arcanine"
+0057,Primeape,Fighting,1.0 m (3′03″),32.0 kg (70.5 lbs),"/ability/vital-spirit,/ability/anger-point,/ability/defiant","vital-spirit,anger-point,defiant","Mankey,Primeape,Annihilape"
+0056,Mankey,Fighting,0.5 m (1′08″),28.0 kg (61.7 lbs),"/ability/vital-spirit,/ability/anger-point,/ability/defiant","vital-spirit,anger-point,defiant","Mankey,Primeape,Annihilape"
+0055,Golduck,"Water,Route 6",1.7 m (5′07″),76.6 kg (168.9 lbs),"/ability/damp,/ability/cloud-nine,/ability/swift-swim","damp,cloud-nine,swift-swim","Psyduck,Golduck"
+0054,Psyduck,"Water,Route 6",0.8 m (2′07″),19.6 kg (43.2 lbs),"/ability/damp,/ability/cloud-nine,/ability/swift-swim","damp,cloud-nine,swift-swim","Psyduck,Golduck"
+0053,Persian,"Normal,Dark",1.0 m (3′03″),32.0 kg (70.5 lbs),"/ability/limber,/ability/technician,/ability/unnerve,/ability/fur-coat,/ability/technician,/ability/rattled","limber,technician,unnerve,fur-coat,technician,rattled","Meowth,Persian,Meowth,Persian,Meowth,Perrserker"
+0052,Meowth,"Normal,Dark,Steel,Route 5,6,7,8",0.4 m (1′04″),4.2 kg (9.3 lbs),"/ability/pickup,/ability/technician,/ability/unnerve,/ability/pickup,/ability/technician,/ability/rattled,/ability/pickup,/ability/tough-claws,/ability/unnerve","pickup,technician,unnerve,pickup,technician,rattled,pickup,tough-claws,unnerve","Meowth,Persian,Meowth,Persian,Meowth,Perrserker"
+0051,Dugtrio,"Ground,Ground,Steel,Route 11,Diglett's Cave",0.7 m (2′04″),33.3 kg (73.4 lbs),"/ability/sand-veil,/ability/arena-trap,/ability/sand-force,/ability/sand-veil,/ability/tangling-hair,/ability/sand-force","sand-veil,arena-trap,sand-force,sand-veil,tangling-hair,sand-force","Diglett,Dugtrio,Diglett,Dugtrio"
+0050,Diglett,"Ground,Ground,Steel,Diglett's Cave",0.2 m (0′08″),0.8 kg (1.8 lbs),"/ability/sand-veil,/ability/arena-trap,/ability/sand-force,/ability/sand-veil,/ability/tangling-hair,/ability/sand-force","sand-veil,arena-trap,sand-force,sand-veil,tangling-hair,sand-force","Diglett,Dugtrio,Diglett,Dugtrio"
+0049,Venomoth,"Bug,Poison,Route 14,15,Cerulean Cave",1.5 m (4′11″),12.5 kg (27.6 lbs),"/ability/shield-dust,/ability/tinted-lens,/ability/wonder-skin","shield-dust,tinted-lens,wonder-skin","Venonat,Venomoth"
+0048,Venonat,"Bug,Poison,Route 14,15,24,25",1.0 m (3′03″),30.0 kg (66.1 lbs),"/ability/compound-eyes,/ability/tinted-lens,/ability/run-away","compound-eyes,tinted-lens,run-away","Venonat,Venomoth"
+0047,Parasect,"Bug,Grass,Route 18,Cerulean Cave,Safari Zone",1.0 m (3′03″),29.5 kg (65.0 lbs),"/ability/effect-spore,/ability/dry-skin,/ability/damp","effect-spore,dry-skin,damp","Paras,Parasect"
+0045,Vileplume,"Grass,Poison",1.2 m (3′11″),18.6 kg (41.0 lbs),"/ability/chlorophyll,/ability/effect-spore","chlorophyll,effect-spore","Oddish,Gloom"
+0044,Gloom,"Grass,Poison",0.8 m (2′07″),8.6 kg (19.0 lbs),"/ability/chlorophyll,/ability/stench","chlorophyll,stench","Oddish,Gloom"
+0043,Oddish,"Grass,Poison",0.5 m (1′08″),5.4 kg (11.9 lbs),"/ability/chlorophyll,/ability/run-away","chlorophyll,run-away","Oddish,Gloom"
+0042,Golbat,"Poison,Flying,Dark Cave,Ice Path,Mt. Mortar,Mt. Silver,Slowpoke Well,Tohjo Falls,Union Cave,Whirl Islands,Victory Road",1.6 m (5′03″),55.0 kg (121.3 lbs),"/ability/inner-focus,/ability/infiltrator","inner-focus,infiltrator","Zubat,Golbat,Crobat"
+0041,Zubat,"Poison,Flying,Route 3,4,32,33,42,Burned Tower,Dark Cave,Ice Path,Ilex Forest,Mt. Moon,Mt. Mortar,Rock Tunnel,Slowpoke Well,Tohjo Falls,Union Cave,Whirl Islands",0.8 m (2′07″),7.5 kg (16.5 lbs),"/ability/inner-focus,/ability/infiltrator","inner-focus,infiltrator","Zubat,Golbat,Crobat"
+0040,Wigglytuff,"Normal,Fairy,Celadon City",1.0 m (3′03″),12.0 kg (26.5 lbs),"/ability/cute-charm,/ability/competitive,/ability/frisk","cute-charm,competitive,frisk","Igglybuff,Jigglypuff,Wigglytuff"
+0039,Jigglypuff,"Normal,Fairy,Route 5,6,7,8",0.5 m (1′08″),5.5 kg (12.1 lbs),"/ability/cute-charm,/ability/competitive,/ability/friend-guard","cute-charm,competitive,friend-guard","Igglybuff,Jigglypuff,Wigglytuff"
+0038,Ninetales,"Fire,Ice,Fairy",1.1 m (3′07″),19.9 kg (43.9 lbs),"/ability/flash-fire,/ability/drought,/ability/snow-cloak,/ability/snow-warning,/pokedex/vulpix","flash-fire,drought,snow-cloak,snow-warning,vulpix","Vulpix,Ninetales,Vulpix,Ninetales"
+0037,Vulpix,"Fire,Ice,Route 7,8,Pokémon Mansion",0.6 m (2′00″),9.9 kg (21.8 lbs),"/ability/flash-fire,/ability/drought,/ability/snow-cloak,/ability/snow-warning","flash-fire,drought,snow-cloak,snow-warning","Vulpix,Ninetales,Vulpix,Ninetales"
+0036,Clefable,Fairy,1.3 m (4′03″),40.0 kg (88.2 lbs),"/ability/cute-charm,/ability/magic-guard,/ability/unaware,/pokedex/clefairy,/pokedex/cleffa","cute-charm,magic-guard,unaware,clefairy,cleffa","Cleffa,Clefairy,Clefable"
+0035,Clefairy,"Fairy,Mt. Moon",0.6 m (2′00″),7.5 kg (16.5 lbs),"/ability/cute-charm,/ability/magic-guard,/ability/friend-guard","cute-charm,magic-guard,friend-guard","Cleffa,Clefairy,Clefable"
+0034,Nidoking,"Poison,Ground",1.4 m (4′07″),62.0 kg (136.7 lbs),"/ability/poison-point,/ability/rivalry,/ability/sheer-force,/pokedex/nidoran-m,/pokedex/nidorino","poison-point,rivalry,sheer-force,nidoran-m,nidorino","Nidoran♂,Nidorino,Nidoking"
+0033,Nidorino,"Poison,Celadon City,Safari Zone",0.9 m (2′11″),19.5 kg (43.0 lbs),"/ability/poison-point,/ability/rivalry,/ability/hustle","poison-point,rivalry,hustle","Nidoran♂,Nidorino,Nidoking"
+0032,Nidoran♂ (male),"Poison,Route 2,9,10,22,Safari Zone",0.5 m (1′08″),9.0 kg (19.8 lbs),"/ability/poison-point,/ability/rivalry,/ability/hustle","poison-point,rivalry,hustle","Nidoran♂,Nidorino,Nidoking"
+0031,Nidoqueen,"Poison,Ground",1.3 m (4′03″),60.0 kg (132.3 lbs),"/ability/poison-point,/ability/rivalry,/ability/sheer-force,/pokedex/nidoran-f,/pokedex/nidorina","poison-point,rivalry,sheer-force,nidoran-f,nidorina","Nidoran♀,Nidorina,Nidoqueen"
+0030,Nidorina,"Poison,Route 11,Safari Zone",0.8 m (2′07″),20.0 kg (44.1 lbs),"/ability/poison-point,/ability/rivalry,/ability/hustle","poison-point,rivalry,hustle","Nidoran♀,Nidorina,Nidoqueen"
+0029,Nidoran♀ (female),"Poison,Route 2,9,10,22,Safari Zone",0.4 m (1′04″),7.0 kg (15.4 lbs),"/ability/poison-point,/ability/rivalry,/ability/hustle","poison-point,rivalry,hustle","Nidoran♀,Nidorina,Nidoqueen"
+0028,Sandslash,"Ground,Ice,Steel,Route 23,Cerulean Cave",1.0 m (3′03″),29.5 kg (65.0 lbs),"/ability/sand-veil,/ability/sand-rush,/ability/snow-cloak,/ability/slush-rush","sand-veil,sand-rush,snow-cloak,slush-rush","Sandshrew,Sandslash,Sandshrew,Sandslash"
+0027,Sandshrew,"Ground,Ice,Steel,Route 4,8,9,10,11,23",0.6 m (2′00″),12.0 kg (26.5 lbs),"/ability/sand-veil,/ability/sand-rush,/ability/snow-cloak,/ability/slush-rush","sand-veil,sand-rush,snow-cloak,slush-rush","Sandshrew,Sandslash,Sandshrew,Sandslash"
+0026,Raichu,"Electric,Electric,Psychic,Cerulean Cave,Power Plant",0.8 m (2′07″),30.0 kg (66.1 lbs),"/ability/static,/ability/lightning-rod,/ability/surge-surfer,/pokedex/pikachu,/pokedex/pichu","static,lightning-rod,surge-surfer,pikachu,pichu","Pichu,Pikachu"
+0021,Spearow,"Normal,Flying,Route 3,4,9,16,18,22",0.3 m (1′00″),2.0 kg (4.4 lbs),"/ability/keen-eye,/ability/sniper","keen-eye,sniper","Spearow,Fearow"
+0020,Raticate,"Normal,Dark,Normal,Route 9,10,11,16,18,21,Pokémon Mansion",0.7 m (2′04″),18.5 kg (40.8 lbs),"/ability/run-away,/ability/guts,/ability/hustle,/ability/gluttony,/ability/hustle,/ability/thick-fat","run-away,guts,hustle,gluttony,hustle,thick-fat","Rattata,Raticate,Rattata,Raticate"
+0019,Rattata,"Normal,Dark,Normal,Route 1,2,3,4,5,6,7,8,9,10,11,16,18,21,22,Pokémon Mansion",0.3 m (1′00″),3.5 kg (7.7 lbs),"/ability/run-away,/ability/guts,/ability/hustle,/ability/gluttony,/ability/hustle,/ability/thick-fat","run-away,guts,hustle,gluttony,hustle,thick-fat","Rattata,Raticate,Rattata,Raticate"
+0018,Pidgeot,"Normal,Flying,Normal,Flying",1.5 m (4′11″),39.5 kg (87.1 lbs),"/ability/keen-eye,/ability/tangled-feet,/ability/big-pecks,/ability/no-guard,/pokedex/pidgey,/pokedex/pidgeotto","keen-eye,tangled-feet,big-pecks,no-guard,pidgey,pidgeotto","Pidgey,Pidgeotto,Pidgeot"
+0017,Pidgeotto,"Normal,Flying,Route 5,6,7,8,11,12,13,14,15,21,24,25,Viridian Forest",1.1 m (3′07″),30.0 kg (66.1 lbs),"/ability/keen-eye,/ability/tangled-feet,/ability/big-pecks","keen-eye,tangled-feet,big-pecks","Pidgey,Pidgeotto,Pidgeot"
+0016,Pidgey,"Normal,Flying,Route 1,2,5,6,7,8,11,12,13,21,24,25,Viridian Forest",0.3 m (1′00″),1.8 kg (4.0 lbs),"/ability/keen-eye,/ability/tangled-feet,/ability/big-pecks","keen-eye,tangled-feet,big-pecks","Pidgey,Pidgeotto,Pidgeot"
+0015,Beedrill,"Bug,Poison,Bug,Poison",1.0 m (3′03″),29.5 kg (65.0 lbs),"/ability/swarm,/ability/sniper,/ability/adaptability","swarm,sniper,adaptability","Weedle,Kakuna,Beedrill"
+0014,Kakuna,"Bug,Poison,Route 25,Viridian Forest",0.6 m (2′00″),10.0 kg (22.0 lbs),/ability/shed-skin,shed-skin,"Weedle,Kakuna,Beedrill"
